@@ -50,7 +50,7 @@ public class ChromeCrawler {
 			System.out.println(list.get(i));
 	}
 	
-	public List<String> scrape(String course) {
+	public List<String> coScrape(String course) {
 		siteDriver.get("http://enroll.dlsu.edu.ph/dlsu/view_actual_count");
 		siteDriver.findElement(By.name("p_course_code")).sendKeys(course);
 		siteDriver.findElement(By.name("p_course_code")).submit();
@@ -60,9 +60,6 @@ public class ChromeCrawler {
 		Document d = Jsoup.parse(tableText);
 		Elements e = d.select("tr");
 		List<String> listStrings = e.eachText();
-//		System.out.println("\t\tjsoup data (size=" + listStrings.size() + "):\n");
-//		printList(listStrings);
-		
 		return listStrings;
 	}
 	

@@ -37,7 +37,6 @@ public class CourseOfferingScraper {
 				for (int j = 0; j < courseOffers.get(i).size(); j++)
 					fw.append(courseOffers.get(i).get(j).toString() + "\n");	
 			}
-			fw.append("\t\tEND OF TABLE\n");
 			fw.close();
 			return true;
 		} catch (IOException e) {
@@ -87,8 +86,7 @@ public class CourseOfferingScraper {
 					try {
 						dump = Integer.parseInt(arrProf[0]);
 						dumperino = new SectionInfo(listRows.get(i));
-							// ^ fix patterns, you're passing a prof name when you're at the last table row
-							// idea: make a method that checks what fields are NULL
+						
 						if (!hasNull(dumperino))
 							courseOffers.get(courseOffers.size()-1).add(dumperino);
 					} catch (NumberFormatException eLevel1) {
