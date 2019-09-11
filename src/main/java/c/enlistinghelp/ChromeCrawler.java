@@ -40,6 +40,11 @@ public class ChromeCrawler {
 		siteDriver.findElement(By.name("btnK")).click();
 	}
 	
+	public void googleImgScrape(String query) {
+		googleSearch(query);
+		siteDriver.findElement(By.className("qs")).click();
+	}
+	
 	public void printList(List<String> list) {
 		for (int i = 0; i < list.size(); i++)
 			System.out.println(list.get(i));

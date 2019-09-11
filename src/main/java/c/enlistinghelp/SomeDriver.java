@@ -5,9 +5,10 @@ import java.io.*;
 
 public class SomeDriver {
 	public static void main(String[] args) {
-		
-		CourseOfferingScraper cos = new CourseOfferingScraper();
 		ChromeCrawler cc = new ChromeCrawler();
+		
+		/*
+		CourseOfferingScraper cos = new CourseOfferingScraper();
 		
 		String[] sis = "HUMAART\nMADSMAN\nMARKRTL\nMARKMGT\nBUSLAW2\nCSRGOVE\n".split("\n");
 		for (String sis1 : sis)
@@ -17,13 +18,10 @@ public class SomeDriver {
 //		cos.parseList(cc.scrape("CCINFOM"));
 		cc.pageWait(2);
 		cc.close();
-		cos.dispCOffers();
+//		cos.dispCOffers();
 		cos.writeTo("logtext1.txt");
 		
 		
-		/*
-		Scanner sc = new Scanner(System.in);
-		ChromeCrawler cc = new ChromeCrawler();
 		
 		try {
 			System.out.print("enter filename for animoSys: ");
@@ -34,14 +32,13 @@ public class SomeDriver {
 			cc.aSysAddClass(100);
 			
 		} catch (FileNotFoundException e) {
-			System.out.println("can't find file! this bad.\n" + e);
+			System.out.println("can't find file!\n" + e);
 		} catch (IOException e) {
 			System.out.println("file error! this bad.\n" + e);
 		}
-		
-		cc.googleSearch("cheese");
-		cc.pageWait(10);
-		cc.close();
 		*/
+		
+		cc.googleImgScrape("cheese");
+		
 	}
 }
