@@ -1,6 +1,7 @@
 package c.enlistinghelp;
 
 import java.time.LocalTime;
+import java.util.Arrays;
 
 public class SectionInfo {
 	private int classNmbr;
@@ -119,6 +120,12 @@ public class SectionInfo {
 	}
 	public String getProfessor() {
 		return professor;
+	}
+	
+	public void appendRooms(String newR) {
+		String[] newRooms = Arrays.copyOf(rooms, rooms.length+1);
+		newRooms[rooms.length] = newR;
+		rooms = newRooms;
 	}
 	
 	@Override
