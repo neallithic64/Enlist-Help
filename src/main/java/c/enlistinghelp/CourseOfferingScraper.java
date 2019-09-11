@@ -30,10 +30,14 @@ public class CourseOfferingScraper {
 	
 	public boolean writeTo(String filename) {
 		try {
-			FileWriter fw = new FileWriter(filename, true);
-			
-			
-			
+			FileWriter fw = new FileWriter(filename, false);
+			fw.append("\t\tSTART DispCourOff:\n\n");
+			for (int i = 0; i < courseOffers.size(); i++) {
+				fw.append("\t\tretrieving classes for " + courseOffers.get(i).get(0).getCourseCode() + "...\n");
+				for (int j = 0; j < courseOffers.get(i).size(); j++)
+					fw.append(courseOffers.get(i).get(j).toString() + "\n");	
+			}
+			fw.append("\t\tEND OF TABLE\n");
 			fw.close();
 			return true;
 		} catch (IOException e) {
