@@ -4,7 +4,9 @@
 Class Info of #1889:
 Course Code: HUMAART
 Section: A51
-Time: TH 09:15-10:45
+Time: T 09:15-10:45
+Room: SM406
+Time: H 09:15-10:45
 Room: SM406
 Class Size: 30/30
 Professor: MONTES, TIMOTHY RAMOS
@@ -12,7 +14,9 @@ Professor: MONTES, TIMOTHY RAMOS
 Class Info of #1888:
 Course Code: HUMAART
 Section: A52
-Time: MW 14:30-16:00
+Time: M 14:30-16:00
+Room: SM406
+Time: W 14:30-16:00
 Room: SM406
 Class Size: 31/30
 Professor: ARGUELLES, MESANDEL VIRTUSIO
@@ -20,15 +24,19 @@ Professor: ARGUELLES, MESANDEL VIRTUSIO
 Class Info of #4047:
 Course Code: HUMAART
 Section: A53
-Time: MW 11:00-12:30
+Time: M 11:00-12:30
 Room: LS321
-Class Size: 21/43
+Time: W 11:00-12:30
+Room: LS321
+Class Size: 23/43
 Professor: WRIGHT, MA. TERESA HILADO
 
 Class Info of #976:
 Course Code: HUMAART
 Section: C31
-Time: TH 07:30-09:00
+Time: T 07:30-09:00
+Room: AG707
+Time: H 07:30-09:00
 Room: AG707
 Class Size: 25/25
 Professor: MILITANTE, CLARISSA VILLASIN
@@ -37,24 +45,30 @@ Remarks: HYBRID
 Class Info of #1893:
 Course Code: HUMAART
 Section: C32
-Time: MW 07:30-09:00
+Time: M 07:30-09:00
 Room: AG707
-Class Size: 24/25
+Time: W 07:30-09:00
+Room: AG707
+Class Size: 25/25
 Professor: MENDEZ, MARIO LAGRIMAS
 Remarks: HYBRID
 
 Class Info of #1892:
 Course Code: HUMAART
 Section: C33
-Time: MW 11:00-12:30
+Time: M 11:00-12:30
 Room: AG911
-Class Size: 24/25
+Time: W 11:00-12:30
+Room: AG911
+Class Size: 25/25
 Professor: BALGOS, ANNE RICHIE GARCIA
 
 Class Info of #1891:
 Course Code: HUMAART
 Section: EQ
-Time: TH 16:15-17:45
+Time: T 16:15-17:45
+Room: VL308
+Time: H 16:15-17:45
 Room: VL308
 Class Size: 45/45
 Professor: PE, CRIS BARBRA
@@ -62,7 +76,9 @@ Professor: PE, CRIS BARBRA
 Class Info of #1890:
 Course Code: HUMAART
 Section: N01
-Time: MW 07:30-09:00
+Time: M 07:30-09:00
+Room: AG1707
+Time: W 07:30-09:00
 Room: AG1707
 Class Size: 40/43
 Professor: SIMON, TANYA KATRINA SEVILLA
@@ -72,7 +88,9 @@ Remarks: HYBRID
 Class Info of #2506:
 Course Code: MADSMAN
 Section: K31
-Time: TH 11:00-12:30
+Time: T 11:00-12:30
+Room: LS111
+Time: H 11:00-12:30
 Room: LS111
 Class Size: 44/43
 Professor: CU, BENISON YAP
@@ -80,7 +98,9 @@ Professor: CU, BENISON YAP
 Class Info of #2507:
 Course Code: MADSMAN
 Section: K51
-Time: TH 12:45-14:15
+Time: T 12:45-14:15
+Room: LS110
+Time: H 12:45-14:15
 Room: LS110
 Class Size: 43/43
 Professor: CU, BENISON YAP
@@ -89,7 +109,9 @@ Professor: CU, BENISON YAP
 Class Info of #2606:
 Course Code: MARKRTL
 Section: K31
-Time: TH 09:15-10:45
+Time: T 09:15-10:45
+Room: AG702
+Time: H 09:15-10:45
 Room: AG702
 Class Size: 34/43
 Professor: BALARBAR, MARY JULIE VALERIO
@@ -97,7 +119,9 @@ Professor: BALARBAR, MARY JULIE VALERIO
 Class Info of #2607:
 Course Code: MARKRTL
 Section: K51
-Time: TH 11:00-12:30
+Time: T 11:00-12:30
+Room: AG702
+Time: H 11:00-12:30
 Room: AG702
 Class Size: 35/43
 Professor: BALARBAR, MARY JULIE VALERIO
@@ -106,7 +130,9 @@ Professor: BALARBAR, MARY JULIE VALERIO
 Class Info of #3169:
 Course Code: MARKMGT
 Section: K31
-Time: TH 12:45-14:15
+Time: T 12:45-14:15
+Room: SM307
+Time: H 12:45-14:15
 Room: SM307
 Class Size: 43/43
 Professor: SADHWANI, RAJAN SATRAMDAS
@@ -114,7 +140,9 @@ Professor: SADHWANI, RAJAN SATRAMDAS
 Class Info of #3168:
 Course Code: MARKMGT
 Section: K51
-Time: TH 14:30-16:00
+Time: T 14:30-16:00
+Room: SJ210
+Time: H 14:30-16:00
 Room: SJ210
 Class Size: 43/43
 Professor: SADHWANI, RAJAN SATRAMDAS
@@ -123,7 +151,9 @@ Professor: SADHWANI, RAJAN SATRAMDAS
 Class Info of #2773:
 Course Code: BUSLAW2
 Section: K31
-Time: MW 12:45-14:15
+Time: M 12:45-14:15
+Room: LS309
+Time: W 12:45-14:15
 Room: LS309
 Class Size: 35/35
 Professor: JO, ARVIN ALCANAR
@@ -131,7 +161,9 @@ Professor: JO, ARVIN ALCANAR
 Class Info of #2774:
 Course Code: BUSLAW2
 Section: K32
-Time: MW 14:30-16:00
+Time: M 14:30-16:00
+Room: LS309
+Time: W 14:30-16:00
 Room: LS309
 Class Size: 35/35
 Professor: JO, ARVIN ALCANAR
@@ -139,7 +171,9 @@ Professor: JO, ARVIN ALCANAR
 Class Info of #2775:
 Course Code: BUSLAW2
 Section: K33
-Time: TH 12:45-14:15
+Time: T 12:45-14:15
+Room: LS334
+Time: H 12:45-14:15
 Room: LS334
 Class Size: 36/35
 Professor: JO, ARVIN ALCANAR
@@ -147,7 +181,9 @@ Professor: JO, ARVIN ALCANAR
 Class Info of #2776:
 Course Code: BUSLAW2
 Section: K34
-Time: TH 18:00-19:30
+Time: T 18:00-19:30
+Room: LS309
+Time: H 18:00-19:30
 Room: LS309
 Class Size: 35/35
 Professor: VICTORIANO, MICHAEL GERARD TINDOG
@@ -155,7 +191,9 @@ Professor: VICTORIANO, MICHAEL GERARD TINDOG
 Class Info of #2777:
 Course Code: BUSLAW2
 Section: K35
-Time: TH 19:45-21:15
+Time: T 19:45-21:15
+Room: LS334
+Time: H 19:45-21:15
 Room: LS334
 Class Size: 35/35
 Professor: HUNG, KELVIN YU
@@ -163,7 +201,9 @@ Professor: HUNG, KELVIN YU
 Class Info of #2778:
 Course Code: BUSLAW2
 Section: K51
-Time: TH 16:15-17:45
+Time: T 16:15-17:45
+Room: SM409
+Time: H 16:15-17:45
 Room: SM409
 Class Size: 35/35
 Professor: VICTORIANO, MICHAEL GERARD TINDOG
@@ -171,7 +211,9 @@ Professor: VICTORIANO, MICHAEL GERARD TINDOG
 Class Info of #1282:
 Course Code: BUSLAW2
 Section: V24
-Time: MW 14:30-16:00
+Time: M 14:30-16:00
+Room: LS226
+Time: W 14:30-16:00
 Room: LS226
 Class Size: 22/30
 Professor: ROS, REYNALDO GONZALO
@@ -180,23 +222,29 @@ Professor: ROS, REYNALDO GONZALO
 Class Info of #3185:
 Course Code: CSRGOVE
 Section: K31
-Time: TH 07:30-09:00
+Time: T 07:30-09:00
 Room: LS333
-Class Size: 41/43
+Time: H 07:30-09:00
+Room: LS333
+Class Size: 42/43
 Professor: TRAJANO, ALEXANDER CHAN
 
 Class Info of #3184:
 Course Code: CSRGOVE
 Section: K32
-Time: TH 14:30-16:00
+Time: T 14:30-16:00
 Room: AG709
-Class Size: 45/43
+Time: H 14:30-16:00
+Room: AG709
+Class Size: 44/43
 Professor: BALATBAT, MARICEL SUAREZ
 
 Class Info of #3183:
 Course Code: CSRGOVE
 Section: K33
-Time: TH 12:45-14:15
+Time: T 12:45-14:15
+Room: LS227
+Time: H 12:45-14:15
 Room: LS227
 Class Size: 44/43
 Professor: BALATBAT, MARICEL SUAREZ
@@ -204,327 +252,19 @@ Professor: BALATBAT, MARICEL SUAREZ
 Class Info of #4079:
 Course Code: CSRGOVE
 Section: K34
-Time: MW 14:30-16:00
+Time: M 14:30-16:00
 Room: LS302
-Class Size: 6/43
+Time: W 14:30-16:00
+Room: LS302
+Class Size: 4/43
 
 Class Info of #3182:
 Course Code: CSRGOVE
 Section: K51
-Time: MW 14:30-16:00
+Time: M 14:30-16:00
+Room: LS313
+Time: W 14:30-16:00
 Room: LS313
 Class Size: 43/43
 Professor: FUMAR, LIZA MAE LUMAWAG
 
-		retrieving classes for GEDANCE...
-Class Info of #3227:
-Course Code: GEDANCE
-Section: A51
-Time: M 07:30-09:30
-Room: ER804
-Class Size: 37/43
-Professor: CACHOLA-MIÑAS, GERALDINE
-
-Class Info of #3226:
-Course Code: GEDANCE
-Section: A52
-Time: M 13:00-15:00
-Room: ER804
-Class Size: 43/43
-Professor: CACHOLA-MIÑAS, GERALDINE
-
-Class Info of #3225:
-Course Code: GEDANCE
-Section: A53
-Time: M 15:30-17:30
-Room: ER804
-Class Size: 43/43
-Professor: CACHOLA-MIÑAS, GERALDINE
-
-Class Info of #3222:
-Course Code: GEDANCE
-Section: A54
-Time: T 07:30-09:30
-Room: ER804
-Class Size: 43/43
-Professor: CORDOVA, MA. SOCORRO GIGI VILLAMOR
-
-Class Info of #3216:
-Course Code: GEDANCE
-Section: A55
-Time: T 13:00-15:00
-Room: ER804
-Class Size: 43/43
-Professor: ORIBIANA, DIONISIO MERCADO
-
-Class Info of #3215:
-Course Code: GEDANCE
-Section: A56
-Time: T 15:30-17:30
-Room: ER804
-Class Size: 43/43
-Professor: TAPANG, MARGARITA VELARDE
-
-Class Info of #3221:
-Course Code: GEDANCE
-Section: A57
-Time: W 07:30-09:30
-Room: ER804
-Class Size: 43/43
-Professor: CORDOVA, MA. SOCORRO GIGI VILLAMOR
-
-Class Info of #3219:
-Course Code: GEDANCE
-Section: A58
-Time: W 13:00-15:00
-Room: ER804
-Class Size: 43/43
-Professor: FRIGILLANA, AHLI ILUSTRE
-
-Class Info of #3214:
-Course Code: GEDANCE
-Section: A59
-Time: W 15:30-17:30
-Room: ER804
-Class Size: 42/43
-Professor: TAPANG, MARGARITA VELARDE
-
-Class Info of #3218:
-Course Code: GEDANCE
-Section: A60
-Time: H 07:30-09:30
-Room: ER804
-Class Size: 43/43
-Professor: IRINCO, MARIA CARINA TUMALE
-
-Class Info of #3220:
-Course Code: GEDANCE
-Section: A61
-Time: H 13:00-15:00
-Room: ER804
-Class Size: 43/43
-Professor: CORDOVA, MA. SOCORRO GIGI VILLAMOR
-
-Class Info of #3217:
-Course Code: GEDANCE
-Section: A62
-Time: H 15:30-17:30
-Room: ER804
-Class Size: 43/43
-Professor: OLARTE, CHRISTOPHER POGOY
-
-Class Info of #3213:
-Course Code: GEDANCE
-Section: A63
-Time: H 07:30-09:30
-Room: ER1004
-Class Size: 43/43
-Professor: TOLDOYA, JACKLYN ANNE DIMATULAC
-
-Class Info of #3244:
-Course Code: GEDANCE
-Section: C31
-Time: M 07:30-09:30
-Room: ER7B
-Class Size: 37/43
-Professor: CACHOLA-MIÑAS, GERALDINE
-
-Class Info of #3243:
-Course Code: GEDANCE
-Section: C32
-Time: M 10:00-12:00
-Room: ER1001
-Class Size: 43/43
-Professor: TOLDOYA, JACKLYN ANNE DIMATULAC
-
-Class Info of #3242:
-Course Code: GEDANCE
-Section: C33
-Time: T 07:30-09:30
-Room: ER1001
-Class Size: 41/43
-Professor: SAMSON, MARIJOY REGALA
-
-Class Info of #3241:
-Course Code: GEDANCE
-Section: C34
-Time: T 10:00-12:00
-Room: ER7A
-Class Size: 42/43
-Professor: ORIBIANA, DIONISIO MERCADO
-
-Class Info of #3240:
-Course Code: GEDANCE
-Section: C35
-Time: T 10:00-12:00
-Room: ER1004
-Class Size: 42/43
-Professor: DIOQUINO, AUREA DICHOSO
-
-Class Info of #3239:
-Course Code: GEDANCE
-Section: C36
-Time: W 10:00-12:00
-Room: ER7B
-Class Size: 43/43
-Professor: DOMINGO, JOHN PAUL RANCES
-
-Class Info of #3238:
-Course Code: GEDANCE
-Section: C37
-Time: W 10:00-12:00
-Room: ER804
-Class Size: 43/43
-Professor: FRIGILLANA, AHLI ILUSTRE
-
-Class Info of #3237:
-Course Code: GEDANCE
-Section: C38
-Time: W 10:00-12:00
-Room: ER1001
-Class Size: 43/43
-Professor: RODRIGUEZ, CAROL BERGONIA
-
-Class Info of #3236:
-Course Code: GEDANCE
-Section: C39
-Time: W 13:00-15:00
-Room: ER7A
-Class Size: 43/43
-Professor: RODRIGUEZ, CAROL BERGONIA
-
-Class Info of #3235:
-Course Code: GEDANCE
-Section: C40
-Time: W 15:30-17:30
-Room: ER1004
-Class Size: 43/43
-Professor: DOMINGO, JOHN PAUL RANCES
-
-Class Info of #3234:
-Course Code: GEDANCE
-Section: C41
-Time: H 10:00-12:00
-Room: ER804
-Class Size: 43/43
-Professor: CORDOVA, MA. SOCORRO GIGI VILLAMOR
-
-Class Info of #3233:
-Course Code: GEDANCE
-Section: C42
-Time: H 10:00-12:00
-Room: ER1004
-Class Size: 42/43
-
-Class Info of #3232:
-Course Code: GEDANCE
-Section: C43
-Time: F 07:30-09:30
-Room: ER804
-Class Size: 42/43
-Professor: IRINCO, MARIA CARINA TUMALE
-
-Class Info of #945:
-Course Code: GEDANCE
-Section: C44
-Time: F 10:00-12:00
-Room: ER1004
-Class Size: 43/43
-Professor: SAMSON, MARIJOY REGALA
-
-Class Info of #3211:
-Course Code: GEDANCE
-Section: L81
-Time: T 13:00-15:00
-Room: ER1004
-Class Size: 43/43
-Professor: DIOQUINO, AUREA DICHOSO
-
-Class Info of #3210:
-Course Code: GEDANCE
-Section: L82
-Time: T 07:30-09:30
-Room: ER1004
-Class Size: 29/43
-Professor: DIOQUINO, AUREA DICHOSO
-
-Class Info of #3209:
-Course Code: GEDANCE
-Section: L83
-Time: W 07:30-09:30
-Room: ER1004
-Class Size: 34/43
-Professor: DOMINGO, JOHN PAUL RANCES
-
-Class Info of #3212:
-Course Code: GEDANCE
-Section: L84
-Time: M 07:30-09:30
-Room: ER1004
-Class Size: 4/43
-Professor: IRINCO, MARIA CARINA TUMALE
-
-Class Info of #3230:
-Course Code: GEDANCE
-Section: S11
-Time: M 15:30-17:30
-Room: ER1004
-Class Size: 43/43
-
-Class Info of #3204:
-Course Code: GEDANCE
-Section: S12
-Time: M 13:00-15:00
-Room: ER1004
-Class Size: 43/43
-
-Class Info of #3229:
-Course Code: GEDANCE
-Section: S13
-Time: W 13:00-15:00
-Room: ER1004
-Class Size: 43/43
-
-Class Info of #3228:
-Course Code: GEDANCE
-Section: S14
-Time: W 15:30-17:30
-Room: ER1001
-Class Size: 43/43
-
-Class Info of #3203:
-Course Code: GEDANCE
-Section: S15
-Time: H 15:30-17:30
-Room: ER1004
-Class Size: 43/43
-
-Class Info of #3224:
-Course Code: GEDANCE
-Section: S16
-Time: H 13:00-15:00
-Room: ER1004
-Class Size: 43/43
-
-Class Info of #3223:
-Course Code: GEDANCE
-Section: S17
-Time: T 15:30-17:30
-Room: ER1001
-Class Size: 43/43
-
-Class Info of #3208:
-Course Code: GEDANCE
-Section: V24
-Time: H 07:30-09:30
-Room: ER1001
-Class Size: 39/43
-
-Class Info of #3207:
-Course Code: GEDANCE
-Section: V25
-Time: H 15:30-17:30
-Room: ER1001
-Class Size: 44/43
-
-		END OF TABLE

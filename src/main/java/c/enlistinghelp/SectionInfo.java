@@ -56,7 +56,7 @@ public class SectionInfo {
 	}
 	public SectionInfo(String data) {
 		String[] arrInfo = data.split(" ");
-		rooms = new String[] {};
+		rooms = new String[] {""};
 		if (arrInfo.length >= 10) {
 			classNmbr = Integer.parseInt(arrInfo[0]);
 			courseCode = arrInfo[1];
@@ -64,7 +64,11 @@ public class SectionInfo {
 			days = arrInfo[3].toCharArray();
 			startTime = LocalTime.of(Integer.parseInt(arrInfo[4].substring(0, 2)), Integer.parseInt(arrInfo[4].substring(2)));
 			endTime = LocalTime.of(Integer.parseInt(arrInfo[6].substring(0, 2)), Integer.parseInt(arrInfo[6].substring(2)));
+			
+			
 			rooms[0] = arrInfo[7];
+			
+			
 			capacity = Integer.parseInt(arrInfo[8]);
 			size = Integer.parseInt(arrInfo[9]);
 			professor = null;
@@ -123,11 +127,9 @@ public class SectionInfo {
 				+ "Course Code: " + courseCode + "\n"
 				+ "Section: " + section + "\n";
 		
-		/* don't forget to handle multiple rooms later on */
-		for (int i = 0; i < days.length; i++) {
+		for (int i = 0; i < days.length; i++)
 			strData += "Time: " + days[i] + " " + startTime.toString() + "-" + endTime.toString() + "\n"
-					+ "Room: " + rooms[0] + "\n";
-		}
+						+ "\tRoom: " + rooms[i] + "\n";
 		
 		strData += "Class Size: " + size + "/" + capacity + "\n";
 		if (professor != null)
