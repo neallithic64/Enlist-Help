@@ -268,3 +268,373 @@ Time: W 14:30-16:00
 Class Size: 43/43
 Professor: FUMAR, LIZA MAE LUMAWAG
 
+		retrieving classes for GEDANCE...
+Class Info of #3227:
+Course Code: GEDANCE
+Section: A51
+Time: M 07:30-09:30
+	Room: ER804
+Class Size: 37/43
+Professor: CACHOLA-MIÑAS, GERALDINE
+
+Class Info of #3226:
+Course Code: GEDANCE
+Section: A52
+Time: M 13:00-15:00
+	Room: ER804
+Class Size: 43/43
+Professor: CACHOLA-MIÑAS, GERALDINE
+
+Class Info of #3225:
+Course Code: GEDANCE
+Section: A53
+Time: M 15:30-17:30
+	Room: ER804
+Class Size: 43/43
+Professor: CACHOLA-MIÑAS, GERALDINE
+
+Class Info of #3222:
+Course Code: GEDANCE
+Section: A54
+Time: T 07:30-09:30
+	Room: ER804
+Class Size: 43/43
+Professor: CORDOVA, MA. SOCORRO GIGI VILLAMOR
+
+Class Info of #3216:
+Course Code: GEDANCE
+Section: A55
+Time: T 13:00-15:00
+	Room: ER804
+Class Size: 43/43
+Professor: ORIBIANA, DIONISIO MERCADO
+
+Class Info of #3215:
+Course Code: GEDANCE
+Section: A56
+Time: T 15:30-17:30
+	Room: ER804
+Class Size: 43/43
+Professor: TAPANG, MARGARITA VELARDE
+
+Class Info of #3221:
+Course Code: GEDANCE
+Section: A57
+Time: W 07:30-09:30
+	Room: ER804
+Class Size: 43/43
+Professor: CORDOVA, MA. SOCORRO GIGI VILLAMOR
+
+Class Info of #3219:
+Course Code: GEDANCE
+Section: A58
+Time: W 13:00-15:00
+	Room: ER804
+Class Size: 43/43
+Professor: FRIGILLANA, AHLI ILUSTRE
+
+Class Info of #3214:
+Course Code: GEDANCE
+Section: A59
+Time: W 15:30-17:30
+	Room: ER804
+Class Size: 41/43
+Professor: TAPANG, MARGARITA VELARDE
+
+Class Info of #3218:
+Course Code: GEDANCE
+Section: A60
+Time: H 07:30-09:30
+	Room: ER804
+Class Size: 43/43
+Professor: IRINCO, MARIA CARINA TUMALE
+
+Class Info of #3220:
+Course Code: GEDANCE
+Section: A61
+Time: H 13:00-15:00
+	Room: ER804
+Class Size: 43/43
+Professor: CORDOVA, MA. SOCORRO GIGI VILLAMOR
+
+Class Info of #3217:
+Course Code: GEDANCE
+Section: A62
+Time: H 15:30-17:30
+	Room: ER804
+Class Size: 43/43
+Professor: OLARTE, CHRISTOPHER POGOY
+
+Class Info of #3213:
+Course Code: GEDANCE
+Section: A63
+Time: H 07:30-09:30
+	Room: ER1004
+Class Size: 43/43
+Professor: TOLDOYA, JACKLYN ANNE DIMATULAC
+
+Class Info of #3244:
+Course Code: GEDANCE
+Section: C31
+Time: M 07:30-09:30
+	Room: ER7B
+Class Size: 38/43
+Professor: CACHOLA-MIÑAS, GERALDINE
+
+Class Info of #3243:
+Course Code: GEDANCE
+Section: C32
+Time: M 10:00-12:00
+	Room: ER1001
+Class Size: 43/43
+Professor: TOLDOYA, JACKLYN ANNE DIMATULAC
+
+Class Info of #3242:
+Course Code: GEDANCE
+Section: C33
+Time: T 07:30-09:30
+	Room: ER1001
+Class Size: 39/43
+Professor: SAMSON, MARIJOY REGALA
+
+Class Info of #3241:
+Course Code: GEDANCE
+Section: C34
+Time: T 10:00-12:00
+	Room: ER7A
+Class Size: 41/43
+Professor: ORIBIANA, DIONISIO MERCADO
+
+Class Info of #3240:
+Course Code: GEDANCE
+Section: C35
+Time: T 10:00-12:00
+	Room: ER1004
+Class Size: 42/43
+Professor: DIOQUINO, AUREA DICHOSO
+
+Class Info of #3239:
+Course Code: GEDANCE
+Section: C36
+Time: W 10:00-12:00
+	Room: ER7B
+Class Size: 43/43
+Professor: DOMINGO, JOHN PAUL RANCES
+
+Class Info of #3238:
+Course Code: GEDANCE
+Section: C37
+Time: W 10:00-12:00
+	Room: ER804
+Class Size: 43/43
+Professor: FRIGILLANA, AHLI ILUSTRE
+
+Class Info of #3237:
+Course Code: GEDANCE
+Section: C38
+Time: W 10:00-12:00
+	Room: ER1001
+Class Size: 43/43
+Professor: RODRIGUEZ, CAROL BERGONIA
+
+Class Info of #3236:
+Course Code: GEDANCE
+Section: C39
+Time: W 13:00-15:00
+	Room: ER7A
+Class Size: 43/43
+Professor: RODRIGUEZ, CAROL BERGONIA
+
+Class Info of #3235:
+Course Code: GEDANCE
+Section: C40
+Time: W 15:30-17:30
+	Room: ER1004
+Class Size: 43/43
+Professor: DOMINGO, JOHN PAUL RANCES
+
+Class Info of #3234:
+Course Code: GEDANCE
+Section: C41
+Time: H 10:00-12:00
+	Room: ER804
+Class Size: 43/43
+Professor: CORDOVA, MA. SOCORRO GIGI VILLAMOR
+
+Class Info of #3233:
+Course Code: GEDANCE
+Section: C42
+Time: H 10:00-12:00
+	Room: ER1004
+Class Size: 43/43
+
+Class Info of #3232:
+Course Code: GEDANCE
+Section: C43
+Time: F 07:30-09:30
+	Room: ER804
+Class Size: 43/43
+Professor: IRINCO, MARIA CARINA TUMALE
+
+Class Info of #945:
+Course Code: GEDANCE
+Section: C44
+Time: F 10:00-12:00
+	Room: ER1004
+Class Size: 43/43
+Professor: SAMSON, MARIJOY REGALA
+
+Class Info of #3211:
+Course Code: GEDANCE
+Section: L81
+Time: T 13:00-15:00
+	Room: ER1004
+Class Size: 43/43
+Professor: DIOQUINO, AUREA DICHOSO
+
+Class Info of #3210:
+Course Code: GEDANCE
+Section: L82
+Time: T 07:30-09:30
+	Room: ER1004
+Class Size: 29/43
+Professor: DIOQUINO, AUREA DICHOSO
+
+Class Info of #3209:
+Course Code: GEDANCE
+Section: L83
+Time: W 07:30-09:30
+	Room: ER1004
+Class Size: 33/43
+Professor: DOMINGO, JOHN PAUL RANCES
+
+Class Info of #3212:
+Course Code: GEDANCE
+Section: L84
+Time: M 07:30-09:30
+	Room: ER1004
+Class Size: 4/43
+Professor: IRINCO, MARIA CARINA TUMALE
+
+Class Info of #3230:
+Course Code: GEDANCE
+Section: S11
+Time: M 15:30-17:30
+	Room: ER1004
+Class Size: 43/43
+
+Class Info of #3204:
+Course Code: GEDANCE
+Section: S12
+Time: M 13:00-15:00
+	Room: ER1004
+Class Size: 43/43
+
+Class Info of #3229:
+Course Code: GEDANCE
+Section: S13
+Time: W 13:00-15:00
+	Room: ER1004
+Class Size: 43/43
+
+Class Info of #3228:
+Course Code: GEDANCE
+Section: S14
+Time: W 15:30-17:30
+	Room: ER1001
+Class Size: 43/43
+
+Class Info of #3203:
+Course Code: GEDANCE
+Section: S15
+Time: H 15:30-17:30
+	Room: ER1004
+Class Size: 43/43
+
+Class Info of #3224:
+Course Code: GEDANCE
+Section: S16
+Time: H 13:00-15:00
+	Room: ER1004
+Class Size: 43/43
+
+Class Info of #3223:
+Course Code: GEDANCE
+Section: S17
+Time: T 15:30-17:30
+	Room: ER1001
+Class Size: 43/43
+
+Class Info of #3208:
+Course Code: GEDANCE
+Section: V24
+Time: H 07:30-09:30
+	Room: ER1001
+Class Size: 38/43
+
+Class Info of #3207:
+Course Code: GEDANCE
+Section: V25
+Time: H 15:30-17:30
+	Room: ER1001
+Class Size: 44/43
+Professor: CALABIO, VIRGILIA TOHOY
+
+		retrieving classes for CCINFOM...
+Class Info of #3625:
+Course Code: CCINFOM
+Section: N01
+Time: T 14:30-16:00
+	Room: GK302B
+Time: H 14:30-16:00
+	Room: GK302B
+Class Size: 17/20
+
+Class Info of #2565:
+Course Code: CCINFOM
+Section: S11
+Time: M 09:15-10:45
+	Room: GK302A
+Time: W 09:15-10:45
+	Room: GK302A
+Class Size: 42/45
+Professor: MALABANAN, OLIVER ARCIAGA
+
+Class Info of #992:
+Course Code: CCINFOM
+Section: S12
+Time: M 11:00-12:30
+	Room: GK306A
+Time: W 11:00-12:30
+	Room: GK306A
+Class Size: 38/45
+Professor: MALABANAN, OLIVER ARCIAGA
+
+Class Info of #2566:
+Course Code: CCINFOM
+Section: S13
+Time: T 11:00-12:30
+	Room: GK304B
+Class Size: 45/45
+Professor: MALABANAN, OLIVER ARCIAGA
+
+Class Info of #2567:
+Course Code: CCINFOM
+Section: S14
+Time: T 14:30-16:00
+	Room: GK304B
+Time: H 14:30-16:00
+	Room: GK304B
+Class Size: 44/45
+Professor: MALABANAN, OLIVER ARCIAGA
+
+Class Info of #1751:
+Course Code: CCINFOM
+Section: S15
+Time: T 12:45-14:15
+	Room: GK304B
+Time: H 12:45-14:15
+	Room: GK304B
+Class Size: 43/45
+Professor: TANGKEKO, MARIVIC SANTOS
+

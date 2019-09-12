@@ -127,6 +127,12 @@ public class SectionInfo {
 			appendRooms(rooms[0]);
 	}
 	
+	public void appendDays(char newD) {
+		char[] newDays = Arrays.copyOf(days, days.length+1);
+		newDays[days.length] = newD;
+		days = newDays;
+	}
+	
 	public void appendRooms(String newR) {
 		String[] newRooms = Arrays.copyOf(rooms, rooms.length+1);
 		newRooms[rooms.length] = newR;

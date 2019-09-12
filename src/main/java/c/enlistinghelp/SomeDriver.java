@@ -2,25 +2,28 @@ package c.enlistinghelp;
 
 import java.util.Scanner;
 import java.io.*;
+import org.openqa.selenium.NoSuchElementException;
 
 public class SomeDriver {
 	public static void main(String[] args) {
 		ChromeCrawler cc = new ChromeCrawler();
-		
 		CourseOfferingScraper cos = new CourseOfferingScraper();
 		
-		String[] sampSer = "HUMAART\nMADSMAN\nMARKRTL\nMARKMGT\nBUSLAW2\nCSRGOVE\n".split("\n");
-		for (String sampSer1 : sampSer)
-			cos.parseList(cc.coScrape(sampSer1));
-		
-/*		cos.parseList(cc.coScrape("GEDANCE"));
-		cos.parseList(cc.coScrape("CCINFOM"));
-*/		cc.pageWait(2);
-		cc.close();
-		cos.dispCOffers();
-		cos.writeTo("logtext1.txt");
-		
-		
+		try {
+			String[] sampSer = "HUMAART\nMADSMAN\nMARKRTL\nMARKMGT\nBUSLAW2\nCSRGOVE\n".split("\n");
+			for (String sampSer1 : sampSer)
+				cos.parseList(cc.coScrape(sampSer1));
+
+			cos.parseList(cc.coScrape("GEDANCE"));
+			cos.parseList(cc.coScrape("CCINFOM"));
+			cc.pageWait(2);
+			cc.close();
+			cos.dispCOffers();
+			cos.writeTo("logtext1.txt");
+		} catch (NoSuchElementException e) {
+			System.out.println("it's 2am! site's down :(");
+			cc.close();
+		}
 		/*
 		try {
 			System.out.print("enter filename for animoSys: ");

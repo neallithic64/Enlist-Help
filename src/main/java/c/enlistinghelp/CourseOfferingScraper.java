@@ -125,7 +125,9 @@ public class CourseOfferingScraper {
 						courseOffers.get(courseOffers.size()-1).get(courseOffers.get(courseOffers.size()-1).size()-1).fixRooms();
 					} else {
 						// append to last section!
-						System.out.println("\t\tPROBLEM CASE!! let's fix this");
+						System.out.println("\t\tappending...");
+						courseOffers.get(courseOffers.size()-1).get(courseOffers.get(courseOffers.size()-1).size()-1).appendRooms(tempStr[4]);
+						courseOffers.get(courseOffers.size()-1).get(courseOffers.get(courseOffers.size()-1).size()-1).appendDays(tempStr[0].charAt(0));
 					}
 				} else
 					System.out.println("\t\tlaguna campus ignored!");
