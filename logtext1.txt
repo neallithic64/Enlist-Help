@@ -5,9 +5,9 @@ Class Info of #1889:
 Course Code: HUMAART
 Section: A51
 Time: T 09:15-10:45
-Room: SM406
+	Room: SM406
 Time: H 09:15-10:45
-Room: SM406
+	Room: SM406
 Class Size: 30/30
 Professor: MONTES, TIMOTHY RAMOS
 
@@ -15,9 +15,9 @@ Class Info of #1888:
 Course Code: HUMAART
 Section: A52
 Time: M 14:30-16:00
-Room: SM406
+	Room: SM406
 Time: W 14:30-16:00
-Room: SM406
+	Room: SM406
 Class Size: 31/30
 Professor: ARGUELLES, MESANDEL VIRTUSIO
 
@@ -25,19 +25,19 @@ Class Info of #4047:
 Course Code: HUMAART
 Section: A53
 Time: M 11:00-12:30
-Room: LS321
+	Room: LS321
 Time: W 11:00-12:30
-Room: LS321
-Class Size: 23/43
+	Room: LS321
+Class Size: 27/43
 Professor: WRIGHT, MA. TERESA HILADO
 
 Class Info of #976:
 Course Code: HUMAART
 Section: C31
 Time: T 07:30-09:00
-Room: AG707
+	Room: AG707
 Time: H 07:30-09:00
-Room: AG707
+	Room: AG707
 Class Size: 25/25
 Professor: MILITANTE, CLARISSA VILLASIN
 Remarks: HYBRID
@@ -46,9 +46,9 @@ Class Info of #1893:
 Course Code: HUMAART
 Section: C32
 Time: M 07:30-09:00
-Room: AG707
+	Room: AG707
 Time: W 07:30-09:00
-Room: AG707
+	Room: AG707
 Class Size: 25/25
 Professor: MENDEZ, MARIO LAGRIMAS
 Remarks: HYBRID
@@ -57,9 +57,9 @@ Class Info of #1892:
 Course Code: HUMAART
 Section: C33
 Time: M 11:00-12:30
-Room: AG911
+	Room: AG911
 Time: W 11:00-12:30
-Room: AG911
+	Room: AG911
 Class Size: 25/25
 Professor: BALGOS, ANNE RICHIE GARCIA
 
@@ -67,20 +67,20 @@ Class Info of #1891:
 Course Code: HUMAART
 Section: EQ
 Time: T 16:15-17:45
-Room: VL308
+	Room: VL308
 Time: H 16:15-17:45
-Room: VL308
-Class Size: 45/45
+	Room: VL308
+Class Size: 44/45
 Professor: PE, CRIS BARBRA
 
 Class Info of #1890:
 Course Code: HUMAART
 Section: N01
 Time: M 07:30-09:00
-Room: AG1707
+	Room: AG1707
 Time: W 07:30-09:00
-Room: AG1707
-Class Size: 40/43
+	Room: AG1707
+Class Size: 39/43
 Professor: SIMON, TANYA KATRINA SEVILLA
 Remarks: HYBRID
 
@@ -89,9 +89,9 @@ Class Info of #2506:
 Course Code: MADSMAN
 Section: K31
 Time: T 11:00-12:30
-Room: LS111
+	Room: LS111
 Time: H 11:00-12:30
-Room: LS111
+	Room: LS111
 Class Size: 44/43
 Professor: CU, BENISON YAP
 
@@ -99,10 +99,10 @@ Class Info of #2507:
 Course Code: MADSMAN
 Section: K51
 Time: T 12:45-14:15
-Room: LS110
+	Room: LS110
 Time: H 12:45-14:15
-Room: LS110
-Class Size: 43/43
+	Room: LS110
+Class Size: 45/45
 Professor: CU, BENISON YAP
 
 		retrieving classes for MARKRTL...
@@ -110,9 +110,9 @@ Class Info of #2606:
 Course Code: MARKRTL
 Section: K31
 Time: T 09:15-10:45
-Room: AG702
+	Room: AG702
 Time: H 09:15-10:45
-Room: AG702
+	Room: AG702
 Class Size: 34/43
 Professor: BALARBAR, MARY JULIE VALERIO
 
@@ -120,9 +120,9 @@ Class Info of #2607:
 Course Code: MARKRTL
 Section: K51
 Time: T 11:00-12:30
-Room: AG702
+	Room: AG702
 Time: H 11:00-12:30
-Room: AG702
+	Room: AG702
 Class Size: 35/43
 Professor: BALARBAR, MARY JULIE VALERIO
 
@@ -131,9 +131,9 @@ Class Info of #3169:
 Course Code: MARKMGT
 Section: K31
 Time: T 12:45-14:15
-Room: SM307
+	Room: SM307
 Time: H 12:45-14:15
-Room: SM307
+	Room: SM307
 Class Size: 43/43
 Professor: SADHWANI, RAJAN SATRAMDAS
 
@@ -141,9 +141,9 @@ Class Info of #3168:
 Course Code: MARKMGT
 Section: K51
 Time: T 14:30-16:00
-Room: SJ210
+	Room: SJ210
 Time: H 14:30-16:00
-Room: SJ210
+	Room: SJ210
 Class Size: 43/43
 Professor: SADHWANI, RAJAN SATRAMDAS
 
@@ -152,9 +152,9 @@ Class Info of #2773:
 Course Code: BUSLAW2
 Section: K31
 Time: M 12:45-14:15
-Room: LS309
+	Room: LS309
 Time: W 12:45-14:15
-Room: LS309
+	Room: LS309
 Class Size: 35/35
 Professor: JO, ARVIN ALCANAR
 
@@ -162,9 +162,9 @@ Class Info of #2774:
 Course Code: BUSLAW2
 Section: K32
 Time: M 14:30-16:00
-Room: LS309
+	Room: LS309
 Time: W 14:30-16:00
-Room: LS309
+	Room: LS309
 Class Size: 35/35
 Professor: JO, ARVIN ALCANAR
 
@@ -172,9 +172,9 @@ Class Info of #2775:
 Course Code: BUSLAW2
 Section: K33
 Time: T 12:45-14:15
-Room: LS334
+	Room: LS334
 Time: H 12:45-14:15
-Room: LS334
+	Room: LS334
 Class Size: 36/35
 Professor: JO, ARVIN ALCANAR
 
@@ -182,9 +182,9 @@ Class Info of #2776:
 Course Code: BUSLAW2
 Section: K34
 Time: T 18:00-19:30
-Room: LS309
+	Room: LS309
 Time: H 18:00-19:30
-Room: LS309
+	Room: LS309
 Class Size: 35/35
 Professor: VICTORIANO, MICHAEL GERARD TINDOG
 
@@ -192,19 +192,19 @@ Class Info of #2777:
 Course Code: BUSLAW2
 Section: K35
 Time: T 19:45-21:15
-Room: LS334
+	Room: LS334
 Time: H 19:45-21:15
-Room: LS334
-Class Size: 35/35
+	Room: LS334
+Class Size: 34/35
 Professor: HUNG, KELVIN YU
 
 Class Info of #2778:
 Course Code: BUSLAW2
 Section: K51
 Time: T 16:15-17:45
-Room: SM409
+	Room: SM409
 Time: H 16:15-17:45
-Room: SM409
+	Room: SM409
 Class Size: 35/35
 Professor: VICTORIANO, MICHAEL GERARD TINDOG
 
@@ -212,10 +212,10 @@ Class Info of #1282:
 Course Code: BUSLAW2
 Section: V24
 Time: M 14:30-16:00
-Room: LS226
+	Room: LS226
 Time: W 14:30-16:00
-Room: LS226
-Class Size: 22/30
+	Room: LS226
+Class Size: 23/30
 Professor: ROS, REYNALDO GONZALO
 
 		retrieving classes for CSRGOVE...
@@ -223,48 +223,48 @@ Class Info of #3185:
 Course Code: CSRGOVE
 Section: K31
 Time: T 07:30-09:00
-Room: LS333
+	Room: LS333
 Time: H 07:30-09:00
-Room: LS333
-Class Size: 42/43
+	Room: LS333
+Class Size: 43/43
 Professor: TRAJANO, ALEXANDER CHAN
 
 Class Info of #3184:
 Course Code: CSRGOVE
 Section: K32
 Time: T 14:30-16:00
-Room: AG709
+	Room: AG709
 Time: H 14:30-16:00
-Room: AG709
-Class Size: 44/43
+	Room: AG709
+Class Size: 45/45
 Professor: BALATBAT, MARICEL SUAREZ
 
 Class Info of #3183:
 Course Code: CSRGOVE
 Section: K33
 Time: T 12:45-14:15
-Room: LS227
+	Room: LS227
 Time: H 12:45-14:15
-Room: LS227
-Class Size: 44/43
+	Room: LS227
+Class Size: 45/45
 Professor: BALATBAT, MARICEL SUAREZ
 
 Class Info of #4079:
 Course Code: CSRGOVE
 Section: K34
 Time: M 14:30-16:00
-Room: LS302
+	Room: LS302
 Time: W 14:30-16:00
-Room: LS302
+	Room: LS302
 Class Size: 4/43
 
 Class Info of #3182:
 Course Code: CSRGOVE
 Section: K51
 Time: M 14:30-16:00
-Room: LS313
+	Room: LS313
 Time: W 14:30-16:00
-Room: LS313
+	Room: LS313
 Class Size: 43/43
 Professor: FUMAR, LIZA MAE LUMAWAG
 

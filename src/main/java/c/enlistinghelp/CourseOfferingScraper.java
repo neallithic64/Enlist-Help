@@ -64,7 +64,7 @@ public class CourseOfferingScraper {
 	
 	*/
 	
-	public void parseList(List<String> listRows) {
+/*	public void parseList(List<String> listRows) {
 		int dump;
 		String s1, s2;
 		String[] arrProf, arrClass;
@@ -102,10 +102,36 @@ public class CourseOfferingScraper {
 							System.out.println("END OF TABLE");
 						}
 					}
-//					System.out.println(courseOffers.get(courseOffers.size()-1));
 				}
 			} else {
 				System.out.println("\t\t\tEND!");
+			}
+		}
+	}
+*/	
+	public void parseList(List<String> listRows) {
+		String[] tempStr;
+		SectionInfo tempSecIn;
+		courseOffers.add(new ArrayList<>());
+		
+		for (int i = 1; i < listRows.size(); i++) {
+			if (!listRows.get(i).contains(",")) { // checking if NOT a prof name
+				tempStr = listRows.get(i).split(" ");
+				if (tempStr[2].charAt(0) != 'X') { // checking if NOT a laguna campus
+					tempSecIn = new SectionInfo(listRows.get(i));
+					if (tempStr.length >= 10) {
+						// new SectionInfo
+						courseOffers.get(courseOffers.size()-1).add(tempSecIn);
+						courseOffers.get(courseOffers.size()-1).get(courseOffers.get(courseOffers.size()-1).size()-1).fixRooms();
+					} else {
+						// append to last section!
+						System.out.println("\t\tPROBLEM CASE!! let's fix this");
+					}
+				} else
+					System.out.println("\t\tlaguna campus ignored!");
+			} else {
+				// prof name found! add to last class!
+				courseOffers.get(courseOffers.size()-1).get(courseOffers.get(courseOffers.size()-1).size()-1).setProfessor(listRows.get(i));
 			}
 		}
 	}

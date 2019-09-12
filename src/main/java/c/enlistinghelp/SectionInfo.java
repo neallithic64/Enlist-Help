@@ -65,11 +65,7 @@ public class SectionInfo {
 			days = arrInfo[3].toCharArray();
 			startTime = LocalTime.of(Integer.parseInt(arrInfo[4].substring(0, 2)), Integer.parseInt(arrInfo[4].substring(2)));
 			endTime = LocalTime.of(Integer.parseInt(arrInfo[6].substring(0, 2)), Integer.parseInt(arrInfo[6].substring(2)));
-			
-			
 			rooms[0] = arrInfo[7];
-			
-			
 			capacity = Integer.parseInt(arrInfo[8]);
 			size = Integer.parseInt(arrInfo[9]);
 			professor = null;
@@ -120,6 +116,15 @@ public class SectionInfo {
 	}
 	public String getProfessor() {
 		return professor;
+	}
+	
+	public void setProfessor(String prof) {
+		professor = prof;
+	}
+	
+	public void fixRooms() {
+		while (days.length > rooms.length)
+			appendRooms(rooms[0]);
 	}
 	
 	public void appendRooms(String newR) {
