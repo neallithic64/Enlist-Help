@@ -1,5 +1,6 @@
 package c.enlistinghelp;
 
+import java.io.BufferedReader;
 import java.time.LocalTime;
 import java.util.ArrayList;
 import java.util.List;
@@ -26,6 +27,34 @@ public class CourseOfferingScraper {
 			for (int j = 0; j < courseOffers.get(i).size(); j++)
 				System.out.println(courseOffers.get(i).get(j));	
 		}
+	}
+	
+	public void dispFlow(ArrayList<String[]> arrFlow) {
+		System.out.println("\t\tDISPLAYING FLOWCHART COURSE CODES:");
+		for (int i = 0; i < arrFlow.size(); i++) {
+			System.out.println("\t\tCodes for Term " + (i+1) + ":");
+			for (String get : arrFlow.get(i))
+				System.out.println("\t" + get);
+		}
+	}
+	
+	public ArrayList<String[]> readCourseCode(BufferedReader inFile) {
+		ArrayList<String[]> data = new ArrayList<>();
+		try {
+			int termCount = Integer.parseInt(inFile.readLine());
+			for (int i = 0; i < termCount; i++) {
+				int courseCount = Integer.parseInt(inFile.readLine());
+				String temp = "";
+				for (int j = 0; j < courseCount; j++)
+					temp += inFile.readLine() + " ";
+				data.add(temp.split(" "));
+			}
+		} catch (NumberFormatException e) {
+			System.out.println("NFE, flowchart.txt has wrong format");
+		} catch (IOException e) {
+			System.out.println("IOE, idk, you're probs at the end of the file.");
+		}
+		return data;
 	}
 	
 	public boolean writeTo(String filename) {

@@ -2,6 +2,7 @@ package c.enlistinghelp;
 
 import java.util.Scanner;
 import java.io.*;
+import java.util.ArrayList;
 import org.openqa.selenium.NoSuchElementException;
 
 public class SomeDriver {
@@ -10,26 +11,38 @@ public class SomeDriver {
 		CourseOfferingScraper cos = new CourseOfferingScraper();
 		
 		try {
-			String[] sampSer = "HUMAART\nMADSMAN\nMARKRTL\nMARKMGT\nBUSLAW2\nCSRGOVE\n".split("\n");
+			BufferedReader brFlow = new BufferedReader(new InputStreamReader(new FileInputStream("flowchartTest.txt")));
+			ArrayList<String[]> samp1 = cos.readCourseCode(brFlow);
+			cos.dispFlow(samp1);
+			
+			if (samp1.size() != 1)
+				for (int i = 0; i < samp1.size(); i++)
+					for (String get : samp1.get(i)) {
+						cos.parseList(cc.coScrape(get));
+				}
+			
+/*			String[] sampSer = "HUMAART\nMADSMAN\nMARKRTL\nMARKMGT\nBUSLAW2\nCSRGOVE\n".split("\n");
 			for (String sampSer1 : sampSer)
 				cos.parseList(cc.coScrape(sampSer1));
 
 			cos.parseList(cc.coScrape("GEDANCE"));
 			cos.parseList(cc.coScrape("CCINFOM"));
 			cc.pageWait(2);
-			cc.close();
+*/			cc.close();
 			cos.dispCOffers();
 			cos.writeTo("logtext1.txt");
 		} catch (NoSuchElementException e) {
 			System.out.println("it's 2am! site's down :(");
 			cc.close();
+		} catch (FileNotFoundException e) {
+			System.out.println("can't find file!\n" + e);
 		}
-		/*
+		
 		try {
 			System.out.print("enter filename for animoSys: ");
-			BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("login.txt")));
-			cc.animoSysLogIn(br.readLine(), br.readLine());
-			br.close();
+			BufferedReader brLogin = new BufferedReader(new InputStreamReader(new FileInputStream("login.txt")));
+			cc.animoSysLogIn(brLogin.readLine(), brLogin.readLine());
+			brLogin.close();
 			
 			cc.aSysAddClass(100);
 			
@@ -42,6 +55,6 @@ public class SomeDriver {
 		
 		cc.googleImgScrape("cheese");
 		cc.close();
-		*/
+		
 	}
 }

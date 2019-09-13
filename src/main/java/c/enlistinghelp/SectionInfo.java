@@ -155,7 +155,7 @@ public class SectionInfo {
 	public void appendRooms(String newR) {
 		if (days.length == rooms.length) {
 			for (int i = 0; i < rooms.length; i++)
-				rooms[i] += " and " + newR;
+				rooms[i] += ", " + newR;
 		} else {
 			String[] newRooms = Arrays.copyOf(rooms, rooms.length+1);
 			newRooms[rooms.length] = newR;
