@@ -64,51 +64,6 @@ public class CourseOfferingScraper {
 	
 	*/
 	
-/*	public void parseList(List<String> listRows) {
-		int dump;
-		String s1, s2;
-		String[] arrProf, arrClass;
-		SectionInfo dumperino;
-		courseOffers.add(new ArrayList<>());
-		for (int i = 1; i < listRows.size(); i++) {
-			try {
-				s1 = listRows.get(i+1);
-				s2 = listRows.get(i);
-			} catch (IndexOutOfBoundsException e) {
-				s1 = "STOP";
-				s2 = "STOP";
-			}
-			arrProf = s1.split(" ");
-			arrClass = s2.split(" ");
-			
-			if (arrClass[0].compareTo("STOP") != 0) {
-				if (arrClass[2].charAt(0) != 'X') {
-					try {
-						dump = Integer.parseInt(arrProf[0]);
-						dumperino = new SectionInfo(listRows.get(i));
-						
-						if (!hasNull(dumperino))
-							courseOffers.get(courseOffers.size()-1).add(dumperino);
-					} catch (NumberFormatException eLevel1) {
-						dumperino = new SectionInfo(listRows.get(i), listRows.get(i+1));
-						courseOffers.get(courseOffers.size()-1).add(dumperino);
-						i++;
-					} catch (IndexOutOfBoundsException eLevel1) {
-						try {
-							dump = Integer.parseInt(arrProf[0]);
-							dumperino = new SectionInfo(listRows.get(i));
-							courseOffers.get(courseOffers.size()-1).add(dumperino);
-						} catch (NumberFormatException eLevel2) {
-							System.out.println("END OF TABLE");
-						}
-					}
-				}
-			} else {
-				System.out.println("\t\t\tEND!");
-			}
-		}
-	}
-*/	
 	public void parseList(List<String> listRows) {
 		String[] tempStr;
 		SectionInfo tempSecIn;
@@ -126,8 +81,8 @@ public class CourseOfferingScraper {
 					} else {
 						// append to last section!
 						System.out.println("\t\tappending...");
+						courseOffers.get(courseOffers.size()-1).get(courseOffers.get(courseOffers.size()-1).size()-1).appendDays(tempStr[0]);
 						courseOffers.get(courseOffers.size()-1).get(courseOffers.get(courseOffers.size()-1).size()-1).appendRooms(tempStr[4]);
-						courseOffers.get(courseOffers.size()-1).get(courseOffers.get(courseOffers.size()-1).size()-1).appendDays(tempStr[0].charAt(0));
 					}
 				} else
 					System.out.println("\t\tlaguna campus ignored!");

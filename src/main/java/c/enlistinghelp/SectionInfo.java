@@ -70,7 +70,7 @@ public class SectionInfo {
 			size = Integer.parseInt(arrInfo[9]);
 			professor = null;
 		} else {
-			System.out.println("arrInfo length" + arrInfo.length + "containing: " + data);
+			System.out.println("arrInfo length " + arrInfo.length + " containing: " + data);
 		}
 		
 		if (arrInfo.length == 11) {
@@ -127,16 +127,40 @@ public class SectionInfo {
 			appendRooms(rooms[0]);
 	}
 	
-	public void appendDays(char newD) {
-		char[] newDays = Arrays.copyOf(days, days.length+1);
-		newDays[days.length] = newD;
-		days = newDays;
+	/* algo (basing from CCINFOM):
+	- case 1: tempStr[0] (day) has already exists in last SectionInfo entry
+		- concatenate new rooms
+	- case 2: tempStr[0] (day) doesn't yet exist in last SectionInfo entry
+		- add new day entry, as well as new room
+	*/
+	
+	private boolean hasDDupe(char c) {
+		for (int i = 0; i < days.length; i++)
+			if (c == days[i])
+				return true;
+		return false;
+	}
+	
+	public void appendDays(String newD) {
+		if (newD.length() > 0) {
+			for (int i = 0; i < newD.length(); i++)
+				if (!hasDDupe(newD.charAt(i))) {
+					char[] newDays = Arrays.copyOf(days, days.length + 1);
+					newDays[days.length + i] = newD.charAt(i);
+					days = newDays;
+				}
+		}
 	}
 	
 	public void appendRooms(String newR) {
-		String[] newRooms = Arrays.copyOf(rooms, rooms.length+1);
-		newRooms[rooms.length] = newR;
-		rooms = newRooms;
+		if (days.length == rooms.length) {
+			for (int i = 0; i < rooms.length; i++)
+				rooms[i] += " and " + newR;
+		} else {
+			String[] newRooms = Arrays.copyOf(rooms, rooms.length+1);
+			newRooms[rooms.length] = newR;
+			rooms = newRooms;
+		}
 	}
 	
 	@Override

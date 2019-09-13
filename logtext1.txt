@@ -28,7 +28,7 @@ Time: M 11:00-12:30
 	Room: LS321
 Time: W 11:00-12:30
 	Room: LS321
-Class Size: 27/43
+Class Size: 29/43
 Professor: WRIGHT, MA. TERESA HILADO
 
 Class Info of #976:
@@ -60,7 +60,7 @@ Time: M 11:00-12:30
 	Room: AG911
 Time: W 11:00-12:30
 	Room: AG911
-Class Size: 25/25
+Class Size: 24/25
 Professor: BALGOS, ANNE RICHIE GARCIA
 
 Class Info of #1891:
@@ -80,7 +80,7 @@ Time: M 07:30-09:00
 	Room: AG1707
 Time: W 07:30-09:00
 	Room: AG1707
-Class Size: 39/43
+Class Size: 40/43
 Professor: SIMON, TANYA KATRINA SEVILLA
 Remarks: HYBRID
 
@@ -92,7 +92,7 @@ Time: T 11:00-12:30
 	Room: LS111
 Time: H 11:00-12:30
 	Room: LS111
-Class Size: 44/43
+Class Size: 45/45
 Professor: CU, BENISON YAP
 
 Class Info of #2507:
@@ -175,7 +175,7 @@ Time: T 12:45-14:15
 	Room: LS334
 Time: H 12:45-14:15
 	Room: LS334
-Class Size: 36/35
+Class Size: 37/37
 Professor: JO, ARVIN ALCANAR
 
 Class Info of #2776:
@@ -215,7 +215,7 @@ Time: M 14:30-16:00
 	Room: LS226
 Time: W 14:30-16:00
 	Room: LS226
-Class Size: 23/30
+Class Size: 24/30
 Professor: ROS, REYNALDO GONZALO
 
 		retrieving classes for CSRGOVE...
@@ -265,7 +265,7 @@ Time: M 14:30-16:00
 	Room: LS313
 Time: W 14:30-16:00
 	Room: LS313
-Class Size: 43/43
+Class Size: 42/43
 Professor: FUMAR, LIZA MAE LUMAWAG
 
 		retrieving classes for GEDANCE...
@@ -306,7 +306,7 @@ Course Code: GEDANCE
 Section: A55
 Time: T 13:00-15:00
 	Room: ER804
-Class Size: 43/43
+Class Size: 44/43
 Professor: ORIBIANA, DIONISIO MERCADO
 
 Class Info of #3215:
@@ -338,7 +338,7 @@ Course Code: GEDANCE
 Section: A59
 Time: W 15:30-17:30
 	Room: ER804
-Class Size: 41/43
+Class Size: 42/43
 Professor: TAPANG, MARGARITA VELARDE
 
 Class Info of #3218:
@@ -370,7 +370,7 @@ Course Code: GEDANCE
 Section: A63
 Time: H 07:30-09:30
 	Room: ER1004
-Class Size: 43/43
+Class Size: 41/43
 Professor: TOLDOYA, JACKLYN ANNE DIMATULAC
 
 Class Info of #3244:
@@ -394,7 +394,7 @@ Course Code: GEDANCE
 Section: C33
 Time: T 07:30-09:30
 	Room: ER1001
-Class Size: 39/43
+Class Size: 41/43
 Professor: SAMSON, MARIJOY REGALA
 
 Class Info of #3241:
@@ -402,7 +402,7 @@ Course Code: GEDANCE
 Section: C34
 Time: T 10:00-12:00
 	Room: ER7A
-Class Size: 41/43
+Class Size: 40/43
 Professor: ORIBIANA, DIONISIO MERCADO
 
 Class Info of #3240:
@@ -466,7 +466,7 @@ Course Code: GEDANCE
 Section: C42
 Time: H 10:00-12:00
 	Room: ER1004
-Class Size: 43/43
+Class Size: 42/43
 
 Class Info of #3232:
 Course Code: GEDANCE
@@ -513,7 +513,7 @@ Course Code: GEDANCE
 Section: L84
 Time: M 07:30-09:30
 	Room: ER1004
-Class Size: 4/43
+Class Size: 3/43
 Professor: IRINCO, MARIA CARINA TUMALE
 
 Class Info of #3230:
@@ -594,9 +594,9 @@ Class Info of #2565:
 Course Code: CCINFOM
 Section: S11
 Time: M 09:15-10:45
-	Room: GK302A
+	Room: GK302A and GK302B
 Time: W 09:15-10:45
-	Room: GK302A
+	Room: GK302A and GK302B
 Class Size: 42/45
 Professor: MALABANAN, OLIVER ARCIAGA
 
@@ -604,9 +604,9 @@ Class Info of #992:
 Course Code: CCINFOM
 Section: S12
 Time: M 11:00-12:30
-	Room: GK306A
+	Room: GK306A and GK306B
 Time: W 11:00-12:30
-	Room: GK306A
+	Room: GK306A and GK306B
 Class Size: 38/45
 Professor: MALABANAN, OLIVER ARCIAGA
 
@@ -615,6 +615,8 @@ Course Code: CCINFOM
 Section: S13
 Time: T 11:00-12:30
 	Room: GK304B
+Time: H 11:00-12:30
+	Room: AG1904
 Class Size: 45/45
 Professor: MALABANAN, OLIVER ARCIAGA
 
