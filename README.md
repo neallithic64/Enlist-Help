@@ -3,4 +3,6 @@ This is a tool I made initially to scrape from my university's Course Offerings 
 
 This is written in JDK 12.0.1, using Apache NetBeans IDE 11.0. Dependencies used (so far) are Maven 2.4, Selenium-Java 2.44.0, and JSoup 1.12.1.
 
+Current version in development: 0.2
+
 Download link (.jar): WIP
