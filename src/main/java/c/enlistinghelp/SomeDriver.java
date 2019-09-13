@@ -20,15 +20,15 @@ public class SomeDriver {
 					for (String get : samp1.get(i)) {
 						cos.parseList(cc.coScrape(get));
 				}
-			
-/*			String[] sampSer = "HUMAART\nMADSMAN\nMARKRTL\nMARKMGT\nBUSLAW2\nCSRGOVE\n".split("\n");
+			brFlow.close();
+			String[] sampSer = "HUMAART\nMADSMAN\nMARKRTL\nMARKMGT\nBUSLAW2\nCSRGOVE\n".split("\n");
 			for (String sampSer1 : sampSer)
 				cos.parseList(cc.coScrape(sampSer1));
 
 			cos.parseList(cc.coScrape("GEDANCE"));
 			cos.parseList(cc.coScrape("CCINFOM"));
 			cc.pageWait(2);
-*/			cc.close();
+			cc.close();
 			cos.dispCOffers();
 			cos.writeTo("logtext1.txt");
 		} catch (NoSuchElementException e) {
@@ -36,9 +36,12 @@ public class SomeDriver {
 			cc.close();
 		} catch (FileNotFoundException e) {
 			System.out.println("can't find file!\n" + e);
+		} catch (IOException e) {
+			System.out.println("something wrong here");
+			cc.close();
 		}
 		
-		try {
+/*		try {
 			System.out.print("enter filename for animoSys: ");
 			BufferedReader brLogin = new BufferedReader(new InputStreamReader(new FileInputStream("login.txt")));
 			cc.animoSysLogIn(brLogin.readLine(), brLogin.readLine());
@@ -55,6 +58,6 @@ public class SomeDriver {
 		
 		cc.googleImgScrape("cheese");
 		cc.close();
-		
+*/		
 	}
 }

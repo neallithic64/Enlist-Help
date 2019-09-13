@@ -22,11 +22,10 @@ public class CourseOfferingScraper {
 	
 	public void dispCOffers() {
 		System.out.println("\n\n\n\t\tSTART DispCourOff:");
-		for (int i = 0; i < courseOffers.size(); i++) {
-			System.out.println("\t\tretrieving classes for " + courseOffers.get(i).get(0).getCourseCode() + "...\n");
-			for (int j = 0; j < courseOffers.get(i).size(); j++)
-				System.out.println(courseOffers.get(i).get(j));	
-		}
+		for (int i = 0; i < courseOffers.size(); i++)
+			if (courseOffers.get(i).size() > 0)
+				for (int j = 0; j < courseOffers.get(i).size(); j++)
+					System.out.println(courseOffers.get(i).get(j));
 	}
 	
 	public void dispFlow(ArrayList<String[]> arrFlow) {
@@ -61,11 +60,12 @@ public class CourseOfferingScraper {
 		try {
 			FileWriter fw = new FileWriter(filename, false);
 			fw.append("\t\tSTART DispCourOff:\n\n");
-			for (int i = 0; i < courseOffers.size(); i++) {
-				fw.append("\t\tretrieving classes for " + courseOffers.get(i).get(0).getCourseCode() + "...\n");
-				for (int j = 0; j < courseOffers.get(i).size(); j++)
-					fw.append(courseOffers.get(i).get(j).toString() + "\n");	
-			}
+			for (int i = 0; i < courseOffers.size(); i++)
+				if (courseOffers.get(i).size() > 0) {
+					fw.append("\t\tretrieving classes for " + courseOffers.get(i).get(0).getCourseCode() + "...\n");
+					for (int j = 0; j < courseOffers.get(i).size(); j++)
+						fw.append(courseOffers.get(i).get(j).toString() + "\n");
+				}
 			fw.close();
 			return true;
 		} catch (IOException e) {
@@ -79,19 +79,6 @@ public class CourseOfferingScraper {
 				si.getSection() == null ||
 				si.getDays() == null;
 	}
-	
-	/*
-	
-	algo for extracting String data into a SectionInfo class, for passing to constructor
-	- get the List<String> output from the crawler (already done)
-	- each element under List<String> is a row in the table of the table from the course offerings
-	- take each List element (row) and the next one
-		- (CHECK IF NEXT ROW STARTS WITH A NUMBER, ELSE IT'S PROBS A PROF NAME)
-			- for this, maybe do try-catch, catching NumberFormatException
-	- then use String[] = String.split(" ") to get each item, converting them into each field of the SectionInfo
-	- then pass them all into the constructor
-	
-	*/
 	
 	public void parseList(List<String> listRows) {
 		String[] tempStr;
@@ -109,12 +96,10 @@ public class CourseOfferingScraper {
 						courseOffers.get(courseOffers.size()-1).get(courseOffers.get(courseOffers.size()-1).size()-1).fixRooms();
 					} else {
 						// append to last section!
-						System.out.println("\t\tappending...");
 						courseOffers.get(courseOffers.size()-1).get(courseOffers.get(courseOffers.size()-1).size()-1).appendDays(tempStr[0]);
 						courseOffers.get(courseOffers.size()-1).get(courseOffers.get(courseOffers.size()-1).size()-1).appendRooms(tempStr[4]);
 					}
-				} else
-					System.out.println("\t\tlaguna campus ignored!");
+				}
 			} else {
 				// prof name found! add to last class!
 				courseOffers.get(courseOffers.size()-1).get(courseOffers.get(courseOffers.size()-1).size()-1).setProfessor(listRows.get(i));

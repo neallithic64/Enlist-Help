@@ -16,45 +16,6 @@ public class SectionInfo {
 	private String remarks;
 	private String professor;
 	
-	public SectionInfo(int classNmbr, String courseCode, String section, char[] days, LocalTime startTime, LocalTime endTime, String[] rooms, int capacity, int size, String remarks, String professor) {
-		this.classNmbr = classNmbr;
-		this.courseCode = courseCode;
-		this.section = section;
-		this.days = days;
-		this.startTime = startTime;
-		this.endTime = endTime;
-		this.rooms = rooms;
-		this.capacity = capacity;
-		this.size = size;
-		this.remarks = remarks;
-		this.professor = professor;
-	}
-	public SectionInfo(int classNmbr, String courseCode, String section, char[] days, LocalTime startTime, LocalTime endTime, String[] rooms, int capacity, int size, String professor) {
-		this.classNmbr = classNmbr;
-		this.courseCode = courseCode;
-		this.section = section;
-		this.days = days;
-		this.startTime = startTime;
-		this.endTime = endTime;
-		this.rooms = rooms;
-		this.capacity = capacity;
-		this.size = size;
-		this.remarks = null;
-		this.professor = professor;
-	}
-	public SectionInfo(int classNmbr, String courseCode, String section, char[] days, LocalTime startTime, LocalTime endTime, String[] rooms, int capacity, int size) {
-		this.classNmbr = classNmbr;
-		this.courseCode = courseCode;
-		this.section = section;
-		this.days = days;
-		this.startTime = startTime;
-		this.endTime = endTime;
-		this.rooms = rooms;
-		this.capacity = capacity;
-		this.size = size;
-		this.remarks = null;
-		this.professor = null;
-	}
 	public SectionInfo(String data) {
 		String[] arrInfo = data.split(" ");
 		rooms = new String[] {""};
@@ -69,8 +30,6 @@ public class SectionInfo {
 			capacity = Integer.parseInt(arrInfo[8]);
 			size = Integer.parseInt(arrInfo[9]);
 			professor = null;
-		} else {
-			System.out.println("arrInfo length " + arrInfo.length + " containing: " + data);
 		}
 		
 		if (arrInfo.length == 11) {
