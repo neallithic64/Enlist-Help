@@ -19,7 +19,7 @@ public class WeekSchedule {
 		return classes;
 	}
 	
-	public boolean checkUniqueAll(SectionInfo newClass) {
+	private boolean checkUniqueAll(SectionInfo newClass) {
 		if (classes.isEmpty())
 			return true;
 		else
@@ -28,7 +28,7 @@ public class WeekSchedule {
 					return false;
 		return true;
 	}
-	public boolean checkOverlap(SectionInfo newClass) {
+	private boolean checkOverlap(SectionInfo newClass) {
 		if (classes.isEmpty())
 			return true;
 		else

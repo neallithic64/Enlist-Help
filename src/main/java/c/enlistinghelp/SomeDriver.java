@@ -9,6 +9,7 @@ public class SomeDriver {
 	public static void main(String[] args) {
 		ChromeCrawler cc = new ChromeCrawler();
 		CourseOfferingScraper cos = new CourseOfferingScraper();
+		ScheduleMaker sm = new ScheduleMaker();
 		
 		try {
 			BufferedReader brFlow = new BufferedReader(new InputStreamReader(new FileInputStream("flowchartTest.txt")));
@@ -21,10 +22,7 @@ public class SomeDriver {
 						cos.parseList(cc.coScrape(get));
 				}
 			brFlow.close();
-			String[] sampSer = "HUMAART\nMADSMAN\nMARKRTL\nMARKMGT\nBUSLAW2\nCSRGOVE\n".split("\n");
-			for (String sampSer1 : sampSer)
-				cos.parseList(cc.coScrape(sampSer1));
-
+			
 			cos.parseList(cc.coScrape("GEDANCE"));
 			cos.parseList(cc.coScrape("CCINFOM"));
 			cc.pageWait(2);
@@ -41,6 +39,7 @@ public class SomeDriver {
 			cc.close();
 		}
 		
+		// enlsitment; can't develop on this end without access yet
 /*		try {
 			System.out.print("enter filename for animoSys: ");
 			BufferedReader brLogin = new BufferedReader(new InputStreamReader(new FileInputStream("login.txt")));
