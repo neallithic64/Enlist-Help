@@ -14,6 +14,10 @@ public class CourseOfferingScraper {
 		courseOffers = new ArrayList<>();
 	}
 	
+	public ArrayList<ArrayList<SectionInfo>> getCourseOffers() {
+		return courseOffers;
+	}
+	
 	public void dispArr(String[] arrSamp) {
 		for (String arrSamp1 : arrSamp)
 			System.out.println(arrSamp1);

@@ -1,12 +1,13 @@
 package c.enlistinghelp;
 
 import java.util.Scanner;
-import java.io.*;
 import java.util.ArrayList;
+import java.io.*;
 import org.openqa.selenium.NoSuchElementException;
 
 public class SomeDriver {
 	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
 		ChromeCrawler cc = new ChromeCrawler();
 		CourseOfferingScraper cos = new CourseOfferingScraper();
 		ScheduleMaker sm = new ScheduleMaker();
@@ -29,6 +30,8 @@ public class SomeDriver {
 			cc.close();
 			cos.dispCOffers();
 			cos.writeTo("logtext1.txt");
+			WeekSchedule sampleWeekSched = sm.generateOneSched(cos.getCourseOffers());
+			System.out.println(sampleWeekSched);
 		} catch (NoSuchElementException e) {
 			System.out.println("it's 2am! site's down :(");
 			cc.close();
@@ -39,11 +42,13 @@ public class SomeDriver {
 			cc.close();
 		}
 		
-		// enlsitment; can't develop on this end without access yet
+		// enlistment; can't develop on this end without access yet
 /*		try {
 			System.out.print("enter filename for animoSys: ");
+//			BufferedReader brLogin = new BufferedReader(new InputStreamReader(new FileInputStream(sc.nextLine() + ".txt")));
 			BufferedReader brLogin = new BufferedReader(new InputStreamReader(new FileInputStream("login.txt")));
 			cc.animoSysLogIn(brLogin.readLine(), brLogin.readLine());
+//			cc.aSysEnlistSched();
 			brLogin.close();
 			
 			cc.aSysAddClass(100);
@@ -57,6 +62,7 @@ public class SomeDriver {
 		
 		cc.googleImgScrape("cheese");
 		cc.close();
-*/		
+*/		sc.close();
+		
 	}
 }

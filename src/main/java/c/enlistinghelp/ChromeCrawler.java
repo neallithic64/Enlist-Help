@@ -1,8 +1,8 @@
 package c.enlistinghelp;
 
 import java.util.List;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
 import org.jsoup.Jsoup;
@@ -43,6 +43,7 @@ public class ChromeCrawler {
 	public void googleImgScrape(String query) {
 		googleSearch(query);
 		siteDriver.findElement(By.className("qs")).click();
+		
 	}
 	
 	public void printList(List<String> list) {
@@ -73,20 +74,31 @@ public class ChromeCrawler {
 	
 	public void aSysAddClass(int n) {
 		// assume that the user is already logged in
-		siteDriver.get("https://animo.sys.dlsu.edu.ph/psp/ps/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES.SSR_SSENRL_CART.GBL");
-		siteDriver.switchTo().frame(siteDriver.findElement(By.id("ptifrmtgtframe")));
-		for (int i = 0; i < n; i++) {
-			try {
-				siteDriver.findElement(By.className("SSSBUTTON_CONFIRMLINK")).click();
-				pageWait(2);
-				siteDriver.findElement(By.name("DERIVED_REGFRM1_SSR_PB_SUBMIT")).click();
-				pageWait(2);
-				siteDriver.findElement(By.name("DERIVED_REGFRM1_SSR_LINK_STARTOVER")).click();
-				pageWait(2);
-			} catch (NoSuchElementException e) {
-				System.out.println("error! log given here: " + siteDriver.navigate().toString() + "\n" + e);
+		try {
+			siteDriver.get("https://animo.sys.dlsu.edu.ph/psp/ps/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES.SSR_SSENRL_CART.GBL");
+			siteDriver.switchTo().frame(siteDriver.findElement(By.id("ptifrmtgtframe")));
+			for (int i = 0; i < 5 /*n*/; i++) {
+				try {
+					siteDriver.findElement(By.className("SSSBUTTON_CONFIRMLINK")).click();
+					pageWait(2);
+					siteDriver.findElement(By.name("DERIVED_REGFRM1_SSR_PB_SUBMIT")).click();
+					pageWait(2);
+					siteDriver.findElement(By.name("DERIVED_REGFRM1_SSR_LINK_STARTOVER")).click();
+					pageWait(2);
+				} catch (NoSuchElementException e) {
+					System.out.println("error! log given here: " + siteDriver.navigate().toString() + "\n" + e);
+				}
 			}
+		} catch (NoSuchElementException e) {
+			System.out.println("bad page loading, siteDriver report: " + siteDriver.getCurrentUrl() + "\n"
+					+ "exiting to google...");
+			siteDriver.get("https://google.com/");
 		}
+	}
+	
+	public void aSysEnlistSched(WeekSchedule sched) {
+		siteDriver.get(null);
+		
 	}
 	
 	public void close() {

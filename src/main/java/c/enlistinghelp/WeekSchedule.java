@@ -49,6 +49,17 @@ public class WeekSchedule {
 		else System.out.println("input class is rejected!");
 	}
 	
+	public void sortByDay() {
+		// recommended order: MW, TH, F, S, others
+		if (!classes.isEmpty()) {
+			for (int i = 0; i < classes.size(); i++) {
+				
+			}
+		} else {
+			System.out.println("yeet!!");
+		}
+	}
+	
 	@Override
 	public String toString() {
 		String strData = "Schedule Report for " + name + ":\n";

@@ -26,7 +26,7 @@ Time: T 07:30-09:00
 	Room: GK302A
 Time: H 07:30-09:00
 	Room: GK302A
-Class Size: 20/20
+Class Size: 21/20
 
 Class Info of #2963:
 Course Code: CCPROG1
@@ -62,7 +62,7 @@ Time: T 09:15-10:45
 	Room: GK302A
 Time: H 09:15-10:45
 	Room: GK302A
-Class Size: 21/20
+Class Size: 22/20
 
 Class Info of #2965:
 Course Code: CCPROG1
@@ -80,7 +80,7 @@ Time: T 11:00-12:30
 	Room: GK302B
 Time: H 11:00-12:30
 	Room: GK302B
-Class Size: 25/20
+Class Size: 23/20
 
 Class Info of #2952:
 Course Code: CCPROG1
@@ -146,8 +146,7 @@ Time: W 14:30-16:00
 	Room: GK203
 Time: T 14:30-16:00
 	Room: GK407
-Class Size: 42/45
-Professor: FLORES, FRITZ KEVIN SALVADOR
+Class Size: 44/45
 
 Class Info of #1367:
 Course Code: CCICOMP
@@ -170,7 +169,7 @@ Time: W 11:00-12:30
 	Room: GK205
 Time: T 11:00-12:30
 	Room: GK407
-Class Size: 45/45
+Class Size: 44/45
 Professor: SOLOMON, KATRINA YSABEL CAMTAN
 
 Class Info of #1368:
@@ -182,7 +181,7 @@ Time: H 12:45-14:15
 	Room: GK205
 Time: W 12:45-14:15
 	Room: GK407
-Class Size: 45/45
+Class Size: 42/45
 Professor: FRANCO, GEANNE ROSS LUNAR
 
 Class Info of #966:
@@ -194,7 +193,8 @@ Time: H 14:30-16:00
 	Room: GK207
 Time: M 14:30-16:00
 	Room: GK407
-Class Size: 31/45
+Class Size: 30/45
+Professor: SOLOMON, KATRINA YSABEL CAMTAN
 
 Class Info of #1360:
 Course Code: CCICOMP
@@ -217,8 +217,8 @@ Time: W 09:15-10:45
 	Room: GK206
 Time: H 09:15-10:45
 	Room: GK407
-Class Size: 43/45
-Professor: SOLOMON, KATRINA YSABEL CAMTAN
+Class Size: 45/45
+Professor: PASCUAL, RONALD MAGANDA
 
 Class Info of #1446:
 Course Code: CCICOMP
@@ -229,7 +229,8 @@ Time: H 07:30-09:00
 	Room: GK207, MRE312
 Time: W 07:30-09:00
 	Room: GK407, MRE312
-Class Size: 21/45
+Class Size: 22/45
+Professor: PERADILLA, MARNEL SANCHEZ
 
 		retrieving classes for ISFOUND...
 Class Info of #1287:
@@ -239,7 +240,8 @@ Time: T 09:15-10:45
 	Room: GK204
 Time: H 09:15-10:45
 	Room: GK204
-Class Size: 12/43
+Class Size: 12/45
+Professor: MALABANAN, OLIVER ARCIAGA
 
 		retrieving classes for GEPCOMM...
 Class Info of #2590:
@@ -260,7 +262,7 @@ Time: M 14:30-16:00
 Time: W 14:30-16:00
 	Room: AG902
 Class Size: 44/43
-Professor: RODRIGUEZ, CORAZON V.
+Professor: SALE, ANGELITA VIADO
 
 Class Info of #1581:
 Course Code: GEPCOMM
@@ -280,7 +282,7 @@ Time: M 12:45-14:15
 Time: W 12:45-14:15
 	Room: AG1007
 Class Size: 45/43
-Professor: RODRIGUEZ, CORAZON V.
+Professor: SALE, ANGELITA VIADO
 
 Class Info of #1592:
 Course Code: GEPCOMM
@@ -290,7 +292,7 @@ Time: M 11:00-12:30
 Time: W 11:00-12:30
 	Room: AG1102
 Class Size: 45/43
-Professor: GAERLAN, MARIANNE JENNIFER MARIANO
+Professor: DITA, SHIRLEY NAVARRO
 
 Class Info of #1598:
 Course Code: GEPCOMM
@@ -299,7 +301,7 @@ Time: M 16:15-17:45
 	Room: AG1102
 Time: W 16:15-17:45
 	Room: AG1102
-Class Size: 44/43
+Class Size: 45/43
 Professor: MUÑOZ, ALEN MATEO SALUTIN
 
 Class Info of #1603:
@@ -309,8 +311,8 @@ Time: T 09:15-10:45
 	Room: AG1109
 Time: H 09:15-10:45
 	Room: AG1109
-Class Size: 42/43
-Professor: SALE, ANGELITA VIADO
+Class Size: 44/43
+Professor: RODRIGUEZ, CORAZON V.
 
 Class Info of #1607:
 Course Code: GEPCOMM
@@ -360,6 +362,7 @@ Time: M 11:00-12:30
 Time: W 11:00-12:30
 	Room: AG1701
 Class Size: 45/43
+Professor: FLORES, GENE MARIE LEGASPI
 
 Class Info of #2848:
 Course Code: GEPCOMM
@@ -369,7 +372,7 @@ Time: T 16:15-17:45
 Time: H 16:15-17:45
 	Room: AG1109
 Class Size: 45/43
-Professor: MUÑOZ, ALEN MATEO SALUTIN
+Professor: RODRIGUEZ, CORAZON V.
 
 Class Info of #2851:
 Course Code: GEPCOMM
@@ -379,7 +382,6 @@ Time: M 07:30-09:00
 Time: W 07:30-09:00
 	Room: AG1702
 Class Size: 44/43
-Professor: FLORES, GENE MARIE LEGASPI
 
 Class Info of #2853:
 Course Code: GEPCOMM
@@ -399,7 +401,7 @@ Time: M 12:45-14:15
 Time: W 12:45-14:15
 	Room: SM307
 Class Size: 44/43
-Professor: FLORES, GENE MARIE LEGASPI
+Professor: MUÑOZ, ALEN MATEO SALUTIN
 
 Class Info of #2857:
 Course Code: GEPCOMM
@@ -408,8 +410,8 @@ Time: T 11:00-12:30
 	Room: AG1702
 Time: H 11:00-12:30
 	Room: AG1702
-Class Size: 37/43
-Professor: SALE, ANGELITA VIADO
+Class Size: 41/43
+Professor: RODRIGUEZ, CORAZON V.
 
 Class Info of #2859:
 Course Code: GEPCOMM
@@ -419,7 +421,7 @@ Time: T 14:30-16:00
 Time: H 14:30-16:00
 	Room: AG1702
 Class Size: 38/43
-Professor: SALE, ANGELITA VIADO
+Professor: RODRIGUEZ, CORAZON V.
 
 Class Info of #2861:
 Course Code: GEPCOMM
@@ -429,6 +431,7 @@ Time: T 07:30-09:00
 Time: H 07:30-09:00
 	Room: AG1704
 Class Size: 44/43
+Professor: SIOSON, IVORY CHAN
 
 Class Info of #2863:
 Course Code: GEPCOMM
@@ -497,7 +500,7 @@ Time: M 07:30-09:00
 	Room: AG1101
 Time: W 07:30-09:00
 	Room: AG1101
-Class Size: 24/25
+Class Size: 25/25
 
 Class Info of #3636:
 Course Code: GEPCOMM
@@ -506,7 +509,8 @@ Time: T 14:30-16:00
 	Room: SM202
 Time: H 14:30-16:00
 	Room: SM202
-Class Size: 20/40
+Class Size: 17/40
+Professor: FLORES, GENE MARIE LEGASPI
 
 Class Info of #1681:
 Course Code: GEPCOMM
@@ -516,6 +520,7 @@ Time: M 07:30-09:00
 Time: W 07:30-09:00
 	Room: AG911
 Class Size: 24/25
+Professor: UGALINGAN, GINA BONDOC
 
 Class Info of #1682:
 Course Code: GEPCOMM
@@ -525,6 +530,7 @@ Time: M 09:15-10:45
 Time: W 09:15-10:45
 	Room: AG911
 Class Size: 25/25
+Professor: TAN-DE RAMOS, JENNIFER
 
 Class Info of #2926:
 Course Code: GEPCOMM
@@ -533,7 +539,8 @@ Time: M 07:30-09:00
 	Room: VL509
 Time: W 07:30-09:00
 	Room: VL509
-Class Size: 42/43
+Class Size: 41/43
+Professor: GO, JOANNA FELISA CO
 
 Class Info of #965:
 Course Code: GEPCOMM
@@ -542,7 +549,8 @@ Time: M 14:30-16:00
 	Room: VL407
 Time: W 14:30-16:00
 	Room: VL407
-Class Size: 41/43
+Class Size: 40/43
+Professor: GAERLAN, MARIANNE JENNIFER MARIANO
 
 Class Info of #2927:
 Course Code: GEPCOMM
@@ -552,6 +560,7 @@ Time: M 11:00-12:30
 Time: W 11:00-12:30
 	Room: MM12
 Class Size: 46/43
+Professor: QUIZON, JUAN MIGUEL LEANDRO LIM
 
 Class Info of #2928:
 Course Code: GEPCOMM
@@ -561,6 +570,7 @@ Time: T 07:30-09:00
 Time: H 07:30-09:00
 	Room: MM22
 Class Size: 45/43
+Professor: BAUTISTA, AILEEN CAÑAL
 
 Class Info of #2929:
 Course Code: GEPCOMM
@@ -570,6 +580,7 @@ Time: T 14:30-16:00
 Time: H 14:30-16:00
 	Room: VL507
 Class Size: 45/43
+Professor: PLATA, STERLING MIRANDA
 
 Class Info of #2930:
 Course Code: GEPCOMM
@@ -579,6 +590,7 @@ Time: T 11:00-12:30
 Time: H 11:00-12:30
 	Room: EY501
 Class Size: 43/43
+Professor: PLATA, STERLING MIRANDA
 
 Class Info of #1608:
 Course Code: GEPCOMM
@@ -597,7 +609,7 @@ Time: T 14:30-16:00
 	Room: AG1802
 Time: H 14:30-16:00
 	Room: AG1802
-Class Size: 42/43
+Class Size: 44/43
 Professor: TAN-DE RAMOS, JENNIFER
 
 Class Info of #3057:
@@ -607,7 +619,7 @@ Time: M 11:00-12:30
 	Room: AG1402
 Time: W 11:00-12:30
 	Room: AG1402
-Class Size: 41/43
+Class Size: 42/43
 Professor: TAN-DE RAMOS, JENNIFER
 
 Class Info of #2485:
@@ -617,7 +629,7 @@ Time: M 14:30-16:00
 	Room: AG1402
 Time: W 14:30-16:00
 	Room: AG1402
-Class Size: 42/43
+Class Size: 43/43
 Professor: BAUTISTA, AILEEN CAÑAL
 
 Class Info of #3058:
@@ -628,7 +640,7 @@ Time: M 09:15-10:45
 Time: W 09:15-10:45
 	Room: AG1708
 Class Size: 45/43
-Professor: UGALINGAN, GINA BONDOC
+Professor: TAN-DE RAMOS, JENNIFER
 
 Class Info of #1610:
 Course Code: GEPCOMM
@@ -647,7 +659,7 @@ Time: T 09:15-10:45
 	Room: AG1705
 Time: H 09:15-10:45
 	Room: AG1705
-Class Size: 31/43
+Class Size: 35/43
 Professor: TAMAYO, JOSE ANTONIO LORENZO LOPEZ
 
 Class Info of #2967:
@@ -657,7 +669,8 @@ Time: T 09:15-10:45
 	Room: GK203
 Time: H 09:15-10:45
 	Room: GK203
-Class Size: 33/43
+Class Size: 37/43
+Professor: RENTILLO, PHILIP ADRIANNE AGSAM
 
 Class Info of #2956:
 Course Code: GEPCOMM
@@ -667,6 +680,7 @@ Time: M 09:15-10:45
 Time: W 09:15-10:45
 	Room: GK204
 Class Size: 44/43
+Professor: SIOSON, IVORY CHAN
 
 Class Info of #2968:
 Course Code: GEPCOMM
@@ -676,6 +690,7 @@ Time: T 14:30-16:00
 Time: H 14:30-16:00
 	Room: GK204
 Class Size: 43/43
+Professor: RENTILLO, PHILIP ADRIANNE AGSAM
 
 Class Info of #2957:
 Course Code: GEPCOMM
@@ -684,7 +699,8 @@ Time: M 16:15-17:45
 	Room: GK204
 Time: W 16:15-17:45
 	Room: GK204
-Class Size: 44/43
+Class Size: 43/43
+Professor: DITA, SHIRLEY NAVARRO
 
 Class Info of #2958:
 Course Code: GEPCOMM
@@ -693,7 +709,8 @@ Time: M 11:00-12:30
 	Room: GK206
 Time: W 11:00-12:30
 	Room: GK206
-Class Size: 42/43
+Class Size: 40/43
+Professor: CALABIAS, JOSE KERVIN CESAR BELMONTE
 
 Class Info of #2959:
 Course Code: GEPCOMM
@@ -703,6 +720,7 @@ Time: M 07:30-09:00
 Time: W 07:30-09:00
 	Room: GK206
 Class Size: 42/43
+Professor: SIOSON, IVORY CHAN
 
 Class Info of #2960:
 Course Code: GEPCOMM
@@ -712,6 +730,7 @@ Time: M 07:30-09:00
 Time: W 07:30-09:00
 	Room: GK205
 Class Size: 37/43
+Professor: QUIZON, JUAN MIGUEL LEANDRO LIM
 
 Class Info of #2961:
 Course Code: GEPCOMM
@@ -720,8 +739,8 @@ Time: M 14:30-16:00
 	Room: GK206
 Time: W 14:30-16:00
 	Room: GK206
-Class Size: 33/43
-Professor: PURPURA, JEANNE FLORES
+Class Size: 34/43
+Professor: DIZON, MELBA OLALIA
 
 		retrieving classes for GEMATMW...
 Class Info of #1547:
@@ -741,7 +760,7 @@ Time: T 12:45-14:15
 	Room: AG702
 Time: H 12:45-14:15
 	Room: AG702
-Class Size: 40/43
+Class Size: 41/43
 Professor: LAWAS, CRESENCIA MONTEAGUDO
 
 Class Info of #1549:
@@ -752,7 +771,7 @@ Time: T 11:00-12:30
 Time: H 11:00-12:30
 	Room: AG705
 Class Size: 26/25
-Professor: RUIVIVAR, LEONOR AQUINO
+Professor: PONSONES, RIGOR BALGOS
 
 Class Info of #1550:
 Course Code: GEMATMW
@@ -762,7 +781,7 @@ Time: M 07:30-09:00
 Time: W 07:30-09:00
 	Room: LS210
 Class Size: 44/43
-Professor: GARCIA, MARK ANTHONY A.
+Professor: CARPIO, AVEGAIL DAVID
 
 Class Info of #1551:
 Course Code: GEMATMW
@@ -771,7 +790,7 @@ Time: M 11:00-12:30
 	Room: AG709
 Time: W 11:00-12:30
 	Room: AG709
-Class Size: 44/43
+Class Size: 43/43
 Professor: CAMPEÑA, FRANCIS JOSEPH HERNANDEZ
 
 Class Info of #1552:
@@ -781,7 +800,7 @@ Time: M 09:15-10:45
 	Room: LS228
 Time: W 09:15-10:45
 	Room: LS228
-Class Size: 44/43
+Class Size: 45/43
 Professor: HERNANDEZ, ALANA MARGARITA REAL
 
 Class Info of #2598:
@@ -801,7 +820,8 @@ Time: M 14:30-16:00
 	Room: LS310
 Time: W 14:30-16:00
 	Room: LS310
-Class Size: 43/43
+Class Size: 41/45
+Professor: MARTIN-LUNDAG, LEAH C.
 
 Class Info of #2440:
 Course Code: GEMATMW
@@ -810,7 +830,7 @@ Time: T 07:30-09:00
 	Room: LS310
 Time: H 07:30-09:00
 	Room: LS310
-Class Size: 8/43
+Class Size: 8/45
 Professor: GATCHALIAN, CLARENCE TAN
 
 Class Info of #1676:
@@ -850,8 +870,8 @@ Time: T 07:30-09:00
 	Room: LS317
 Time: H 07:30-09:00
 	Room: LS317
-Class Size: 25/43
-Professor: NOCON, EDERLINA GANATUIN
+Class Size: 25/45
+Professor: HERNANDEZ, ALANA MARGARITA REAL
 
 Class Info of #1680:
 Course Code: GEMATMW
@@ -860,7 +880,7 @@ Time: T 16:15-17:45
 	Room: AG701
 Time: H 16:15-17:45
 	Room: AG701
-Class Size: 22/30
+Class Size: 20/30
 Professor: CAMPEÑA, FRANCIS JOSEPH HERNANDEZ
 
 Class Info of #2936:
@@ -871,6 +891,7 @@ Time: M 09:15-10:45
 Time: W 09:15-10:45
 	Room: VL509
 Class Size: 45/43
+Professor: SAY-AWEN, APRIL LYNNE DAMPO
 
 Class Info of #2937:
 Course Code: GEMATMW
@@ -890,7 +911,7 @@ Time: M 16:15-17:45
 Time: W 16:15-17:45
 	Room: VL507
 Class Size: 24/43
-Professor: SAY-AWEN, APRIL LYNNE DAMPO
+Professor: TAN, SONIA YOUNG
 
 Class Info of #2941:
 Course Code: GEMATMW
@@ -919,7 +940,7 @@ Time: T 16:15-17:45
 	Room: SJ109
 Time: H 16:15-17:45
 	Room: SJ109
-Class Size: 42/43
+Class Size: 43/43
 Professor: MORALES, JOHN VINCENT SILVESTRE
 
 Class Info of #2938:
@@ -929,8 +950,8 @@ Time: M 12:45-14:15
 	Room: EY301
 Time: W 12:45-14:15
 	Room: EY301
-Class Size: 42/43
-Professor: TAN, SONIA YOUNG
+Class Size: 43/43
+Professor: RUIVIVAR, LEONOR AQUINO
 
 Class Info of #2940:
 Course Code: GEMATMW
@@ -939,7 +960,7 @@ Time: M 16:15-17:45
 	Room: SJ106
 Time: W 16:15-17:45
 	Room: SJ106
-Class Size: 41/43
+Class Size: 39/43
 Professor: PEREZ, EDMUNDO DEL ROSARIO
 
 Class Info of #2943:
@@ -970,6 +991,7 @@ Time: M 12:45-14:15
 Time: W 12:45-14:15
 	Room: LS215
 Class Size: 41/43
+Professor: PEREZ, EDMUNDO DEL ROSARIO
 
 Class Info of #2595:
 Course Code: GEMATMW
@@ -978,7 +1000,7 @@ Time: M 07:30-09:00
 	Room: LS204
 Time: W 07:30-09:00
 	Room: LS204
-Class Size: 36/43
+Class Size: 36/45
 Professor: CANDELARIA, LUISETTE CORPUZ
 
 		retrieving classes for GEUSELF...
@@ -990,6 +1012,7 @@ Time: T 11:00-12:30
 Time: H 11:00-12:30
 	Room: LS204
 Class Size: 44/43
+Professor: YABUT, HOMER JIMENEZ
 
 Class Info of #1554:
 Course Code: GEUSELF
@@ -999,6 +1022,7 @@ Time: T 07:30-09:00
 Time: H 07:30-09:00
 	Room: LS109
 Class Size: 46/43
+Professor: REGADIO, CRISANTO QUINOS
 
 Class Info of #1555:
 Course Code: GEUSELF
@@ -1008,6 +1032,7 @@ Time: T 12:45-14:15
 Time: H 12:45-14:15
 	Room: AG708
 Class Size: 43/43
+Professor: DANGANAN, OMEGA DIADEM TACTAQUIN
 
 Class Info of #1556:
 Course Code: GEUSELF
@@ -1017,6 +1042,7 @@ Time: M 09:15-10:45
 Time: W 09:15-10:45
 	Room: LS303
 Class Size: 45/43
+Professor: PAKINGAN, KARMIA ASUNCION
 
 Class Info of #969:
 Course Code: GEUSELF
@@ -1026,6 +1052,7 @@ Time: M 12:45-14:15
 Time: W 12:45-14:15
 	Room: AG709
 Class Size: 44/43
+Professor: LEE, CHESTER HOWARD MANALO
 
 Class Info of #1557:
 Course Code: GEUSELF
@@ -1034,7 +1061,8 @@ Time: M 07:30-09:00
 	Room: LS228
 Time: W 07:30-09:00
 	Room: LS228
-Class Size: 42/43
+Class Size: 44/43
+Professor: LEE, CHESTER HOWARD MANALO
 
 Class Info of #1558:
 Course Code: GEUSELF
@@ -1044,6 +1072,7 @@ Time: T 11:00-12:30
 Time: H 11:00-12:30
 	Room: AG710
 Class Size: 43/43
+Professor: TONGSON, MONICA CAMILLE CRUZ
 
 Class Info of #2479:
 Course Code: GEUSELF
@@ -1053,6 +1082,7 @@ Time: T 11:00-12:30
 Time: H 11:00-12:30
 	Room: AG708
 Class Size: 44/43
+Professor: CRUZ, FILEMON RAMIREZ
 
 Class Info of #2703:
 Course Code: GEUSELF
@@ -1061,7 +1091,8 @@ Time: M 12:45-14:15
 	Room: LS109
 Time: W 12:45-14:15
 	Room: LS109
-Class Size: 45/43
+Class Size: 45/45
+Professor: MANAUAT, NATIVIDAD DOMINIQUE GUZMAN
 
 Class Info of #2671:
 Course Code: GEUSELF
@@ -1070,7 +1101,8 @@ Time: T 07:30-09:00
 	Room: AG710
 Time: H 07:30-09:00
 	Room: AG710
-Class Size: 42/43
+Class Size: 45/45
+Professor: TONGSON, MONICA CAMILLE CRUZ
 
 Class Info of #2445:
 Course Code: GEUSELF
@@ -1080,6 +1112,7 @@ Time: M 07:30-09:00
 Time: W 07:30-09:00
 	Room: AG704
 Class Size: 25/25
+Professor: POLICARPIO, MONICA RENEE GERMAR
 
 Class Info of #2446:
 Course Code: GEUSELF
@@ -1089,6 +1122,7 @@ Time: M 09:15-10:45
 Time: W 09:15-10:45
 	Room: AG704
 Class Size: 25/25
+Professor: DELARIARTE, CLARISSA FONTANO
 
 Class Info of #2447:
 Course Code: GEUSELF
@@ -1098,6 +1132,7 @@ Time: M 11:00-12:30
 Time: W 11:00-12:30
 	Room: AG704
 Class Size: 25/25
+Professor: DELARIARTE, CLARISSA FONTANO
 
 Class Info of #2448:
 Course Code: GEUSELF
@@ -1107,6 +1142,7 @@ Time: T 12:45-14:15
 Time: H 12:45-14:15
 	Room: AG1405
 Class Size: 25/25
+Professor: TONGSON, MONICA CAMILLE CRUZ
 
 Class Info of #2449:
 Course Code: GEUSELF
@@ -1115,7 +1151,8 @@ Time: T 14:30-16:00
 	Room: SM311
 Time: H 14:30-16:00
 	Room: SM311
-Class Size: 42/43
+Class Size: 40/45
+Professor: DANGANAN, OMEGA DIADEM TACTAQUIN
 
 Class Info of #2450:
 Course Code: GEUSELF
@@ -1124,7 +1161,8 @@ Time: T 16:15-17:45
 	Room: LS308
 Time: H 16:15-17:45
 	Room: LS308
-Class Size: 42/43
+Class Size: 43/45
+Professor: MANAUAT, NATIVIDAD DOMINIQUE GUZMAN
 
 Class Info of #4138:
 Course Code: GEUSELF
@@ -1133,7 +1171,8 @@ Time: M 12:45-14:15
 	Room: LS210
 Time: W 12:45-14:15
 	Room: LS210
-Class Size: 43/43
+Class Size: 45/45
+Professor: REGADIO, CRISANTO QUINOS
 
 Class Info of #2981:
 Course Code: GEUSELF
@@ -1142,7 +1181,8 @@ Time: M 07:30-09:00
 	Room: SM316
 Time: W 07:30-09:00
 	Room: SM316
-Class Size: 43/43
+Class Size: 44/43
+Professor: REGADIO, CRISANTO QUINOS
 
 Class Info of #972:
 Course Code: GEUSELF
@@ -1152,6 +1192,7 @@ Time: T 12:45-14:15
 Time: H 12:45-14:15
 	Room: AG1406
 Class Size: 25/25
+Professor: REGADIO, CRISANTO QUINOS
 
 Class Info of #1693:
 Course Code: GEUSELF
@@ -1160,7 +1201,8 @@ Time: M 11:00-12:30
 	Room: AG710
 Time: W 11:00-12:30
 	Room: AG710
-Class Size: 44/43
+Class Size: 45/45
+Professor: MANAUAT, NATIVIDAD DOMINIQUE GUZMAN
 
 		retrieving classes for CCPROG3...
 Class Info of #3631:
@@ -1170,7 +1212,7 @@ Time: M 16:15-17:45
 	Room: ST314
 Time: W 16:15-17:45
 	Room: ST314
-Class Size: 14/20
+Class Size: 15/20
 
 Class Info of #1839:
 Course Code: CCPROG3
@@ -1188,7 +1230,7 @@ Time: T 14:30-16:00
 	Room: GK306A
 Time: H 14:30-16:00
 	Room: GK306A
-Class Size: 21/22
+Class Size: 20/22
 
 Class Info of #1837:
 Course Code: CCPROG3
@@ -1218,7 +1260,7 @@ Time: M 16:15-17:45
 Time: W 16:15-17:45
 	Room: AG902
 Class Size: 44/43
-Professor: MANGAHIS, JOSEFINA C.
+Professor: DONES, DONNER LABADOR
 
 Class Info of #1326:
 Course Code: GEFILI1
@@ -1238,7 +1280,7 @@ Time: T 16:15-17:45
 Time: H 16:15-17:45
 	Room: AG902
 Class Size: 45/43
-Professor: BASCO, EMMA ABLAN
+Professor: MANGARAN, MON KARLO LEONCIO
 
 Class Info of #1324:
 Course Code: GEFILI1
@@ -1248,7 +1290,7 @@ Time: T 07:30-09:00
 Time: H 07:30-09:00
 	Room: AG1102
 Class Size: 45/43
-Professor: ORELLANA, JOEL LORESCA
+Professor: MANGARAN, MON KARLO LEONCIO
 
 Class Info of #1323:
 Course Code: GEFILI1
@@ -1267,7 +1309,7 @@ Time: M 07:30-09:00
 	Room: AG1109
 Time: W 07:30-09:00
 	Room: AG1109
-Class Size: 43/43
+Class Size: 44/43
 Professor: ASTORGA, ERIBERTO ROSARIO
 
 Class Info of #1321:
@@ -1278,7 +1320,7 @@ Time: M 12:45-14:15
 Time: W 12:45-14:15
 	Room: AG1109
 Class Size: 44/43
-Professor: ALVAREZ-ENCABO, EVANGELINE
+Professor: ANASTACIO, DEBORRAH SADILE
 
 Class Info of #1348:
 Course Code: GEFILI1
@@ -1328,7 +1370,7 @@ Time: M 14:30-16:00
 Time: W 14:30-16:00
 	Room: AG1702
 Class Size: 45/43
-Professor: ALVAREZ-ENCABO, EVANGELINE
+Professor: DONES, DONNER LABADOR
 
 Class Info of #1343:
 Course Code: GEFILI1
@@ -1338,7 +1380,7 @@ Time: M 09:15-10:45
 Time: W 09:15-10:45
 	Room: AG1702
 Class Size: 44/43
-Professor: JARIN, FERDINAND PISIGAN
+Professor: TAYLAN, DOLORES RECALDE
 
 Class Info of #1342:
 Course Code: GEFILI1
@@ -1358,7 +1400,7 @@ Time: M 16:15-17:45
 Time: W 16:15-17:45
 	Room: SM307
 Class Size: 44/43
-Professor: MANGARAN, MON KARLO LEONCIO
+Professor: ANASTACIO, DEBORRAH SADILE
 
 Class Info of #1314:
 Course Code: GEFILI1
@@ -1367,8 +1409,8 @@ Time: T 09:15-10:45
 	Room: AG1702
 Time: H 09:15-10:45
 	Room: AG1702
-Class Size: 34/43
-Professor: JUMAQUIO-ARDALES, ALONA
+Class Size: 36/43
+Professor: TAYLAN, DOLORES RECALDE
 
 Class Info of #1341:
 Course Code: GEFILI1
@@ -1378,7 +1420,7 @@ Time: M 12:45-14:15
 Time: W 12:45-14:15
 	Room: VL202
 Class Size: 31/43
-Professor: MANGAHIS, JOSEFINA C.
+Professor: ALVAREZ-ENCABO, EVANGELINE
 
 Class Info of #1340:
 Course Code: GEFILI1
@@ -1388,7 +1430,7 @@ Time: M 09:15-10:45
 Time: W 09:15-10:45
 	Room: SM408
 Class Size: 45/43
-Professor: ALVAREZ-ENCABO, EVANGELINE
+Professor: GARCIA, LAKANGITING CAPARANGA
 
 Class Info of #1339:
 Course Code: GEFILI1
@@ -1408,7 +1450,7 @@ Time: M 12:45-14:15
 Time: W 12:45-14:15
 	Room: VL203
 Class Size: 45/43
-Professor: JARIN, FERDINAND PISIGAN
+Professor: TORRELIZA, MYRNA AUSTRIA
 
 Class Info of #1337:
 Course Code: GEFILI1
@@ -1428,7 +1470,7 @@ Time: M 07:30-09:00
 Time: W 07:30-09:00
 	Room: SM409
 Class Size: 44/43
-Professor: ALVAREZ-ENCABO, EVANGELINE
+Professor: TORRELIZA, MYRNA AUSTRIA
 
 Class Info of #1335:
 Course Code: GEFILI1
@@ -1438,7 +1480,7 @@ Time: T 11:00-12:30
 Time: H 11:00-12:30
 	Room: LS318
 Class Size: 46/43
-Professor: ORELLANA, JOEL LORESCA
+Professor: MANGARAN, MON KARLO LEONCIO
 
 Class Info of #1334:
 Course Code: GEFILI1
@@ -1476,7 +1518,7 @@ Time: T 12:45-14:15
 	Room: AG1802
 Time: H 12:45-14:15
 	Room: AG1802
-Class Size: 45/43
+Class Size: 44/43
 Professor: MADULA, ROWELL DECENA
 
 Class Info of #1331:
@@ -1486,8 +1528,8 @@ Time: M 07:30-09:00
 	Room: AG1402
 Time: W 07:30-09:00
 	Room: AG1402
-Class Size: 35/43
-Professor: JARIN, FERDINAND PISIGAN
+Class Size: 34/43
+Professor: ALVAREZ-ENCABO, EVANGELINE
 
 Class Info of #1319:
 Course Code: GEFILI1
@@ -1496,7 +1538,7 @@ Time: T 14:30-16:00
 	Room: AG1402
 Time: H 14:30-16:00
 	Room: AG1402
-Class Size: 40/43
+Class Size: 39/43
 Professor: MADULA, ROWELL DECENA
 
 Class Info of #1318:
@@ -1507,7 +1549,7 @@ Time: T 07:30-09:00
 Time: H 07:30-09:00
 	Room: AG1708
 Class Size: 45/43
-Professor: CALINDRO, MIRYLLE ABLANIDO
+Professor: BASCO, EMMA ABLAN
 
 Class Info of #1330:
 Course Code: GEFILI1
@@ -1516,7 +1558,7 @@ Time: M 14:30-16:00
 	Room: AG1708
 Time: W 14:30-16:00
 	Room: AG1708
-Class Size: 45/44
+Class Size: 43/44
 Professor: JUMAQUIO-ARDALES, ALONA
 
 Class Info of #1317:
@@ -1537,7 +1579,7 @@ Time: T 14:30-16:00
 Time: H 14:30-16:00
 	Room: GK205
 Class Size: 45/43
-Professor: ANASTACIO, DEBORRAH SADILE
+Professor: FELICILDA, JOSHUA MARIZ BELTRAN
 
 		retrieving classes for GEFTWEL...
 Class Info of #2714:
@@ -1545,7 +1587,7 @@ Course Code: GEFTWEL
 Section: A51
 Time: H 15:30-17:30
 	Room: ER7B
-Class Size: 28/43
+Class Size: 28/45
 Professor: CABREROS, ANTHONY DEL CASTILLO
 
 Class Info of #1673:
@@ -1553,7 +1595,7 @@ Course Code: GEFTWEL
 Section: C31
 Time: W 10:00-12:00
 	Room: ER701
-Class Size: 32/43
+Class Size: 32/45
 Professor: PANLILIO, ROLANDO MENDOZA
 
 Class Info of #1674:
@@ -1561,7 +1603,7 @@ Course Code: GEFTWEL
 Section: C32
 Time: T 10:00-12:00
 	Room: ER7B
-Class Size: 42/43
+Class Size: 40/45
 Professor: PANLILIO, ROLANDO MENDOZA
 
 Class Info of #3068:
@@ -1577,7 +1619,7 @@ Course Code: GEFTWEL
 Section: L82
 Time: M 10:00-12:00
 	Room: ER1004
-Class Size: 39/43
+Class Size: 40/43
 Professor: CABRITO, ROMEO CAGOMOC
 
 Class Info of #3053:
@@ -1628,6 +1670,7 @@ Time: M 12:45-14:15
 Time: W 12:45-14:15
 	Room: AG702
 Class Size: 43/43
+Professor: MACARAAN, WILLARD ENRIQUE RACELIS
 
 Class Info of #1560:
 Course Code: LCFAITH
@@ -1636,7 +1679,8 @@ Time: M 07:30-09:00
 	Room: LS331
 Time: W 07:30-09:00
 	Room: LS331
-Class Size: 38/43
+Class Size: 40/43
+Professor: MACARAAN, WILLARD ENRIQUE RACELIS
 
 Class Info of #1561:
 Course Code: LCFAITH
@@ -1646,6 +1690,7 @@ Time: T 07:30-09:00
 Time: H 07:30-09:00
 	Room: AG702
 Class Size: 45/43
+Professor: MACARAAN, WILLARD ENRIQUE RACELIS
 
 Class Info of #1562:
 Course Code: LCFAITH
@@ -1654,7 +1699,8 @@ Time: T 11:00-12:30
 	Room: LS208
 Time: H 11:00-12:30
 	Room: LS208
-Class Size: 45/43
+Class Size: 44/43
+Professor: MACARAAN, WILLARD ENRIQUE RACELIS
 
 Class Info of #1563:
 Course Code: LCFAITH
@@ -1663,7 +1709,7 @@ Time: T 16:15-17:45
 	Room: AG702
 Time: H 16:15-17:45
 	Room: AG702
-Class Size: 41/43
+Class Size: 42/43
 
 Class Info of #1564:
 Course Code: LCFAITH
@@ -1672,7 +1718,8 @@ Time: M 11:00-12:30
 	Room: LS333
 Time: W 11:00-12:30
 	Room: LS333
-Class Size: 42/43
+Class Size: 45/43
+Professor: MACARAAN, WILLARD ENRIQUE RACELIS
 
 Class Info of #2614:
 Course Code: LCFAITH
@@ -1710,7 +1757,7 @@ Time: T 07:30-09:00
 	Room: GK203
 Time: H 07:30-09:00
 	Room: GK203
-Class Size: 43/43
+Class Size: 42/43
 Professor: CELESTIAL, RONALDO ROA
 
 Class Info of #1665:
@@ -1720,7 +1767,7 @@ Time: T 09:15-10:45
 	Room: GK206
 Time: H 09:15-10:45
 	Room: GK206
-Class Size: 43/43
+Class Size: 41/43
 Professor: CELESTIAL, RONALDO ROA
 
 Class Info of #1666:
@@ -1740,7 +1787,7 @@ Time: T 11:00-12:30
 	Room: GK211
 Time: H 11:00-12:30
 	Room: GK211
-Class Size: 41/43
+Class Size: 44/43
 Professor: BAUTISTA, ROSEMARIE VINLUAN
 
 		retrieving classes for GEFILI2...
@@ -1751,7 +1798,8 @@ Time: M 11:00-12:30
 	Room: AG1108
 Time: W 11:00-12:30
 	Room: AG1108
-Class Size: 43/43
+Class Size: 45/45
+Professor: ALVAREZ-ENCABO, EVANGELINE
 
 Class Info of #2122:
 Course Code: GEFILI2
@@ -1760,8 +1808,8 @@ Time: M 11:00-12:30
 	Room: VL309
 Time: W 11:00-12:30
 	Room: VL309
-Class Size: 43/43
-Professor: MANGAHIS, JOSEFINA C.
+Class Size: 38/45
+Professor: ORELLANA, JOEL LORESCA
 
 Class Info of #2123:
 Course Code: GEFILI2
@@ -1770,8 +1818,8 @@ Time: T 07:30-09:00
 	Room: VL306
 Time: H 07:30-09:00
 	Room: VL306
-Class Size: 43/43
-Professor: QUIORE, LILIBETH OBLENA
+Class Size: 40/45
+Professor: ORELLANA, JOEL LORESCA
 
 Class Info of #2124:
 Course Code: GEFILI2
@@ -1780,7 +1828,7 @@ Time: T 14:30-16:00
 	Room: EY303
 Time: H 14:30-16:00
 	Room: EY303
-Class Size: 43/43
+Class Size: 39/45
 Professor: CARANDANG, ERNESTO VILLALUZ
 
 Class Info of #2125:
@@ -1790,8 +1838,8 @@ Time: M 07:30-09:00
 	Room: VL405
 Time: W 07:30-09:00
 	Room: VL405
-Class Size: 44/43
-Professor: TORRELIZA, MYRNA AUSTRIA
+Class Size: 44/45
+Professor: ORELLANA, JOEL LORESCA
 
 Class Info of #2126:
 Course Code: GEFILI2
@@ -1800,7 +1848,7 @@ Time: T 11:00-12:30
 	Room: LS109
 Time: H 11:00-12:30
 	Room: LS109
-Class Size: 43/43
+Class Size: 45/45
 Professor: ORELLANA, JOEL LORESCA
 
 Class Info of #2129:
@@ -1810,8 +1858,8 @@ Time: T 16:15-17:45
 	Room: VL309
 Time: H 16:15-17:45
 	Room: VL309
-Class Size: 42/43
-Professor: QUIORE, LILIBETH OBLENA
+Class Size: 45/45
+Professor: ALFONSO, ALPHONSUS LUIGI ESTRADA
 
 Class Info of #2130:
 Course Code: GEFILI2
@@ -1830,7 +1878,7 @@ Time: M 16:15-17:45
 	Room: VL307
 Time: W 16:15-17:45
 	Room: VL307
-Class Size: 43/43
+Class Size: 45/45
 Professor: CAYANES, DEXTER BOMEDIANO
 
 Class Info of #2921:
@@ -1840,8 +1888,8 @@ Time: M 14:30-16:00
 	Room: VL508
 Time: W 14:30-16:00
 	Room: VL508
-Class Size: 43/43
-Professor: DOMINGO, EFREN JONGAY
+Class Size: 45/45
+Professor: CALINDRO, MIRYLLE ABLANIDO
 Remarks: HYBRID
 
 Class Info of #2922:
@@ -1851,8 +1899,8 @@ Time: M 16:15-17:45
 	Room: VL509
 Time: W 16:15-17:45
 	Room: VL509
-Class Size: 24/43
-Professor: TORRELIZA, MYRNA AUSTRIA
+Class Size: 23/45
+Professor: DOMINGO, EFREN JONGAY
 Remarks: HYBRID
 
 Class Info of #1756:
@@ -1862,7 +1910,7 @@ Time: M 12:45-14:15
 	Room: VL509
 Time: W 12:45-14:15
 	Room: VL509
-Class Size: 44/43
+Class Size: 45/45
 Professor: SAN JUAN, DAVID MICHAEL MARCELINO
 Remarks: HYBRID
 
@@ -1873,7 +1921,7 @@ Time: T 09:15-10:45
 	Room: EY403
 Time: H 09:15-10:45
 	Room: EY403
-Class Size: 44/43
+Class Size: 45/45
 Professor: CARANDANG, ERNESTO VILLALUZ
 Remarks: HYBRID
 
@@ -1884,7 +1932,7 @@ Time: T 16:15-17:45
 	Room: SJ106
 Time: H 16:15-17:45
 	Room: SJ106
-Class Size: 13/43
+Class Size: 12/45
 Professor: ROXAS, MARIA LUCILLE G.
 Remarks: HYBRID
 
@@ -1906,8 +1954,8 @@ Time: M 14:30-16:00
 	Room: SJ113
 Time: W 14:30-16:00
 	Room: SJ113
-Class Size: 20/43
-Professor: TORRELIZA, MYRNA AUSTRIA
+Class Size: 21/45
+Professor: DOMINGO, EFREN JONGAY
 
 Class Info of #998:
 Course Code: GEFILI2
@@ -1916,7 +1964,7 @@ Time: T 12:45-14:15
 	Room: AG1707
 Time: H 12:45-14:15
 	Room: AG1707
-Class Size: 41/43
+Class Size: 42/45
 Professor: ROXAS, MARIA LUCILLE G.
 Remarks: HYBRID
 
@@ -1927,7 +1975,7 @@ Time: M 11:00-12:30
 	Room: AG1707
 Time: W 11:00-12:30
 	Room: AG1707
-Class Size: 40/43
+Class Size: 40/45
 Professor: MANGAHIS, JOSEFINA C.
 Remarks: HYBRID
 
@@ -1938,7 +1986,7 @@ Time: M 14:30-16:00
 	Room: AG1604
 Time: W 14:30-16:00
 	Room: AG1604
-Class Size: 12/30
+Class Size: 9/30
 Professor: MANGAHIS, JOSEFINA C.
 Remarks: HYBRID
 
@@ -1949,7 +1997,7 @@ Time: M 07:30-09:00
 	Room: GK212
 Time: W 07:30-09:00
 	Room: GK212
-Class Size: 32/43
+Class Size: 28/45
 Professor: MANGAHIS, JOSEFINA C.
 Remarks: HYBRID
 
@@ -1960,7 +2008,7 @@ Time: T 14:30-16:00
 	Room: LS319
 Time: H 14:30-16:00
 	Room: LS319
-Class Size: 43/43
+Class Size: 44/45
 Professor: DOMINGO, EFREN JONGAY
 Remarks: HYBRID
 
@@ -1982,7 +2030,7 @@ Time: M 09:15-10:45
 	Room: GK213
 Time: W 09:15-10:45
 	Room: GK213
-Class Size: 44/43
+Class Size: 45/45
 Professor: SAN JUAN, DAVID MICHAEL MARCELINO
 Remarks: HYBRID
 
@@ -1993,7 +2041,7 @@ Time: M 07:30-09:00
 	Room: GK208
 Time: W 07:30-09:00
 	Room: GK208
-Class Size: 43/43
+Class Size: 45/45
 Professor: SAN JUAN, DAVID MICHAEL MARCELINO
 Remarks: HYBRID
 
@@ -2004,7 +2052,7 @@ Time: T 07:30-09:00
 	Room: GK204
 Time: H 07:30-09:00
 	Room: GK204
-Class Size: 42/43
+Class Size: 42/45
 Professor: ROXAS, MARIA LUCILLE G.
 Remarks: HYBRID
 
@@ -2015,7 +2063,8 @@ Time: M 16:15-17:45
 	Room: GK206
 Time: W 16:15-17:45
 	Room: GK206
-Class Size: 25/43
+Class Size: 20/45
+Professor: ALVAREZ-ENCABO, EVANGELINE
 Remarks: HYBRID
 
 Class Info of #2256:
@@ -2025,7 +2074,7 @@ Time: T 16:15-17:45
 	Room: GK209
 Time: H 16:15-17:45
 	Room: GK209
-Class Size: 43/43
+Class Size: 45/45
 Professor: DOMINGO, EFREN JONGAY
 Remarks: HYBRID
 
@@ -2036,7 +2085,7 @@ Time: T 11:00-12:30
 	Room: GK208
 Time: H 11:00-12:30
 	Room: GK208
-Class Size: 36/43
+Class Size: 29/45
 Professor: ROXAS, MARIA LUCILLE G.
 Remarks: HYBRID
 
@@ -2047,8 +2096,8 @@ Time: M 12:45-14:15
 	Room: GK204
 Time: W 12:45-14:15
 	Room: GK204
-Class Size: 43/43
-Professor: CALINDRO, MIRYLLE ABLANIDO
+Class Size: 45/45
+Professor: FELICILDA, JOSHUA MARIZ BELTRAN
 Remarks: HYBRID
 
 		retrieving classes for GEDANCE...
@@ -2057,7 +2106,7 @@ Course Code: GEDANCE
 Section: A51
 Time: M 07:30-09:30
 	Room: ER804
-Class Size: 37/43
+Class Size: 38/45
 Professor: CACHOLA-MIÑAS, GERALDINE
 
 Class Info of #3226:
@@ -2065,7 +2114,7 @@ Course Code: GEDANCE
 Section: A52
 Time: M 13:00-15:00
 	Room: ER804
-Class Size: 43/43
+Class Size: 45/45
 Professor: CACHOLA-MIÑAS, GERALDINE
 
 Class Info of #3225:
@@ -2073,7 +2122,7 @@ Course Code: GEDANCE
 Section: A53
 Time: M 15:30-17:30
 	Room: ER804
-Class Size: 43/43
+Class Size: 38/45
 Professor: CACHOLA-MIÑAS, GERALDINE
 
 Class Info of #3222:
@@ -2081,7 +2130,7 @@ Course Code: GEDANCE
 Section: A54
 Time: T 07:30-09:30
 	Room: ER804
-Class Size: 43/43
+Class Size: 41/45
 Professor: CORDOVA, MA. SOCORRO GIGI VILLAMOR
 
 Class Info of #3216:
@@ -2089,7 +2138,7 @@ Course Code: GEDANCE
 Section: A55
 Time: T 13:00-15:00
 	Room: ER804
-Class Size: 44/43
+Class Size: 45/45
 Professor: ORIBIANA, DIONISIO MERCADO
 
 Class Info of #3215:
@@ -2097,7 +2146,7 @@ Course Code: GEDANCE
 Section: A56
 Time: T 15:30-17:30
 	Room: ER804
-Class Size: 43/43
+Class Size: 42/45
 Professor: TAPANG, MARGARITA VELARDE
 
 Class Info of #3221:
@@ -2105,7 +2154,7 @@ Course Code: GEDANCE
 Section: A57
 Time: W 07:30-09:30
 	Room: ER804
-Class Size: 43/43
+Class Size: 42/45
 Professor: CORDOVA, MA. SOCORRO GIGI VILLAMOR
 
 Class Info of #3219:
@@ -2113,7 +2162,7 @@ Course Code: GEDANCE
 Section: A58
 Time: W 13:00-15:00
 	Room: ER804
-Class Size: 43/43
+Class Size: 45/45
 Professor: FRIGILLANA, AHLI ILUSTRE
 
 Class Info of #3214:
@@ -2121,7 +2170,7 @@ Course Code: GEDANCE
 Section: A59
 Time: W 15:30-17:30
 	Room: ER804
-Class Size: 43/43
+Class Size: 37/45
 Professor: TAPANG, MARGARITA VELARDE
 
 Class Info of #3218:
@@ -2129,7 +2178,7 @@ Course Code: GEDANCE
 Section: A60
 Time: H 07:30-09:30
 	Room: ER804
-Class Size: 43/43
+Class Size: 43/45
 Professor: IRINCO, MARIA CARINA TUMALE
 
 Class Info of #3220:
@@ -2137,7 +2186,7 @@ Course Code: GEDANCE
 Section: A61
 Time: H 13:00-15:00
 	Room: ER804
-Class Size: 43/43
+Class Size: 45/45
 Professor: CORDOVA, MA. SOCORRO GIGI VILLAMOR
 
 Class Info of #3217:
@@ -2145,7 +2194,7 @@ Course Code: GEDANCE
 Section: A62
 Time: H 15:30-17:30
 	Room: ER804
-Class Size: 43/43
+Class Size: 44/45
 Professor: OLARTE, CHRISTOPHER POGOY
 
 Class Info of #3213:
@@ -2153,7 +2202,7 @@ Course Code: GEDANCE
 Section: A63
 Time: H 07:30-09:30
 	Room: ER1004
-Class Size: 40/43
+Class Size: 41/45
 Professor: TOLDOYA, JACKLYN ANNE DIMATULAC
 
 Class Info of #3244:
@@ -2161,7 +2210,7 @@ Course Code: GEDANCE
 Section: C31
 Time: M 07:30-09:30
 	Room: ER7B
-Class Size: 39/43
+Class Size: 39/45
 Professor: CACHOLA-MIÑAS, GERALDINE
 
 Class Info of #3243:
@@ -2169,7 +2218,7 @@ Course Code: GEDANCE
 Section: C32
 Time: M 10:00-12:00
 	Room: ER1001
-Class Size: 43/43
+Class Size: 44/45
 Professor: TOLDOYA, JACKLYN ANNE DIMATULAC
 
 Class Info of #3242:
@@ -2177,7 +2226,7 @@ Course Code: GEDANCE
 Section: C33
 Time: T 07:30-09:30
 	Room: ER1001
-Class Size: 42/43
+Class Size: 38/45
 Professor: SAMSON, MARIJOY REGALA
 
 Class Info of #3241:
@@ -2185,7 +2234,7 @@ Course Code: GEDANCE
 Section: C34
 Time: T 10:00-12:00
 	Room: ER7A
-Class Size: 40/43
+Class Size: 42/45
 Professor: ORIBIANA, DIONISIO MERCADO
 
 Class Info of #3240:
@@ -2193,7 +2242,7 @@ Course Code: GEDANCE
 Section: C35
 Time: T 10:00-12:00
 	Room: ER1004
-Class Size: 42/43
+Class Size: 40/45
 Professor: DIOQUINO, AUREA DICHOSO
 
 Class Info of #3239:
@@ -2201,7 +2250,7 @@ Course Code: GEDANCE
 Section: C36
 Time: W 10:00-12:00
 	Room: ER7B
-Class Size: 43/43
+Class Size: 45/45
 Professor: DOMINGO, JOHN PAUL RANCES
 
 Class Info of #3238:
@@ -2209,7 +2258,7 @@ Course Code: GEDANCE
 Section: C37
 Time: W 10:00-12:00
 	Room: ER804
-Class Size: 43/43
+Class Size: 45/45
 Professor: FRIGILLANA, AHLI ILUSTRE
 
 Class Info of #3237:
@@ -2217,7 +2266,7 @@ Course Code: GEDANCE
 Section: C38
 Time: W 10:00-12:00
 	Room: ER1001
-Class Size: 42/43
+Class Size: 42/45
 Professor: RODRIGUEZ, CAROL BERGONIA
 
 Class Info of #3236:
@@ -2225,7 +2274,7 @@ Course Code: GEDANCE
 Section: C39
 Time: W 13:00-15:00
 	Room: ER7A
-Class Size: 43/43
+Class Size: 45/45
 Professor: RODRIGUEZ, CAROL BERGONIA
 
 Class Info of #3235:
@@ -2233,7 +2282,7 @@ Course Code: GEDANCE
 Section: C40
 Time: W 15:30-17:30
 	Room: ER1004
-Class Size: 43/43
+Class Size: 42/45
 Professor: DOMINGO, JOHN PAUL RANCES
 
 Class Info of #3234:
@@ -2241,7 +2290,7 @@ Course Code: GEDANCE
 Section: C41
 Time: H 10:00-12:00
 	Room: ER804
-Class Size: 43/43
+Class Size: 45/45
 Professor: CORDOVA, MA. SOCORRO GIGI VILLAMOR
 
 Class Info of #3233:
@@ -2249,14 +2298,14 @@ Course Code: GEDANCE
 Section: C42
 Time: H 10:00-12:00
 	Room: ER1004
-Class Size: 42/43
+Class Size: 38/45
 
 Class Info of #3232:
 Course Code: GEDANCE
 Section: C43
 Time: F 07:30-09:30
 	Room: ER804
-Class Size: 43/43
+Class Size: 45/45
 Professor: IRINCO, MARIA CARINA TUMALE
 
 Class Info of #945:
@@ -2264,7 +2313,7 @@ Course Code: GEDANCE
 Section: C44
 Time: F 10:00-12:00
 	Room: ER1004
-Class Size: 43/43
+Class Size: 45/45
 Professor: SAMSON, MARIJOY REGALA
 
 Class Info of #3211:
@@ -2272,7 +2321,7 @@ Course Code: GEDANCE
 Section: L81
 Time: T 13:00-15:00
 	Room: ER1004
-Class Size: 43/43
+Class Size: 45/45
 Professor: DIOQUINO, AUREA DICHOSO
 
 Class Info of #3210:
@@ -2280,7 +2329,7 @@ Course Code: GEDANCE
 Section: L82
 Time: T 07:30-09:30
 	Room: ER1004
-Class Size: 29/43
+Class Size: 27/45
 Professor: DIOQUINO, AUREA DICHOSO
 
 Class Info of #3209:
@@ -2288,7 +2337,7 @@ Course Code: GEDANCE
 Section: L83
 Time: W 07:30-09:30
 	Room: ER1004
-Class Size: 33/43
+Class Size: 31/45
 Professor: DOMINGO, JOHN PAUL RANCES
 
 Class Info of #3212:
@@ -2296,7 +2345,7 @@ Course Code: GEDANCE
 Section: L84
 Time: M 07:30-09:30
 	Room: ER1004
-Class Size: 3/43
+Class Size: 1/45
 Professor: IRINCO, MARIA CARINA TUMALE
 
 Class Info of #3230:
@@ -2304,63 +2353,63 @@ Course Code: GEDANCE
 Section: S11
 Time: M 15:30-17:30
 	Room: ER1004
-Class Size: 43/43
+Class Size: 43/45
 
 Class Info of #3204:
 Course Code: GEDANCE
 Section: S12
 Time: M 13:00-15:00
 	Room: ER1004
-Class Size: 43/43
+Class Size: 45/45
 
 Class Info of #3229:
 Course Code: GEDANCE
 Section: S13
 Time: W 13:00-15:00
 	Room: ER1004
-Class Size: 43/43
+Class Size: 45/45
 
 Class Info of #3228:
 Course Code: GEDANCE
 Section: S14
 Time: W 15:30-17:30
 	Room: ER1001
-Class Size: 43/43
+Class Size: 43/45
 
 Class Info of #3203:
 Course Code: GEDANCE
 Section: S15
 Time: H 15:30-17:30
 	Room: ER1004
-Class Size: 43/43
+Class Size: 45/45
 
 Class Info of #3224:
 Course Code: GEDANCE
 Section: S16
 Time: H 13:00-15:00
 	Room: ER1004
-Class Size: 43/43
+Class Size: 45/45
 
 Class Info of #3223:
 Course Code: GEDANCE
 Section: S17
 Time: T 15:30-17:30
 	Room: ER1001
-Class Size: 43/43
+Class Size: 45/45
 
 Class Info of #3208:
 Course Code: GEDANCE
 Section: V24
 Time: H 07:30-09:30
 	Room: ER1001
-Class Size: 38/43
+Class Size: 39/45
 
 Class Info of #3207:
 Course Code: GEDANCE
 Section: V25
 Time: H 15:30-17:30
 	Room: ER1001
-Class Size: 44/43
+Class Size: 43/45
 Professor: CALABIO, VIRGILIA TOHOY
 
 		retrieving classes for CCINFOM...
@@ -2380,7 +2429,7 @@ Time: M 09:15-10:45
 	Room: GK302A, GK302B
 Time: W 09:15-10:45
 	Room: GK302A, GK302B
-Class Size: 42/45
+Class Size: 44/45
 Professor: MALABANAN, OLIVER ARCIAGA
 
 Class Info of #992:
@@ -2390,7 +2439,7 @@ Time: M 11:00-12:30
 	Room: GK306A, GK306B
 Time: W 11:00-12:30
 	Room: GK306A, GK306B
-Class Size: 37/45
+Class Size: 38/45
 Professor: MALABANAN, OLIVER ARCIAGA
 
 Class Info of #2566:
@@ -2410,8 +2459,8 @@ Time: T 14:30-16:00
 	Room: GK304B
 Time: H 14:30-16:00
 	Room: GK304B
-Class Size: 45/45
-Professor: MALABANAN, OLIVER ARCIAGA
+Class Size: 42/45
+Professor: BERTUMEN, ESTEFANIE ULIT
 
 Class Info of #1751:
 Course Code: CCINFOM
@@ -2421,7 +2470,7 @@ Time: T 12:45-14:15
 Time: H 12:45-14:15
 	Room: GK304B
 Class Size: 43/45
-Professor: TANGKEKO, MARIVIC SANTOS
+Professor: CHING, MICHELLE RENEE DOMINGO
 
 		retrieving classes for CCDSALG...
 Class Info of #3523:
@@ -2431,7 +2480,7 @@ Time: M 12:45-14:15
 	Room: GK208
 Time: W 12:45-14:15
 	Room: GK208
-Class Size: 19/43
+Class Size: 19/45
 
 Class Info of #3524:
 Course Code: CCDSALG
@@ -2440,7 +2489,7 @@ Time: M 14:30-16:00
 	Room: GK207
 Time: W 14:30-16:00
 	Room: GK207
-Class Size: 20/43
+Class Size: 20/45
 
 		retrieving classes for ISOPRES...
 Class Info of #2261:
@@ -2450,7 +2499,7 @@ Time: T 09:15-10:45
 	Room: GK210
 Time: H 09:15-10:45
 	Room: GK210
-Class Size: 35/43
+Class Size: 34/45
 Professor: MOLANO, RENATO JOSE MA. VILLANUEVA
 
 Class Info of #2262:
@@ -2460,7 +2509,7 @@ Time: T 07:30-09:00
 	Room: GK210
 Time: H 07:30-09:00
 	Room: GK210
-Class Size: 4/43
+Class Size: 5/45
 Professor: MOLANO, RENATO JOSE MA. VILLANUEVA
 
 		retrieving classes for ISFINMA...
@@ -2471,7 +2520,7 @@ Time: M 09:15-10:45
 	Room: GK207
 Time: W 09:15-10:45
 	Room: GK207
-Class Size: 38/43
+Class Size: 38/45
 Professor: ARCILLA, MARY JANE BACONG
 
 		retrieving classes for NSTPLT2...
@@ -2480,7 +2529,7 @@ Course Code: NSTPLT2
 Section: A51
 Time: S 13:00-16:00
 	Room: LS308
-Class Size: 38/43
+Class Size: 39/45
 Professor: GARCIA, ABRAHAM TINONAS
 
 Class Info of #3177:
@@ -2488,7 +2537,7 @@ Course Code: NSTPLT2
 Section: A52
 Time: S 13:00-16:00
 	Room: LS309
-Class Size: 41/43
+Class Size: 41/45
 Professor: GARCIA, ABRAHAM TINONAS
 
 Class Info of #3176:
@@ -2496,7 +2545,7 @@ Course Code: NSTPLT2
 Section: A53
 Time: S 13:00-16:00
 	Room: LS310
-Class Size: 37/43
+Class Size: 37/45
 Professor: GARCIA, ABRAHAM TINONAS
 
 Class Info of #3175:
@@ -2504,7 +2553,7 @@ Course Code: NSTPLT2
 Section: A54
 Time: S 13:00-16:00
 	Room: LS302
-Class Size: 40/43
+Class Size: 40/45
 Professor: GARCIA, ABRAHAM TINONAS
 
 Class Info of #3174:
@@ -2512,7 +2561,7 @@ Course Code: NSTPLT2
 Section: A55
 Time: S 13:00-16:00
 	Room: GK201
-Class Size: 18/43
+Class Size: 18/45
 Professor: GARCIA, ABRAHAM TINONAS
 
 Class Info of #3173:
@@ -2520,7 +2569,7 @@ Course Code: NSTPLT2
 Section: A56
 Time: S 13:00-16:00
 	Room: GK202
-Class Size: 28/43
+Class Size: 28/45
 Professor: GARCIA, ABRAHAM TINONAS
 
 Class Info of #3180:
@@ -2528,7 +2577,7 @@ Course Code: NSTPLT2
 Section: N01
 Time: S 09:00-12:00
 	Room: SJ210
-Class Size: 42/43
+Class Size: 42/45
 Professor: GARCIA, ABRAHAM TINONAS
 
 Class Info of #3179:
@@ -2536,7 +2585,7 @@ Course Code: NSTPLT2
 Section: N02
 Time: S 09:00-12:00
 	Room: SJ211
-Class Size: 43/43
+Class Size: 44/45
 Professor: GARCIA, ABRAHAM TINONAS
 
 Class Info of #3181:
@@ -2544,7 +2593,7 @@ Course Code: NSTPLT2
 Section: S11
 Time: S 09:00-12:00
 	Room: GK206
-Class Size: 44/43
+Class Size: 44/45
 Professor: GARCIA, ABRAHAM TINONAS
 
 Class Info of #944:
@@ -2552,7 +2601,7 @@ Course Code: NSTPLT2
 Section: S12
 Time: S 09:00-12:00
 	Room: GK207
-Class Size: 43/43
+Class Size: 44/45
 Professor: GARCIA, ABRAHAM TINONAS
 
 Class Info of #3172:
@@ -2560,8 +2609,8 @@ Course Code: NSTPLT2
 Section: V24
 Time: S 09:00-12:00
 	Room: LS304
-Class Size: 43/43
-Professor: FERNANDEZ, CARL GUERRA
+Class Size: 45/45
+Professor: GARCIA, ABRAHAM TINONAS
 
 		retrieving classes for GERPHIS...
 Class Info of #3146:
@@ -2572,6 +2621,7 @@ Time: M 12:45-14:15
 Time: W 12:45-14:15
 	Room: AG708
 Class Size: 45/43
+Professor: TORRES, JOSE VICTOR ZARCAL
 
 Class Info of #3145:
 Course Code: GERPHIS
@@ -2581,6 +2631,7 @@ Time: M 07:30-09:00
 Time: W 07:30-09:00
 	Room: AG708
 Class Size: 42/43
+Professor: SANTIAGO, FERNANDO ANTONIO
 
 Class Info of #943:
 Course Code: GERPHIS
@@ -2589,7 +2640,8 @@ Time: T 14:30-16:00
 	Room: AG702
 Time: H 14:30-16:00
 	Room: AG702
-Class Size: 43/43
+Class Size: 44/43
+Professor: MACAPINLAC, MARCELINO MUÑOZ
 
 Class Info of #3144:
 Course Code: GERPHIS
@@ -2599,6 +2651,7 @@ Time: T 07:30-09:00
 Time: H 07:30-09:00
 	Room: AG708
 Class Size: 43/43
+Professor: UBALDO, LARS RAYMUND CORTUNA
 
 Class Info of #3136:
 Course Code: GERPHIS
@@ -2608,6 +2661,7 @@ Time: T 14:30-16:00
 Time: H 14:30-16:00
 	Room: AG708
 Class Size: 43/43
+Professor: UBALDO, LARS RAYMUND CORTUNA
 
 Class Info of #3143:
 Course Code: GERPHIS
@@ -2616,8 +2670,8 @@ Time: M 07:30-09:00
 	Room: AG1406
 Time: W 07:30-09:00
 	Room: AG1406
-Class Size: 23/25
-Professor: ADOPTANTE, MYRA MARTIN
+Class Size: 25/25
+Professor: MALBAROSA, JOSE MA. ARCADIO CLEMENO
 
 Class Info of #3142:
 Course Code: GERPHIS
@@ -2637,7 +2691,7 @@ Time: M 11:00-12:30
 Time: W 11:00-12:30
 	Room: AG1406
 Class Size: 25/25
-Professor: ADOPTANTE, MYRA MARTIN
+Professor: MACAPINLAC, MARCELINO MUÑOZ
 
 Class Info of #3140:
 Course Code: GERPHIS
@@ -2647,7 +2701,7 @@ Time: M 12:45-14:15
 Time: W 12:45-14:15
 	Room: AG1406
 Class Size: 25/25
-Professor: TORRES, JOSE VICTOR ZARCAL
+Professor: MACAPINLAC, MARCELINO MUÑOZ
 
 Class Info of #3139:
 Course Code: GERPHIS
@@ -2656,8 +2710,8 @@ Time: M 14:30-16:00
 	Room: SJ302
 Time: W 14:30-16:00
 	Room: SJ302
-Class Size: 44/43
-Professor: MACAPINLAC, MARCELINO MUÑOZ
+Class Size: 43/43
+Professor: MALBAROSA, JOSE MA. ARCADIO CLEMENO
 
 Class Info of #3137:
 Course Code: GERPHIS
@@ -2666,8 +2720,8 @@ Time: T 16:15-17:45
 	Room: LS228
 Time: H 16:15-17:45
 	Room: LS228
-Class Size: 42/43
-Professor: DELA CRUZ, ARLEIGH ROSS DY
+Class Size: 33/45
+Professor: MALBAROSA, JOSE MA. ARCADIO CLEMENO
 
 Class Info of #3147:
 Course Code: GERPHIS
@@ -2677,6 +2731,7 @@ Time: T 16:15-17:45
 Time: H 16:15-17:45
 	Room: SM316
 Class Size: 45/43
+Professor: DE GUZMAN, BILLY NORCIO
 
 Class Info of #3138:
 Course Code: GERPHIS
@@ -2685,7 +2740,8 @@ Time: T 16:15-17:45
 	Room: LS319
 Time: H 16:15-17:45
 	Room: LS319
-Class Size: 39/43
+Class Size: 38/43
+Professor: MACAPINLAC, MARCELINO MUÑOZ
 
 		retrieving classes for GESPORT...
 Class Info of #2133:
@@ -2693,119 +2749,119 @@ Course Code: GESPORT
 Section: EA1
 Time: H 07:30-09:30
 	Room: ER7A
-Class Size: 42/43
+Class Size: 45/45
 
 Class Info of #2134:
 Course Code: GESPORT
 Section: EA2
 Time: W 07:30-09:30
 	Room: ER7A
-Class Size: 43/43
+Class Size: 40/45
 
 Class Info of #2135:
 Course Code: GESPORT
 Section: EB
 Time: M 15:30-17:30
 	Room: ER7B
-Class Size: 43/43
+Class Size: 45/45
 
 Class Info of #2136:
 Course Code: GESPORT
 Section: EC
 Time: T 15:30-17:30
 	Room: ER7T
-Class Size: 43/43
+Class Size: 45/45
 
 Class Info of #2137:
 Course Code: GESPORT
 Section: EE
 Time: F 07:30-09:30
 	Room: ER7B
-Class Size: 43/43
+Class Size: 41/45
 
 Class Info of #2139:
 Course Code: GESPORT
 Section: EF1
 Time: F 07:30-09:30
 	Room: ER1004
-Class Size: 43/43
+Class Size: 43/45
 
 Class Info of #2140:
 Course Code: GESPORT
 Section: EF2
 Time: F 07:30-09:30
 	Room: ER7T
-Class Size: 43/43
+Class Size: 45/45
 
 Class Info of #2141:
 Course Code: GESPORT
 Section: EG2
 Time: F 07:30-09:30
 	Room: ER7A
-Class Size: 43/43
+Class Size: 43/45
 
 Class Info of #2142:
 Course Code: GESPORT
 Section: EH
 Time: W 07:30-09:30
 	Room: ER7T
-Class Size: 43/43
+Class Size: 45/45
 
 Class Info of #2143:
 Course Code: GESPORT
 Section: EI
 Time: T 07:30-09:30
 	Room: ER7B
-Class Size: 33/43
+Class Size: 30/45
 
 Class Info of #981:
 Course Code: GESPORT
 Section: EJ
 Time: H 07:30-09:30
 	Room: ER7B
-Class Size: 35/43
+Class Size: 33/45
 
 Class Info of #2144:
 Course Code: GESPORT
 Section: EK
 Time: T 15:30-17:30
 	Room: ER1004
-Class Size: 43/43
+Class Size: 42/45
 
 Class Info of #2145:
 Course Code: GESPORT
 Section: EL
 Time: H 10:00-12:00
 	Room: ER7B
-Class Size: 43/43
+Class Size: 45/45
 
 Class Info of #2146:
 Course Code: GESPORT
 Section: EQ1
 Time: M 07:30-09:30
 	Room: ER7A
-Class Size: 42/43
+Class Size: 43/45
 
 Class Info of #2147:
 Course Code: GESPORT
 Section: EQ2
 Time: M 10:00-12:00
 	Room: ER7A
-Class Size: 43/43
+Class Size: 44/45
 
 Class Info of #2148:
 Course Code: GESPORT
 Section: EW
 Time: H 10:00-12:00
 	Room: ER7A
-Class Size: 41/43
+Class Size: 26/45
 
 Class Info of #1272:
 Course Code: GESPORT
 Section: L81
 Time: H 07:30-09:30
 	Room: ER701
-Class Size: 23/43
+Class Size: 23/45
 Professor: MARIANO, JANET SANTOS
 
 Class Info of #1005:
@@ -2813,7 +2869,7 @@ Course Code: GESPORT
 Section: N01
 Time: M 15:30-17:30
 	Room: ER701
-Class Size: 39/43
+Class Size: 40/45
 Professor: MARCELINO, ARIEL CHRISTOPHER ENTRATA
 
 Class Info of #1006:
@@ -2821,7 +2877,7 @@ Course Code: GESPORT
 Section: N02
 Time: F 11:00-13:00
 	Room: ER701
-Class Size: 43/43
+Class Size: 45/45
 Professor: AGUINALDO, JERRWIN CALIXTO
 
 Class Info of #1007:
@@ -2829,7 +2885,7 @@ Course Code: GESPORT
 Section: N03
 Time: W 07:30-09:30
 	Room: ER701
-Class Size: 43/43
+Class Size: 41/45
 Professor: MARIANO, JANET SANTOS
 
 Class Info of #1008:
@@ -2837,7 +2893,7 @@ Course Code: GESPORT
 Section: N04
 Time: T 15:30-17:30
 	Room: ER701
-Class Size: 21/43
+Class Size: 23/45
 Professor: CABRITO, ROMEO CAGOMOC
 
 Class Info of #1009:
@@ -2845,7 +2901,7 @@ Course Code: GESPORT
 Section: N05
 Time: T 15:30-17:30
 	Room: ER7B
-Class Size: 43/43
+Class Size: 44/45
 Professor: OLARTE, CHRISTOPHER POGOY
 
 Class Info of #1010:
@@ -2853,7 +2909,7 @@ Course Code: GESPORT
 Section: N06
 Time: H 15:30-17:30
 	Room: ER701
-Class Size: 38/43
+Class Size: 37/45
 Professor: MARCELINO, ARIEL CHRISTOPHER ENTRATA
 
 Class Info of #1011:
@@ -2861,7 +2917,7 @@ Course Code: GESPORT
 Section: N07
 Time: W 07:30-09:30
 	Room: ER7B
-Class Size: 43/43
+Class Size: 45/45
 Professor: ACIBAR, MERLIE TATAD
 
 Class Info of #1012:
@@ -2869,7 +2925,7 @@ Course Code: GESPORT
 Section: N08
 Time: H 13:00-15:00
 	Room: ER701
-Class Size: 42/43
+Class Size: 42/45
 Professor: MARCELINO, ARIEL CHRISTOPHER ENTRATA
 
 Class Info of #1013:
@@ -2877,7 +2933,7 @@ Course Code: GESPORT
 Section: N09
 Time: M 13:00-15:00
 	Room: ER701
-Class Size: 43/43
+Class Size: 45/45
 Professor: CABRITO, ROMEO CAGOMOC
 
 		retrieving classes for LCENWRD...
@@ -2899,7 +2955,7 @@ Time: M 12:45-14:15
 Time: W 12:45-14:15
 	Room: AG902
 Class Size: 44/43
-Professor: SEÑO, REUEL RITO NARAG
+Professor: LACSA, JOSE ERIC MELLA
 
 Class Info of #1583:
 Course Code: LCENWRD
@@ -2909,7 +2965,7 @@ Time: T 09:15-10:45
 Time: H 09:15-10:45
 	Room: AG1007
 Class Size: 45/43
-Professor: MACARAAN, WILLARD ENRIQUE RACELIS
+Professor: CONCEPCION, ROBERTO MARCELO
 
 Class Info of #1588:
 Course Code: LCENWRD
@@ -2919,7 +2975,7 @@ Time: T 14:30-16:00
 Time: H 14:30-16:00
 	Room: AG902
 Class Size: 45/43
-Professor: LACSA, JOSE ERIC MELLA
+Professor: IBITA, MA. MARILOU SENA
 
 Class Info of #1594:
 Course Code: LCENWRD
@@ -2948,7 +3004,7 @@ Time: T 07:30-09:00
 	Room: AG1109
 Time: H 07:30-09:00
 	Room: AG1109
-Class Size: 42/43
+Class Size: 45/43
 Professor: LEAL, MELANIO LAZAGA
 
 Class Info of #2621:
@@ -2989,7 +3045,7 @@ Time: T 16:15-17:45
 Time: H 16:15-17:45
 	Room: AG1102
 Class Size: 45/43
-Professor: ARABIT, AURIA ULANG
+Professor: IBITA, MA. MARILOU SENA
 
 Class Info of #2845:
 Course Code: LCENWRD
@@ -3008,8 +3064,8 @@ Time: M 12:45-14:15
 	Room: AG1702
 Time: W 12:45-14:15
 	Room: AG1702
-Class Size: 44/43
-Professor: CONCEPCION, ROBERTO MARCELO
+Class Size: 45/43
+Professor: ANTONIO, GLORIA MAPANOO
 
 Class Info of #2852:
 Course Code: LCENWRD
@@ -3019,7 +3075,7 @@ Time: T 12:45-14:15
 Time: H 12:45-14:15
 	Room: AG1110
 Class Size: 45/43
-Professor: MOZOL, ALVENIO GAMBAN
+Professor: DEL MUNDO, MELANI PANOPIO
 
 Class Info of #2854:
 Course Code: LCENWRD
@@ -3029,7 +3085,7 @@ Time: M 14:30-16:00
 Time: W 14:30-16:00
 	Room: AG1704
 Class Size: 45/43
-Professor: SEMBRANO, LUIS CORPUS
+Professor: CORPUZ, JEFF CLYDE GUILLERMO
 
 Class Info of #2856:
 Course Code: LCENWRD
@@ -3038,8 +3094,8 @@ Time: M 07:30-09:00
 	Room: AG1704
 Time: W 07:30-09:00
 	Room: AG1704
-Class Size: 44/43
-Professor: SALCEDO, FRANCIS XAVIER ROBLES
+Class Size: 45/45
+Professor: OLLANO, ROSARIE ARMIE TENIDO
 
 Class Info of #2858:
 Course Code: LCENWRD
@@ -3049,7 +3105,7 @@ Time: T 14:30-16:00
 Time: H 14:30-16:00
 	Room: AG1701
 Class Size: 45/43
-Professor: ARABIT, AURIA ULANG
+Professor: DEL MUNDO, MELANI PANOPIO
 
 Class Info of #2860:
 Course Code: LCENWRD
@@ -3058,8 +3114,8 @@ Time: M 09:15-10:45
 	Room: SM307
 Time: W 09:15-10:45
 	Room: SM307
-Class Size: 43/43
-Professor: SEÑO, REUEL RITO NARAG
+Class Size: 44/43
+Professor: OLLANO, ROSARIE ARMIE TENIDO
 
 Class Info of #2862:
 Course Code: LCENWRD
@@ -3068,7 +3124,7 @@ Time: M 14:30-16:00
 	Room: VL202
 Time: W 14:30-16:00
 	Room: VL202
-Class Size: 44/38
+Class Size: 43/38
 Professor: MOZOL, ALVENIO GAMBAN
 
 Class Info of #2864:
@@ -3079,7 +3135,7 @@ Time: T 11:00-12:30
 Time: H 11:00-12:30
 	Room: AG1704
 Class Size: 45/43
-Professor: SEMBRANO, LUIS CORPUS
+Professor: CORPUZ, JEFF CLYDE GUILLERMO
 
 Class Info of #2866:
 Course Code: LCENWRD
@@ -3089,7 +3145,7 @@ Time: T 07:30-09:00
 Time: H 07:30-09:00
 	Room: SM409
 Class Size: 45/43
-Professor: SABULAO, ALMA PEÑAVERDE
+Professor: DEL MUNDO, MELANI PANOPIO
 
 Class Info of #2868:
 Course Code: LCENWRD
@@ -3099,7 +3155,7 @@ Time: M 16:15-17:45
 Time: W 16:15-17:45
 	Room: VL203
 Class Size: 44/43
-Professor: CONCEPCION, ROBERTO MARCELO
+Professor: ANTONIO, GLORIA MAPANOO
 
 Class Info of #2870:
 Course Code: LCENWRD
@@ -3118,7 +3174,7 @@ Time: T 11:00-12:30
 	Room: SM408
 Time: H 11:00-12:30
 	Room: SM408
-Class Size: 44/43
+Class Size: 45/43
 Professor: RIVERA, LYSANDER PABLO
 
 Class Info of #2874:
@@ -3129,7 +3185,7 @@ Time: M 11:00-12:30
 Time: W 11:00-12:30
 	Room: LS313
 Class Size: 45/43
-Professor: SALCEDO, FRANCIS XAVIER ROBLES
+Professor: SABULAO, ALMA PEÑAVERDE
 
 Class Info of #2875:
 Course Code: LCENWRD
@@ -3139,7 +3195,7 @@ Time: M 12:45-14:15
 Time: W 12:45-14:15
 	Room: VL204
 Class Size: 45/43
-Professor: SALCEDO, FRANCIS XAVIER ROBLES
+Professor: SABULAO, ALMA PEÑAVERDE
 
 Class Info of #3637:
 Course Code: LCENWRD
@@ -3149,6 +3205,7 @@ Time: M 16:15-17:45
 Time: W 16:15-17:45
 	Room: SM407
 Class Size: 26/40
+Professor: MARAVILLA, MYLENE ICAMINA
 
 Class Info of #3060:
 Course Code: LCENWRD
@@ -3158,7 +3215,7 @@ Time: M 07:30-09:00
 Time: W 07:30-09:00
 	Room: AG1802
 Class Size: 45/43
-Professor: MACARAAN, WILLARD ENRIQUE RACELIS
+Professor: ANTONIO, GLORIA MAPANOO
 
 Class Info of #3061:
 Course Code: LCENWRD
@@ -3167,7 +3224,7 @@ Time: M 12:45-14:15
 	Room: AG1802
 Time: W 12:45-14:15
 	Room: AG1802
-Class Size: 44/43
+Class Size: 45/43
 Professor: MOZOL, ALVENIO GAMBAN
 
 Class Info of #3062:
@@ -3177,8 +3234,8 @@ Time: M 09:15-10:45
 	Room: AG1402
 Time: W 09:15-10:45
 	Room: AG1402
-Class Size: 42/43
-Professor: MACARAAN, WILLARD ENRIQUE RACELIS
+Class Size: 43/43
+Professor: LEAL, MELANIO LAZAGA
 
 Class Info of #1614:
 Course Code: LCENWRD
@@ -3187,7 +3244,7 @@ Time: T 12:45-14:15
 	Room: AG1402
 Time: H 12:45-14:15
 	Room: AG1402
-Class Size: 44/43
+Class Size: 45/43
 Professor: BAUTISTA, ROSEMARIE VINLUAN
 
 Class Info of #1615:
@@ -3198,7 +3255,7 @@ Time: T 11:00-12:30
 Time: H 11:00-12:30
 	Room: AG1708
 Class Size: 45/43
-Professor: BAUTISTA, ROSEMARIE VINLUAN
+Professor: MOZOL, ALVENIO GAMBAN
 
 Class Info of #3063:
 Course Code: LCENWRD
@@ -3207,8 +3264,8 @@ Time: M 11:00-12:30
 	Room: AG1708
 Time: W 11:00-12:30
 	Room: AG1708
-Class Size: 46/43
-Professor: OLLANO, ROSARIE ARMIE TENIDO
+Class Size: 45/43
+Professor: MARAVILLA, MYLENE ICAMINA
 
 Class Info of #1616:
 Course Code: LCENWRD
@@ -3218,7 +3275,7 @@ Time: T 07:30-09:00
 Time: H 07:30-09:00
 	Room: AG1705
 Class Size: 41/43
-Professor: MACARAAN, WILLARD ENRIQUE RACELIS
+Professor: BAUTISTA, ROSEMARIE VINLUAN
 
 Class Info of #2434:
 Course Code: LCENWRD
@@ -3227,7 +3284,7 @@ Time: M 16:15-17:45
 	Room: SM316
 Time: W 16:15-17:45
 	Room: SM316
-Class Size: 43/44
+Class Size: 44/44
 Professor: LACSA, JOSE ERIC MELLA
 
 		retrieving classes for GEETHIC...
@@ -3259,6 +3316,7 @@ Time: M 11:00-12:30
 Time: W 11:00-12:30
 	Room: LS304
 Class Size: 43/43
+Professor: SEMBRANO, LUIS CORPUS
 
 Class Info of #2380:
 Course Code: GEETHIC
@@ -3267,7 +3325,8 @@ Time: M 14:30-16:00
 	Room: AG711
 Time: W 14:30-16:00
 	Room: AG711
-Class Size: 29/30
+Class Size: 30/30
+Professor: SEMBRANO, LUIS CORPUS
 
 Class Info of #2379:
 Course Code: GEETHIC
@@ -3277,6 +3336,7 @@ Time: M 16:15-17:45
 Time: W 16:15-17:45
 	Room: AG711
 Class Size: 30/30
+Professor: MANAUAT, NATIVIDAD DOMINIQUE GUZMAN
 
 Class Info of #2378:
 Course Code: GEETHIC
@@ -3285,7 +3345,8 @@ Time: T 07:30-09:00
 	Room: GK201
 Time: H 07:30-09:00
 	Room: GK201
-Class Size: 43/43
+Class Size: 45/45
+Professor: MALBAROSA, JOSE MA. ARCADIO CLEMENO
 
 Class Info of #2376:
 Course Code: GEETHIC
@@ -3295,6 +3356,7 @@ Time: T 07:30-09:00
 Time: H 07:30-09:00
 	Room: VL308
 Class Size: 45/45
+Professor: BALGOS, ANNE RICHIE GARCIA
 
 Class Info of #2375:
 Course Code: GEETHIC
@@ -3304,6 +3366,7 @@ Time: T 14:30-16:00
 Time: H 14:30-16:00
 	Room: SJ112
 Class Size: 45/45
+Professor: GARCIA, ELENITA DE LA ROSA
 
 Class Info of #2371:
 Course Code: GEETHIC
@@ -3312,7 +3375,8 @@ Time: M 16:15-17:45
 	Room: AG1802
 Time: W 16:15-17:45
 	Room: AG1802
-Class Size: 42/43
+Class Size: 36/45
+Professor: CALABIAS, JOSE KERVIN CESAR BELMONTE
 
 Class Info of #2370:
 Course Code: GEETHIC
@@ -3321,7 +3385,7 @@ Time: T 16:15-17:45
 	Room: AG1708
 Time: H 16:15-17:45
 	Room: AG1708
-Class Size: 43/43
+Class Size: 45/45
 Professor: GARCIA, ELENITA DE LA ROSA
 
 Class Info of #2377:
@@ -3331,7 +3395,8 @@ Time: M 16:15-17:45
 	Room: AG1707
 Time: W 16:15-17:45
 	Room: AG1707
-Class Size: 43/43
+Class Size: 41/43
+Professor: LUALHATI, VICTORINO RAYMUNDO TORINO
 Remarks: FRESHMEN
 
 Class Info of #2374:
@@ -3342,6 +3407,7 @@ Time: M 16:15-17:45
 Time: W 16:15-17:45
 	Room: AG1604
 Class Size: 30/30
+Professor: SEMBRANO, LUIS CORPUS
 Remarks: FRESHMEN
 
 		retrieving classes for GELITPH...
@@ -3352,7 +3418,7 @@ Time: M 09:15-10:45
 	Room: AG709
 Time: W 09:15-10:45
 	Room: AG709
-Class Size: 43/43
+Class Size: 44/45
 Professor: GROYON, VICENTE VICTOR EMMANUEL GARCIA
 Remarks: HYBRID
 
@@ -3364,7 +3430,7 @@ Time: M 12:45-14:15
 	Room: AG1102
 Time: W 12:45-14:15
 	Room: AG1102
-Class Size: 44/43
+Class Size: 45/43
 Professor: MILITANTE, CLARISSA VILLASIN
 
 Class Info of #1577:
@@ -3374,7 +3440,7 @@ Time: M 09:15-10:45
 	Room: AG1109
 Time: W 09:15-10:45
 	Room: AG1109
-Class Size: 43/43
+Class Size: 44/43
 Professor: TALLARA, MARK INIGO MACAM
 
 Class Info of #1582:
@@ -3384,7 +3450,7 @@ Time: T 12:45-14:15
 	Room: AG1102
 Time: H 12:45-14:15
 	Room: AG1102
-Class Size: 44/43
+Class Size: 45/43
 Professor: MARASIGAN, ANASTACIO MONTERO
 
 Class Info of #1587:
@@ -3414,7 +3480,7 @@ Time: M 11:00-12:30
 	Room: LS317
 Time: W 11:00-12:30
 	Room: LS317
-Class Size: 44/43
+Class Size: 45/45
 
 Class Info of #1126:
 Course Code: GEWORLD
@@ -3423,7 +3489,7 @@ Time: M 16:15-17:45
 	Room: VL204
 Time: W 16:15-17:45
 	Room: VL204
-Class Size: 43/43
+Class Size: 38/45
 Professor: MARASIGAN, ANASTACIO MONTERO
 
 Class Info of #1127:
@@ -3433,7 +3499,7 @@ Time: M 14:30-16:00
 	Room: VL204
 Time: W 14:30-16:00
 	Room: VL204
-Class Size: 43/43
+Class Size: 45/45
 Professor: MILITANTE, CLARISSA VILLASIN
 
 Class Info of #1128:
@@ -3443,7 +3509,8 @@ Time: M 07:30-09:00
 	Room: LS317
 Time: W 07:30-09:00
 	Room: LS317
-Class Size: 43/43
+Class Size: 45/45
+Professor: DOCE, BRIAN UY
 
 Class Info of #1129:
 Course Code: GEWORLD
@@ -3452,7 +3519,7 @@ Time: T 12:45-14:15
 	Room: LS313
 Time: H 12:45-14:15
 	Room: LS313
-Class Size: 43/43
+Class Size: 45/45
 Professor: HERNANDEZ, SHERLYN MAE FELICIANO
 
 Class Info of #1130:
@@ -3462,7 +3529,7 @@ Time: T 11:00-12:30
 	Room: LS317
 Time: H 11:00-12:30
 	Room: LS317
-Class Size: 44/43
+Class Size: 45/45
 Professor: TOLENTINO, ELAINE CABIGTING
 
 Class Info of #1131:
@@ -3472,7 +3539,7 @@ Time: T 16:15-17:45
 	Room: AG1704
 Time: H 16:15-17:45
 	Room: AG1704
-Class Size: 43/43
+Class Size: 45/45
 
 Class Info of #1132:
 Course Code: GEWORLD
@@ -3481,7 +3548,7 @@ Time: T 12:45-14:15
 	Room: LS316
 Time: H 12:45-14:15
 	Room: LS316
-Class Size: 43/43
+Class Size: 44/45
 Professor: TALLARA, MARK INIGO MACAM
 
 Class Info of #1133:
@@ -3491,7 +3558,7 @@ Time: M 16:15-17:45
 	Room: SJ107
 Time: W 16:15-17:45
 	Room: SJ107
-Class Size: 43/43
+Class Size: 43/45
 Professor: ALQUISOLA, VIJAE ORQUIA
 
 Class Info of #2451:
@@ -3501,7 +3568,8 @@ Time: M 14:30-16:00
 	Room: EY301
 Time: W 14:30-16:00
 	Room: EY301
-Class Size: 43/43
+Class Size: 45/45
+Professor: DE CASTRO, RENATO CRUZ
 
 Class Info of #1269:
 Course Code: GEWORLD
@@ -3510,7 +3578,8 @@ Time: T 07:30-09:00
 	Room: AG1805
 Time: H 07:30-09:00
 	Room: AG1805
-Class Size: 43/43
+Class Size: 45/45
+Professor: DOCE, BRIAN UY
 
 Class Info of #1267:
 Course Code: GEWORLD
@@ -3519,7 +3588,7 @@ Time: T 12:45-14:15
 	Room: AG1805
 Time: H 12:45-14:15
 	Room: AG1805
-Class Size: 43/43
+Class Size: 45/45
 Professor: CARANDANG, JULIEN LAGAÑA
 
 Class Info of #1268:
@@ -3529,7 +3598,7 @@ Time: T 14:30-16:00
 	Room: AG1805
 Time: H 14:30-16:00
 	Room: AG1805
-Class Size: 43/43
+Class Size: 45/45
 Professor: CARANDANG, JULIEN LAGAÑA
 
 Class Info of #1266:
@@ -3539,7 +3608,8 @@ Time: M 14:30-16:00
 	Room: AG1805
 Time: W 14:30-16:00
 	Room: AG1805
-Class Size: 42/43
+Class Size: 38/45
+Professor: MARASIGAN, ANASTACIO MONTERO
 
 Class Info of #2785:
 Course Code: GEWORLD
@@ -3579,6 +3649,7 @@ Time: M 12:45-14:15
 Time: W 12:45-14:15
 	Room: AG1405
 Class Size: 25/25
+Professor: CENON, PATRICK DAVID SISON
 
 Class Info of #2443:
 Course Code: GESTSOC
@@ -3588,6 +3659,7 @@ Time: M 14:30-16:00
 Time: W 14:30-16:00
 	Room: AG1405
 Class Size: 25/25
+Professor: REGADIO, CRISANTO QUINOS
 
 Class Info of #2444:
 Course Code: GESTSOC
@@ -3596,7 +3668,8 @@ Time: M 16:15-17:45
 	Room: AG709
 Time: W 16:15-17:45
 	Room: AG709
-Class Size: 43/43
+Class Size: 45/45
+Professor: REGADIO, CRISANTO QUINOS
 
 Class Info of #2931:
 Course Code: GESTSOC
@@ -3615,8 +3688,8 @@ Time: M 14:30-16:00
 	Room: VL507
 Time: W 14:30-16:00
 	Room: VL507
-Class Size: 41/43
-Professor: CONTRERAS, ANTONIO PRIMA
+Class Size: 42/43
+Professor: CENON, PATRICK DAVID SISON
 
 Class Info of #2933:
 Course Code: GESTSOC
@@ -3626,6 +3699,7 @@ Time: T 07:30-09:00
 Time: H 07:30-09:00
 	Room: MM23
 Class Size: 35/43
+Professor: QUINTOS, MARK ANTHONY MUJER
 
 Class Info of #2934:
 Course Code: GESTSOC
@@ -3634,7 +3708,7 @@ Time: T 07:30-09:00
 	Room: VL307
 Time: H 07:30-09:00
 	Room: VL307
-Class Size: 30/43
+Class Size: 39/43
 Professor: BONJE, ANNABELLE BENEDICTO
 
 Class Info of #2935:
@@ -3645,7 +3719,7 @@ Time: T 14:30-16:00
 Time: H 14:30-16:00
 	Room: VL508
 Class Size: 43/43
-Professor: ERASGA, DENNIS SATURNO
+Professor: CANCERAN, DELFO CORTINA
 
 Class Info of #1255:
 Course Code: GESTSOC
@@ -3654,7 +3728,7 @@ Time: M 16:15-17:45
 	Room: AG1705
 Time: W 16:15-17:45
 	Room: AG1705
-Class Size: 42/43
+Class Size: 43/45
 Professor: ERASGA, DENNIS SATURNO
 
 Class Info of #1256:
@@ -3664,7 +3738,7 @@ Time: T 16:15-17:45
 	Room: AG1705
 Time: H 16:15-17:45
 	Room: AG1705
-Class Size: 42/43
+Class Size: 45/45
 Professor: CLAMOR, WILFRED LUIS LANGIT
 
 Class Info of #963:
@@ -3675,6 +3749,7 @@ Time: T 09:15-10:45
 Time: H 09:15-10:45
 	Room: LS302
 Class Size: 45/43
+Professor: TITULAR, JOANA MARIE MELGAR
 
 Class Info of #1692:
 Course Code: GESTSOC
@@ -3684,7 +3759,7 @@ Time: M 12:45-14:15
 Time: W 12:45-14:15
 	Room: AG911
 Class Size: 25/25
-Professor: ERASGA, DENNIS SATURNO
+Professor: REGADIO, CRISANTO QUINOS
 
 		retrieving classes for LCASEAN...
 Class Info of #2486:
@@ -3694,7 +3769,7 @@ Time: M 07:30-09:00
 	Room: AG1405
 Time: W 07:30-09:00
 	Room: AG1405
-Class Size: 25/25
+Class Size: 24/25
 Professor: RUIZ, TOPIN STO. DOMINGO
 
 Class Info of #2487:
@@ -3724,7 +3799,7 @@ Time: T 14:30-16:00
 	Room: EY505
 Time: H 14:30-16:00
 	Room: EY505
-Class Size: 44/43
+Class Size: 45/45
 Professor: STA. ROMANA, MICHELLE MANAG
 
 Class Info of #2490:
@@ -3734,7 +3809,7 @@ Time: T 16:15-17:45
 	Room: EY505
 Time: H 16:15-17:45
 	Room: EY505
-Class Size: 43/43
+Class Size: 41/45
 Professor: ROLDAN, MA. DIVINA GRACIA ZAMORA
 
 Class Info of #2830:
@@ -3745,274 +3820,7 @@ Time: M 07:30-09:00
 Time: W 07:30-09:00
 	Room: LS302
 Class Size: 45/43
-
-		retrieving classes for HUMAART...
-Class Info of #1889:
-Course Code: HUMAART
-Section: A51
-Time: T 09:15-10:45
-	Room: SM406
-Time: H 09:15-10:45
-	Room: SM406
-Class Size: 30/30
-Professor: MONTES, TIMOTHY RAMOS
-
-Class Info of #1888:
-Course Code: HUMAART
-Section: A52
-Time: M 14:30-16:00
-	Room: SM406
-Time: W 14:30-16:00
-	Room: SM406
-Class Size: 31/30
-Professor: ARGUELLES, MESANDEL VIRTUSIO
-
-Class Info of #4047:
-Course Code: HUMAART
-Section: A53
-Time: M 11:00-12:30
-	Room: LS321
-Time: W 11:00-12:30
-	Room: LS321
-Class Size: 29/43
-Professor: WRIGHT, MA. TERESA HILADO
-
-Class Info of #976:
-Course Code: HUMAART
-Section: C31
-Time: T 07:30-09:00
-	Room: AG707
-Time: H 07:30-09:00
-	Room: AG707
-Class Size: 25/25
-Professor: MILITANTE, CLARISSA VILLASIN
-Remarks: HYBRID
-
-Class Info of #1893:
-Course Code: HUMAART
-Section: C32
-Time: M 07:30-09:00
-	Room: AG707
-Time: W 07:30-09:00
-	Room: AG707
-Class Size: 25/25
-Professor: MENDEZ, MARIO LAGRIMAS
-Remarks: HYBRID
-
-Class Info of #1892:
-Course Code: HUMAART
-Section: C33
-Time: M 11:00-12:30
-	Room: AG911
-Time: W 11:00-12:30
-	Room: AG911
-Class Size: 24/25
-Professor: BALGOS, ANNE RICHIE GARCIA
-
-Class Info of #1891:
-Course Code: HUMAART
-Section: EQ
-Time: T 16:15-17:45
-	Room: VL308
-Time: H 16:15-17:45
-	Room: VL308
-Class Size: 44/45
-Professor: PE, CRIS BARBRA
-
-Class Info of #1890:
-Course Code: HUMAART
-Section: N01
-Time: M 07:30-09:00
-	Room: AG1707
-Time: W 07:30-09:00
-	Room: AG1707
-Class Size: 40/43
-Professor: SIMON, TANYA KATRINA SEVILLA
-Remarks: HYBRID
-
-		retrieving classes for MADSMAN...
-Class Info of #2506:
-Course Code: MADSMAN
-Section: K31
-Time: T 11:00-12:30
-	Room: LS111
-Time: H 11:00-12:30
-	Room: LS111
-Class Size: 45/45
-Professor: CU, BENISON YAP
-
-Class Info of #2507:
-Course Code: MADSMAN
-Section: K51
-Time: T 12:45-14:15
-	Room: LS110
-Time: H 12:45-14:15
-	Room: LS110
-Class Size: 45/45
-Professor: CU, BENISON YAP
-
-		retrieving classes for MARKRTL...
-Class Info of #2606:
-Course Code: MARKRTL
-Section: K31
-Time: T 09:15-10:45
-	Room: AG702
-Time: H 09:15-10:45
-	Room: AG702
-Class Size: 34/43
-Professor: BALARBAR, MARY JULIE VALERIO
-
-Class Info of #2607:
-Course Code: MARKRTL
-Section: K51
-Time: T 11:00-12:30
-	Room: AG702
-Time: H 11:00-12:30
-	Room: AG702
-Class Size: 35/43
-Professor: BALARBAR, MARY JULIE VALERIO
-
-		retrieving classes for MARKMGT...
-Class Info of #3169:
-Course Code: MARKMGT
-Section: K31
-Time: T 12:45-14:15
-	Room: SM307
-Time: H 12:45-14:15
-	Room: SM307
-Class Size: 43/43
-Professor: SADHWANI, RAJAN SATRAMDAS
-
-Class Info of #3168:
-Course Code: MARKMGT
-Section: K51
-Time: T 14:30-16:00
-	Room: SJ210
-Time: H 14:30-16:00
-	Room: SJ210
-Class Size: 43/43
-Professor: SADHWANI, RAJAN SATRAMDAS
-
-		retrieving classes for BUSLAW2...
-Class Info of #2773:
-Course Code: BUSLAW2
-Section: K31
-Time: M 12:45-14:15
-	Room: LS309
-Time: W 12:45-14:15
-	Room: LS309
-Class Size: 35/35
-Professor: JO, ARVIN ALCANAR
-
-Class Info of #2774:
-Course Code: BUSLAW2
-Section: K32
-Time: M 14:30-16:00
-	Room: LS309
-Time: W 14:30-16:00
-	Room: LS309
-Class Size: 35/35
-Professor: JO, ARVIN ALCANAR
-
-Class Info of #2775:
-Course Code: BUSLAW2
-Section: K33
-Time: T 12:45-14:15
-	Room: LS334
-Time: H 12:45-14:15
-	Room: LS334
-Class Size: 37/37
-Professor: JO, ARVIN ALCANAR
-
-Class Info of #2776:
-Course Code: BUSLAW2
-Section: K34
-Time: T 18:00-19:30
-	Room: LS309
-Time: H 18:00-19:30
-	Room: LS309
-Class Size: 35/35
-Professor: VICTORIANO, MICHAEL GERARD TINDOG
-
-Class Info of #2777:
-Course Code: BUSLAW2
-Section: K35
-Time: T 19:45-21:15
-	Room: LS334
-Time: H 19:45-21:15
-	Room: LS334
-Class Size: 32/35
-Professor: HUNG, KELVIN YU
-
-Class Info of #2778:
-Course Code: BUSLAW2
-Section: K51
-Time: T 16:15-17:45
-	Room: SM409
-Time: H 16:15-17:45
-	Room: SM409
-Class Size: 35/35
-Professor: VICTORIANO, MICHAEL GERARD TINDOG
-
-Class Info of #1282:
-Course Code: BUSLAW2
-Section: V24
-Time: M 14:30-16:00
-	Room: LS226
-Time: W 14:30-16:00
-	Room: LS226
-Class Size: 24/30
-Professor: ROS, REYNALDO GONZALO
-
-		retrieving classes for CSRGOVE...
-Class Info of #3185:
-Course Code: CSRGOVE
-Section: K31
-Time: T 07:30-09:00
-	Room: LS333
-Time: H 07:30-09:00
-	Room: LS333
-Class Size: 43/43
-Professor: TRAJANO, ALEXANDER CHAN
-
-Class Info of #3184:
-Course Code: CSRGOVE
-Section: K32
-Time: T 14:30-16:00
-	Room: AG709
-Time: H 14:30-16:00
-	Room: AG709
-Class Size: 45/45
-Professor: BALATBAT, MARICEL SUAREZ
-
-Class Info of #3183:
-Course Code: CSRGOVE
-Section: K33
-Time: T 12:45-14:15
-	Room: LS227
-Time: H 12:45-14:15
-	Room: LS227
-Class Size: 45/45
-Professor: BALATBAT, MARICEL SUAREZ
-
-Class Info of #4079:
-Course Code: CSRGOVE
-Section: K34
-Time: M 14:30-16:00
-	Room: LS302
-Time: W 14:30-16:00
-	Room: LS302
-Class Size: 3/43
-
-Class Info of #3182:
-Course Code: CSRGOVE
-Section: K51
-Time: M 14:30-16:00
-	Room: LS313
-Time: W 14:30-16:00
-	Room: LS313
-Class Size: 42/43
-Professor: FUMAR, LIZA MAE LUMAWAG
+Professor: STA. ROMANA, MICHELLE MANAG
 
 		retrieving classes for GEDANCE...
 Class Info of #3227:
@@ -4020,7 +3828,7 @@ Course Code: GEDANCE
 Section: A51
 Time: M 07:30-09:30
 	Room: ER804
-Class Size: 37/43
+Class Size: 38/45
 Professor: CACHOLA-MIÑAS, GERALDINE
 
 Class Info of #3226:
@@ -4028,7 +3836,7 @@ Course Code: GEDANCE
 Section: A52
 Time: M 13:00-15:00
 	Room: ER804
-Class Size: 43/43
+Class Size: 45/45
 Professor: CACHOLA-MIÑAS, GERALDINE
 
 Class Info of #3225:
@@ -4036,7 +3844,7 @@ Course Code: GEDANCE
 Section: A53
 Time: M 15:30-17:30
 	Room: ER804
-Class Size: 43/43
+Class Size: 38/45
 Professor: CACHOLA-MIÑAS, GERALDINE
 
 Class Info of #3222:
@@ -4044,7 +3852,7 @@ Course Code: GEDANCE
 Section: A54
 Time: T 07:30-09:30
 	Room: ER804
-Class Size: 43/43
+Class Size: 41/45
 Professor: CORDOVA, MA. SOCORRO GIGI VILLAMOR
 
 Class Info of #3216:
@@ -4052,7 +3860,7 @@ Course Code: GEDANCE
 Section: A55
 Time: T 13:00-15:00
 	Room: ER804
-Class Size: 44/43
+Class Size: 45/45
 Professor: ORIBIANA, DIONISIO MERCADO
 
 Class Info of #3215:
@@ -4060,7 +3868,7 @@ Course Code: GEDANCE
 Section: A56
 Time: T 15:30-17:30
 	Room: ER804
-Class Size: 43/43
+Class Size: 42/45
 Professor: TAPANG, MARGARITA VELARDE
 
 Class Info of #3221:
@@ -4068,7 +3876,7 @@ Course Code: GEDANCE
 Section: A57
 Time: W 07:30-09:30
 	Room: ER804
-Class Size: 43/43
+Class Size: 42/45
 Professor: CORDOVA, MA. SOCORRO GIGI VILLAMOR
 
 Class Info of #3219:
@@ -4076,7 +3884,7 @@ Course Code: GEDANCE
 Section: A58
 Time: W 13:00-15:00
 	Room: ER804
-Class Size: 43/43
+Class Size: 45/45
 Professor: FRIGILLANA, AHLI ILUSTRE
 
 Class Info of #3214:
@@ -4084,7 +3892,7 @@ Course Code: GEDANCE
 Section: A59
 Time: W 15:30-17:30
 	Room: ER804
-Class Size: 43/43
+Class Size: 37/45
 Professor: TAPANG, MARGARITA VELARDE
 
 Class Info of #3218:
@@ -4092,7 +3900,7 @@ Course Code: GEDANCE
 Section: A60
 Time: H 07:30-09:30
 	Room: ER804
-Class Size: 43/43
+Class Size: 43/45
 Professor: IRINCO, MARIA CARINA TUMALE
 
 Class Info of #3220:
@@ -4100,7 +3908,7 @@ Course Code: GEDANCE
 Section: A61
 Time: H 13:00-15:00
 	Room: ER804
-Class Size: 43/43
+Class Size: 45/45
 Professor: CORDOVA, MA. SOCORRO GIGI VILLAMOR
 
 Class Info of #3217:
@@ -4108,7 +3916,7 @@ Course Code: GEDANCE
 Section: A62
 Time: H 15:30-17:30
 	Room: ER804
-Class Size: 43/43
+Class Size: 44/45
 Professor: OLARTE, CHRISTOPHER POGOY
 
 Class Info of #3213:
@@ -4116,7 +3924,7 @@ Course Code: GEDANCE
 Section: A63
 Time: H 07:30-09:30
 	Room: ER1004
-Class Size: 40/43
+Class Size: 41/45
 Professor: TOLDOYA, JACKLYN ANNE DIMATULAC
 
 Class Info of #3244:
@@ -4124,7 +3932,7 @@ Course Code: GEDANCE
 Section: C31
 Time: M 07:30-09:30
 	Room: ER7B
-Class Size: 39/43
+Class Size: 39/45
 Professor: CACHOLA-MIÑAS, GERALDINE
 
 Class Info of #3243:
@@ -4132,7 +3940,7 @@ Course Code: GEDANCE
 Section: C32
 Time: M 10:00-12:00
 	Room: ER1001
-Class Size: 43/43
+Class Size: 44/45
 Professor: TOLDOYA, JACKLYN ANNE DIMATULAC
 
 Class Info of #3242:
@@ -4140,7 +3948,7 @@ Course Code: GEDANCE
 Section: C33
 Time: T 07:30-09:30
 	Room: ER1001
-Class Size: 42/43
+Class Size: 38/45
 Professor: SAMSON, MARIJOY REGALA
 
 Class Info of #3241:
@@ -4148,7 +3956,7 @@ Course Code: GEDANCE
 Section: C34
 Time: T 10:00-12:00
 	Room: ER7A
-Class Size: 40/43
+Class Size: 42/45
 Professor: ORIBIANA, DIONISIO MERCADO
 
 Class Info of #3240:
@@ -4156,7 +3964,7 @@ Course Code: GEDANCE
 Section: C35
 Time: T 10:00-12:00
 	Room: ER1004
-Class Size: 42/43
+Class Size: 40/45
 Professor: DIOQUINO, AUREA DICHOSO
 
 Class Info of #3239:
@@ -4164,7 +3972,7 @@ Course Code: GEDANCE
 Section: C36
 Time: W 10:00-12:00
 	Room: ER7B
-Class Size: 43/43
+Class Size: 45/45
 Professor: DOMINGO, JOHN PAUL RANCES
 
 Class Info of #3238:
@@ -4172,7 +3980,7 @@ Course Code: GEDANCE
 Section: C37
 Time: W 10:00-12:00
 	Room: ER804
-Class Size: 43/43
+Class Size: 45/45
 Professor: FRIGILLANA, AHLI ILUSTRE
 
 Class Info of #3237:
@@ -4180,7 +3988,7 @@ Course Code: GEDANCE
 Section: C38
 Time: W 10:00-12:00
 	Room: ER1001
-Class Size: 42/43
+Class Size: 42/45
 Professor: RODRIGUEZ, CAROL BERGONIA
 
 Class Info of #3236:
@@ -4188,7 +3996,7 @@ Course Code: GEDANCE
 Section: C39
 Time: W 13:00-15:00
 	Room: ER7A
-Class Size: 43/43
+Class Size: 45/45
 Professor: RODRIGUEZ, CAROL BERGONIA
 
 Class Info of #3235:
@@ -4196,7 +4004,7 @@ Course Code: GEDANCE
 Section: C40
 Time: W 15:30-17:30
 	Room: ER1004
-Class Size: 43/43
+Class Size: 42/45
 Professor: DOMINGO, JOHN PAUL RANCES
 
 Class Info of #3234:
@@ -4204,7 +4012,7 @@ Course Code: GEDANCE
 Section: C41
 Time: H 10:00-12:00
 	Room: ER804
-Class Size: 43/43
+Class Size: 45/45
 Professor: CORDOVA, MA. SOCORRO GIGI VILLAMOR
 
 Class Info of #3233:
@@ -4212,14 +4020,14 @@ Course Code: GEDANCE
 Section: C42
 Time: H 10:00-12:00
 	Room: ER1004
-Class Size: 42/43
+Class Size: 38/45
 
 Class Info of #3232:
 Course Code: GEDANCE
 Section: C43
 Time: F 07:30-09:30
 	Room: ER804
-Class Size: 43/43
+Class Size: 45/45
 Professor: IRINCO, MARIA CARINA TUMALE
 
 Class Info of #945:
@@ -4227,7 +4035,7 @@ Course Code: GEDANCE
 Section: C44
 Time: F 10:00-12:00
 	Room: ER1004
-Class Size: 43/43
+Class Size: 45/45
 Professor: SAMSON, MARIJOY REGALA
 
 Class Info of #3211:
@@ -4235,7 +4043,7 @@ Course Code: GEDANCE
 Section: L81
 Time: T 13:00-15:00
 	Room: ER1004
-Class Size: 43/43
+Class Size: 45/45
 Professor: DIOQUINO, AUREA DICHOSO
 
 Class Info of #3210:
@@ -4243,7 +4051,7 @@ Course Code: GEDANCE
 Section: L82
 Time: T 07:30-09:30
 	Room: ER1004
-Class Size: 29/43
+Class Size: 27/45
 Professor: DIOQUINO, AUREA DICHOSO
 
 Class Info of #3209:
@@ -4251,7 +4059,7 @@ Course Code: GEDANCE
 Section: L83
 Time: W 07:30-09:30
 	Room: ER1004
-Class Size: 33/43
+Class Size: 31/45
 Professor: DOMINGO, JOHN PAUL RANCES
 
 Class Info of #3212:
@@ -4259,7 +4067,7 @@ Course Code: GEDANCE
 Section: L84
 Time: M 07:30-09:30
 	Room: ER1004
-Class Size: 3/43
+Class Size: 1/45
 Professor: IRINCO, MARIA CARINA TUMALE
 
 Class Info of #3230:
@@ -4267,63 +4075,63 @@ Course Code: GEDANCE
 Section: S11
 Time: M 15:30-17:30
 	Room: ER1004
-Class Size: 43/43
+Class Size: 43/45
 
 Class Info of #3204:
 Course Code: GEDANCE
 Section: S12
 Time: M 13:00-15:00
 	Room: ER1004
-Class Size: 43/43
+Class Size: 45/45
 
 Class Info of #3229:
 Course Code: GEDANCE
 Section: S13
 Time: W 13:00-15:00
 	Room: ER1004
-Class Size: 43/43
+Class Size: 45/45
 
 Class Info of #3228:
 Course Code: GEDANCE
 Section: S14
 Time: W 15:30-17:30
 	Room: ER1001
-Class Size: 43/43
+Class Size: 43/45
 
 Class Info of #3203:
 Course Code: GEDANCE
 Section: S15
 Time: H 15:30-17:30
 	Room: ER1004
-Class Size: 43/43
+Class Size: 45/45
 
 Class Info of #3224:
 Course Code: GEDANCE
 Section: S16
 Time: H 13:00-15:00
 	Room: ER1004
-Class Size: 43/43
+Class Size: 45/45
 
 Class Info of #3223:
 Course Code: GEDANCE
 Section: S17
 Time: T 15:30-17:30
 	Room: ER1001
-Class Size: 43/43
+Class Size: 45/45
 
 Class Info of #3208:
 Course Code: GEDANCE
 Section: V24
 Time: H 07:30-09:30
 	Room: ER1001
-Class Size: 38/43
+Class Size: 39/45
 
 Class Info of #3207:
 Course Code: GEDANCE
 Section: V25
 Time: H 15:30-17:30
 	Room: ER1001
-Class Size: 44/43
+Class Size: 43/45
 Professor: CALABIO, VIRGILIA TOHOY
 
 		retrieving classes for CCINFOM...
@@ -4343,7 +4151,7 @@ Time: M 09:15-10:45
 	Room: GK302A, GK302B
 Time: W 09:15-10:45
 	Room: GK302A, GK302B
-Class Size: 42/45
+Class Size: 44/45
 Professor: MALABANAN, OLIVER ARCIAGA
 
 Class Info of #992:
@@ -4353,7 +4161,7 @@ Time: M 11:00-12:30
 	Room: GK306A, GK306B
 Time: W 11:00-12:30
 	Room: GK306A, GK306B
-Class Size: 37/45
+Class Size: 38/45
 Professor: MALABANAN, OLIVER ARCIAGA
 
 Class Info of #2566:
@@ -4373,8 +4181,8 @@ Time: T 14:30-16:00
 	Room: GK304B
 Time: H 14:30-16:00
 	Room: GK304B
-Class Size: 45/45
-Professor: MALABANAN, OLIVER ARCIAGA
+Class Size: 42/45
+Professor: BERTUMEN, ESTEFANIE ULIT
 
 Class Info of #1751:
 Course Code: CCINFOM
@@ -4384,5 +4192,5 @@ Time: T 12:45-14:15
 Time: H 12:45-14:15
 	Room: GK304B
 Class Size: 43/45
-Professor: TANGKEKO, MARIVIC SANTOS
+Professor: CHING, MICHELLE RENEE DOMINGO
 

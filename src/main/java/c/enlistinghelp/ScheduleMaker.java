@@ -17,4 +17,21 @@ public class ScheduleMaker {
 	public void readClasses() {
 		
 	}
+	
+	public WeekSchedule generateOneSched(ArrayList<ArrayList<SectionInfo>> inputClasses) {
+		WeekSchedule sched = new WeekSchedule("testing");
+		
+		for (int i = 0; i < inputClasses.size(); i++) {
+			for (int j = 0; j < inputClasses.get(i).size(); j++) {
+				
+			}
+		}
+		sched.sortByDay();
+		return sched;
+	}
+	
+	public ArrayList<WeekSchedule> generateMultipleScheds() {
+		ArrayList<WeekSchedule> scheds = new ArrayList<>();
+		return null;
+	}
 }
