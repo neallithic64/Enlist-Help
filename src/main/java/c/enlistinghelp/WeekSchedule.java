@@ -55,9 +55,7 @@ public class WeekSchedule {
 			for (int i = 0; i < classes.size(); i++) {
 				
 			}
-		} else {
-			System.out.println("yeet!!");
-		}
+		} else System.out.println("no input classes found!");
 	}
 	
 	@Override

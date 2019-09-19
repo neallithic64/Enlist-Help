@@ -13,7 +13,7 @@ public class SomeDriver {
 		ScheduleMaker sm = new ScheduleMaker();
 		
 		try {
-			BufferedReader brFlow = new BufferedReader(new InputStreamReader(new FileInputStream("flowchartTest.txt")));
+			BufferedReader brFlow = new BufferedReader(new InputStreamReader(new FileInputStream("flowchart1Term.txt")));
 			ArrayList<String[]> samp1 = cos.readCourseCode(brFlow);
 			cos.dispFlow(samp1);
 			
@@ -21,11 +21,11 @@ public class SomeDriver {
 				for (int i = 0; i < samp1.size(); i++)
 					for (String get : samp1.get(i)) {
 						cos.parseList(cc.coScrape(get));
-				}
+					}
 			brFlow.close();
 			
-			cos.parseList(cc.coScrape("GEDANCE"));
-			cos.parseList(cc.coScrape("CCINFOM"));
+//			cos.parseList(cc.coScrape("GEDANCE"));
+//			cos.parseList(cc.coScrape("CCINFOM"));
 			cc.pageWait(2);
 			cc.close();
 			cos.dispCOffers();
