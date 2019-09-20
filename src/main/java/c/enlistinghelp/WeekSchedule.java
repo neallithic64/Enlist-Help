@@ -53,17 +53,19 @@ public class WeekSchedule {
 		// recommended order: MW, TH, F, S, others
 		if (!classes.isEmpty()) {
 			for (int i = 0; i < classes.size(); i++) {
-				
+				System.out.print("sorting ");
 			}
 		} else System.out.println("no input classes found!");
+		System.out.println();
 	}
 	
 	@Override
 	public String toString() {
-		String strData = "Schedule Report for " + name + ":\n";
+		String strData = "\nSchedule Report for " + name + ":\n";
 		for (int i = 0; i < classes.size(); i++)
-			strData += classes.get(i).toString();
-		strData += "\n-----------------------------------\n";
+			strData += classes.get(i).toString() + "\n";
+		strData += "\tSchedule Score: " + classes.size() + "\n";
+		strData += "-----------------------------------\n";
 		return strData;
 	}
 }

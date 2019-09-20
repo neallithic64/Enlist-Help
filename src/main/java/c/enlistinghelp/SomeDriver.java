@@ -17,15 +17,12 @@ public class SomeDriver {
 			ArrayList<String[]> samp1 = cos.readCourseCode(brFlow);
 			cos.dispFlow(samp1);
 			
-			if (samp1.size() != 1)
+			if (!samp1.isEmpty())
 				for (int i = 0; i < samp1.size(); i++)
-					for (String get : samp1.get(i)) {
+					for (String get : samp1.get(i))
 						cos.parseList(cc.coScrape(get));
-					}
 			brFlow.close();
 			
-//			cos.parseList(cc.coScrape("GEDANCE"));
-//			cos.parseList(cc.coScrape("CCINFOM"));
 			cc.pageWait(2);
 			cc.close();
 			cos.dispCOffers();
@@ -34,11 +31,11 @@ public class SomeDriver {
 			System.out.println(sampleWeekSched);
 		} catch (NoSuchElementException e) {
 			System.out.println("it's 2am! site's down :(");
-			cc.close();
 		} catch (FileNotFoundException e) {
-			System.out.println("can't find file!\n" + e);
+			System.out.println("can't find file!\t" + e);
 		} catch (IOException e) {
 			System.out.println("something wrong here");
+		} finally {
 			cc.close();
 		}
 		

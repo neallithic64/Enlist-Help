@@ -1,7 +1,13 @@
 package c.enlistinghelp;
 
 import java.util.List;
+import java.awt.image.BufferedImage;
+import java.io.File;
+import java.io.IOException;
+import java.net.URL;
+import javax.imageio.ImageIO;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
@@ -29,8 +35,11 @@ public class ChromeCrawler {
 		try {
 			Thread.sleep((long) secs*1000);
 		} catch (InterruptedException e) {
-			System.out.println("yuck, it won't sleep! " + e);
+			System.out.println("thread interrupted! " + e);
 		}
+	}
+	public void pageWait() {
+		pageWait(3);
 	}
 	
 	public void googleSearch(String query) {
@@ -43,6 +52,29 @@ public class ChromeCrawler {
 	public void googleImgScrape(String query) {
 		googleSearch(query);
 		siteDriver.findElement(By.className("qs")).click();
+		pageWait();
+		
+		System.out.println("scraping for " + query + "...");
+		List<WebElement> imgURLs = siteDriver.findElements(By.className("rg_l"));
+		
+		File outFol = new File(query + "_images");
+		outFol.mkdir();
+		System.out.println("downloading " + imgURLs.size() + " images...");
+		int countF = 0;
+		for (int i = 0; i < imgURLs.size(); i++) {
+			try {
+				System.out.println(i + ": " + imgURLs.get(i).getAttribute("href"));
+				siteDriver.get(imgURLs.get(i).getAttribute("href"));
+				
+/*				URL imageURL = new URL(img);
+				// read url and retrieve image
+				BufferedImage saveImage = ImageIO.read(imageURL);
+				// this will create an image with new name each time
+				ImageIO.write(saveImage, "jpg", new File(outFol.getPath() + "\\img_" + String.format("%05d", countF) + ".jpg"));
+				countF++;
+*/			} catch (/*IO*/Exception e) {
+			}
+		}
 		
 	}
 	
