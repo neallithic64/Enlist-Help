@@ -39,13 +39,13 @@ public class SomeDriver {
 			cc.close();
 		}
 		
-		// enlistment; can't develop on this end without access yet
+		// enlistment; can't develop on this end without access yet; testing will be done in months' time
 /*		try {
 			System.out.print("enter filename for animoSys: ");
-//			BufferedReader brLogin = new BufferedReader(new InputStreamReader(new FileInputStream(sc.nextLine() + ".txt")));
+			BufferedReader brLogin = new BufferedReader(new InputStreamReader(new FileInputStream(sc.nextLine() + ".txt")));
 			BufferedReader brLogin = new BufferedReader(new InputStreamReader(new FileInputStream("login.txt")));
 			cc.animoSysLogIn(brLogin.readLine(), brLogin.readLine());
-//			cc.aSysEnlistSched();
+			cc.aSysEnlistSched();
 			brLogin.close();
 			
 			cc.aSysAddClass(100);

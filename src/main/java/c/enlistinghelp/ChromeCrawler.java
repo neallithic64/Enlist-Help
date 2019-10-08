@@ -52,9 +52,10 @@ public class ChromeCrawler {
 	public void googleImgScrape(String query) {
 		googleSearch(query);
 		siteDriver.findElement(By.className("qs")).click();
+		
 		pageWait();
 		
-		System.out.println("scraping for " + query + "...");
+/*		System.out.println("scraping for " + query + "...");
 		List<WebElement> imgURLs = siteDriver.findElements(By.className("rg_l"));
 		
 		File outFol = new File(query + "_images");
@@ -66,17 +67,16 @@ public class ChromeCrawler {
 				System.out.println(i + ": " + imgURLs.get(i).getAttribute("href"));
 				siteDriver.get(imgURLs.get(i).getAttribute("href"));
 				
-/*				URL imageURL = new URL(img);
+				URL imageURL = new URL(img);
 				// read url and retrieve image
 				BufferedImage saveImage = ImageIO.read(imageURL);
 				// this will create an image with new name each time
 				ImageIO.write(saveImage, "jpg", new File(outFol.getPath() + "\\img_" + String.format("%05d", countF) + ".jpg"));
 				countF++;
-*/			} catch (/*IO*/Exception e) {
+			} catch (IOException e) {
 			}
 		}
-		
-	}
+*/	}
 	
 	public void printList(List<String> list) {
 		for (int i = 0; i < list.size(); i++)
@@ -104,6 +104,33 @@ public class ChromeCrawler {
 		siteDriver.findElement(By.name("Submit")).click();
 	}
 	
+	public void aSysPreEnlist() {
+		// assume that the user is already logged in
+		try {
+			siteDriver.get("https://animo.sys.dlsu.edu.ph/psp/ps/EMPLOYEE/HRMS/c/TX_PET_ADD.TX_PET_ADD.GBL");
+			siteDriver.switchTo().frame(siteDriver.findElement(By.id("ptifrmtgtframe")));
+			for (int i = 0; i < 5 /*n*/; i++) {
+				try {
+					/*
+					<input type="text" name="TX_CRSE_PET_CRSE_ID$0" id="TX_CRSE_PET_CRSE_ID$0" tabindex="37" value="" class="PSEDITBOX" style="width:65px; " maxlength="6">
+					^ text box #1
+					
+					<a name="TX_CRSE_PET_CRSE_ID$prompt$0" id="TX_CRSE_PET_CRSE_ID$prompt$0" tabindex="38" href="javascript:pAction_win0(document.win0,'TX_CRSE_PET_CRSE_ID$prompt$0');"></a>
+					
+					
+					iframe: popupFrame
+					*/
+				} catch (NoSuchElementException e) {
+					System.out.println("error! log given here: " + siteDriver.navigate().toString() + "\n" + e);
+				}
+			}
+		} catch (NoSuchElementException e) {
+			System.out.println("bad page loading, siteDriver report: " + siteDriver.getCurrentUrl() + "\n"
+					+ "exiting to google...");
+			siteDriver.get("https://google.com/");
+		}
+	}
+	
 	public void aSysAddClass(int n) {
 		// assume that the user is already logged in
 		try {
@@ -129,7 +156,6 @@ public class ChromeCrawler {
 	}
 	
 	public void aSysEnlistSched(WeekSchedule sched) {
-		siteDriver.get(null);
 		
 	}
 	
