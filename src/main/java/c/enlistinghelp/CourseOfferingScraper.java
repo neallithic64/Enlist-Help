@@ -7,6 +7,9 @@ import java.util.List;
 import java.io.FileWriter;
 import java.io.IOException;
 
+/** 
+ * @author Neal
+ */
 public class CourseOfferingScraper {
 	private ArrayList<ArrayList<SectionInfo>> courseOffers;
 	
@@ -41,13 +44,20 @@ public class CourseOfferingScraper {
 		}
 	}
 	
+	/** Method to read some input text file for course codes of a single degree
+	 * program's flowchart. Will transfer the text data into internal memory,
+	 * sorted and grouped by term.
+	 * @param inFile File stream for the flowchart data
+	 * @return ArrayList of String[], each containing an array of course codes grouped by term
+	 */
 	public ArrayList<String[]> readCourseCode(BufferedReader inFile) {
 		ArrayList<String[]> data = new ArrayList<>();
+		String temp;
 		try {
 			int termCount = Integer.parseInt(inFile.readLine());
 			for (int i = 0; i < termCount; i++) {
 				int courseCount = Integer.parseInt(inFile.readLine());
-				String temp = "";
+				temp = "";
 				for (int j = 0; j < courseCount; j++)
 					temp += inFile.readLine() + " ";
 				data.add(temp.split(" "));
@@ -84,29 +94,33 @@ public class CourseOfferingScraper {
 				si.getDays() == null;
 	}
 	
+	/** Parses and processes a source {@code List<String>} and converts the data
+	 * into a {@code SectionInfo} object, then adds it into the ArrayList {@code
+	 * courseOffers}.
+	 * @param listRows 
+	 */
 	public void parseList(List<String> listRows) {
 		String[] tempStr;
 		SectionInfo tempSecIn;
 		courseOffers.add(new ArrayList<>());
+		int lastIndex = courseOffers.size()-1;
 		
 		for (int i = 1; i < listRows.size(); i++) {
 			if (!listRows.get(i).contains(",")) { // checking if NOT a prof name
 				tempStr = listRows.get(i).split(" ");
 				if (tempStr[2].charAt(0) != 'X') { // checking if NOT a laguna campus
 					tempSecIn = new SectionInfo(listRows.get(i));
-					if (tempStr.length >= 10) {
-						// new SectionInfo
-						courseOffers.get(courseOffers.size()-1).add(tempSecIn);
-						courseOffers.get(courseOffers.size()-1).get(courseOffers.get(courseOffers.size()-1).size()-1).fixRooms();
-					} else {
-						// append to last section!
-						courseOffers.get(courseOffers.size()-1).get(courseOffers.get(courseOffers.size()-1).size()-1).appendDays(tempStr[0]);
-						courseOffers.get(courseOffers.size()-1).get(courseOffers.get(courseOffers.size()-1).size()-1).appendRooms(tempStr[4]);
+					if (tempStr.length >= 10) { // new SectionInfo
+						courseOffers.get(lastIndex).add(tempSecIn);
+						courseOffers.get(lastIndex).get(courseOffers.get(lastIndex).size()-1).fixRooms();
+					} else { // append to last section!
+						courseOffers.get(lastIndex).get(courseOffers.get(lastIndex).size()-1).appendDays(tempStr[0]);
+						courseOffers.get(lastIndex).get(courseOffers.get(lastIndex).size()-1).appendRooms(tempStr[4]);
 					}
 				}
 			} else {
 				// prof name found! add to last class!
-				courseOffers.get(courseOffers.size()-1).get(courseOffers.get(courseOffers.size()-1).size()-1).setProfessor(listRows.get(i));
+				courseOffers.get(lastIndex).get(courseOffers.get(lastIndex).size()-1).setProfessor(listRows.get(i));
 			}
 		}
 	}

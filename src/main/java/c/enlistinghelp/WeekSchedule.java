@@ -3,6 +3,12 @@ package c.enlistinghelp;
 import java.util.ArrayList;
 import java.time.LocalTime;
 
+/** Models an entire weekly schedule, compromised of a collection of SectionInfo objects
+ * and a name label for this specific schedule. Adding to the ArrayList of sections
+ * include checking if the course code does not yet exist (using {@code checkUniqueAll()}
+ * and checking if the times do not yet overlap (using {@code checkOverlap()}).
+ * @author Neal
+ */
 public class WeekSchedule {
 	private String name;
 	private ArrayList<SectionInfo> classes;
@@ -49,8 +55,11 @@ public class WeekSchedule {
 		else System.out.println("input class is rejected!");
 	}
 	
+	/** Additional auxiliary method to sort the sections by day, but will be left unfinished
+	 * as this is not crucial in the making of schedules.<br>
+	 * Recommended order: MW, TH, F, S, others
+	 */
 	public void sortByDay() {
-		// recommended order: MW, TH, F, S, others
 		if (!classes.isEmpty()) {
 			for (int i = 0; i < classes.size(); i++) {
 				System.out.print("sorting ");

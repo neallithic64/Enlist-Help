@@ -55,11 +55,11 @@ public class SomeDriver {
 		} catch (IOException e) {
 			System.out.println("file error! this bad.\n" + e);
 		}
-		
+*/		
 		
 		cc.googleImgScrape("cheese");
 		cc.close();
-*/		sc.close();
+		sc.close();
 		
 	}
 }

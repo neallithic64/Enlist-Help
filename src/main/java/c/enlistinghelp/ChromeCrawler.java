@@ -11,6 +11,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.By;
 import org.openqa.selenium.NoSuchElementException;
+import org.openqa.selenium.SessionNotCreatedException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
@@ -18,9 +19,26 @@ import org.jsoup.select.Elements;
 public class ChromeCrawler {
 	private WebDriver siteDriver;
 	
+	/** Constructor for the ChromeCrawler class. This only does two things:
+	 * <ol>
+	 *	<li>directs the Chrome Driver System property to the executable in the specified path, and</li>
+	 *	<li>Instantiates the attribute SiteDriver</li>
+	 * </ol>
+	 * Note that as Google Chrome updates, this may throw {@code org.openqa.selenium.SessionNotCreatedException} since there
+	 * may be a difference between versions with the browser and the ChromeDriver used. In that case, the current fix is to
+	 * visit the site {@link https://sites.google.com/a/chromium.org/chromedriver/downloads}, download the chromedriver.exe
+	 * version that matches your installed version of Chrome. Then, place the executable in the file path specified in the
+	 * constructor below passed in the {@code System.setProperty()} method.<br>
+	 * Right now, this works, but unsure if there's a better mode of updating.
+	 */
 	public ChromeCrawler() {
-		System.setProperty("webdriver.chrome.driver","C:\\chromedriver.exe");
-		siteDriver = new ChromeDriver();
+		System.setProperty("webdriver.chrome.driver", "C:\\chromedriver.exe");
+		try {
+			siteDriver = new ChromeDriver();
+		} catch (SessionNotCreatedException e) {
+			System.out.println("siteDriver: bad ChromeDriver session creation\n\t" + e.getMessage());
+			System.exit(0);
+		}
 	}
 	
 	public WebDriver getSiteDriver() {
@@ -55,25 +73,29 @@ public class ChromeCrawler {
 		
 		pageWait();
 		
-/*		System.out.println("scraping for " + query + "...");
+		System.out.println("scraping for " + query + "...");
 		List<WebElement> imgURLs = siteDriver.findElements(By.className("rg_l"));
+		
+		// remove this later, for debugging
+		System.out.println("GETTEXT() FOR LAST ELEM " + imgURLs.get(imgURLs.size()-1).getText());
 		
 		File outFol = new File(query + "_images");
 		outFol.mkdir();
-		System.out.println("downloading " + imgURLs.size() + " images...");
-		int countF = 0;
+		System.out.println("downloading " + imgURLs.size() + " images to " + outFol.getName() + "...");
+/*		int countF = 0;
 		for (int i = 0; i < imgURLs.size(); i++) {
 			try {
 				System.out.println(i + ": " + imgURLs.get(i).getAttribute("href"));
 				siteDriver.get(imgURLs.get(i).getAttribute("href"));
 				
-				URL imageURL = new URL(img);
+				URL imageURL = new URL( {imgURLs.get(i).getText()} );
 				// read url and retrieve image
 				BufferedImage saveImage = ImageIO.read(imageURL);
 				// this will create an image with new name each time
 				ImageIO.write(saveImage, "jpg", new File(outFol.getPath() + "\\img_" + String.format("%05d", countF) + ".jpg"));
 				countF++;
 			} catch (IOException e) {
+				System.out.println("error parsing image in index " + i + "\n" + e.getMessage());
 			}
 		}
 */	}
@@ -113,12 +135,12 @@ public class ChromeCrawler {
 				try {
 					/*
 					<input type="text" name="TX_CRSE_PET_CRSE_ID$0" id="TX_CRSE_PET_CRSE_ID$0" tabindex="37" value="" class="PSEDITBOX" style="width:65px; " maxlength="6">
-					^ text box #1
+					^ {HTML} text box #1
 					
 					<a name="TX_CRSE_PET_CRSE_ID$prompt$0" id="TX_CRSE_PET_CRSE_ID$prompt$0" tabindex="38" href="javascript:pAction_win0(document.win0,'TX_CRSE_PET_CRSE_ID$prompt$0');"></a>
 					
 					
-					iframe: popupFrame
+					iframe: popupFrame; must switch frames
 					*/
 				} catch (NoSuchElementException e) {
 					System.out.println("error! log given here: " + siteDriver.navigate().toString() + "\n" + e);

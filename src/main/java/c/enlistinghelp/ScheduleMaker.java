@@ -3,6 +3,10 @@ package c.enlistinghelp;
 import java.util.ArrayList;
 import java.time.LocalTime;
 
+/** Helper class to manage generation of weekly schedules. ArrayList {@code schedList} is
+ * used to store these 
+ * @author Neal
+ */
 public class ScheduleMaker {
 	private ArrayList<WeekSchedule> schedList;
 	
@@ -28,6 +32,20 @@ public class ScheduleMaker {
 		}
 		sched.sortByDay();
 		return sched;
+	}
+	
+	public void combi(ArrayList<ArrayList<String>> orig, ArrayList<String> result, int step, String curr) {
+		if (step == orig.size())
+			result.add(curr);
+		else for (int i = 0; i < orig.get(step).size(); i++)
+			combi(orig, result, step+1, curr+orig.get(step).get(i));
+	}
+	
+	public void dispArrList(ArrayList<String> aList) {
+		System.out.println("begin printing");
+		for (int i = 0; i < aList.size(); i++)
+			System.out.println(aList.get(i));
+		System.out.println();
 	}
 	
 	public ArrayList<WeekSchedule> generateMultipleScheds() {

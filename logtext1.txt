@@ -49,7 +49,7 @@ Time: M 09:15-10:45
 	Room: AG902
 Time: W 09:15-10:45
 	Room: AG902
-Class Size: 45/43
+Class Size: 41/43
 Professor: SISON-BUBAN, RAQUEL ESTANISLAO
 
 Class Info of #1327:
@@ -79,7 +79,7 @@ Time: T 16:15-17:45
 	Room: AG902
 Time: H 16:15-17:45
 	Room: AG902
-Class Size: 45/43
+Class Size: 44/43
 Professor: MANGARAN, MON KARLO LEONCIO
 
 Class Info of #1324:
@@ -99,7 +99,7 @@ Time: M 14:30-16:00
 	Room: AG1102
 Time: W 14:30-16:00
 	Room: AG1102
-Class Size: 45/43
+Class Size: 42/43
 Professor: GARCIA, LAKANGITING CAPARANGA
 
 Class Info of #1322:
@@ -109,7 +109,7 @@ Time: M 07:30-09:00
 	Room: AG1109
 Time: W 07:30-09:00
 	Room: AG1109
-Class Size: 44/43
+Class Size: 42/43
 Professor: ASTORGA, ERIBERTO ROSARIO
 
 Class Info of #1321:
@@ -119,7 +119,7 @@ Time: M 12:45-14:15
 	Room: AG1109
 Time: W 12:45-14:15
 	Room: AG1109
-Class Size: 43/43
+Class Size: 42/43
 Professor: ANASTACIO, DEBORRAH SADILE
 
 Class Info of #1348:
@@ -129,7 +129,7 @@ Time: T 11:00-12:30
 	Room: AG1109
 Time: H 11:00-12:30
 	Room: AG1109
-Class Size: 45/43
+Class Size: 39/43
 Professor: JUMAQUIO-ARDALES, ALONA
 
 Class Info of #1347:
@@ -139,7 +139,7 @@ Time: T 14:30-16:00
 	Room: AG1007
 Time: H 14:30-16:00
 	Room: AG1007
-Class Size: 43/43
+Class Size: 40/43
 Professor: ALFONSO, ALPHONSUS LUIGI ESTRADA
 
 Class Info of #1346:
@@ -149,7 +149,7 @@ Time: M 16:15-17:45
 	Room: AG1701
 Time: W 16:15-17:45
 	Room: AG1701
-Class Size: 44/43
+Class Size: 40/43
 Professor: BASCO, EMMA ABLAN
 
 Class Info of #1345:
@@ -179,7 +179,7 @@ Time: M 09:15-10:45
 	Room: AG1702
 Time: W 09:15-10:45
 	Room: AG1702
-Class Size: 44/43
+Class Size: 42/43
 Professor: TAYLAN, DOLORES RECALDE
 
 Class Info of #1342:
@@ -189,7 +189,7 @@ Time: T 14:30-16:00
 	Room: AG1110
 Time: H 14:30-16:00
 	Room: AG1110
-Class Size: 45/43
+Class Size: 44/43
 Professor: JUMAQUIO-ARDALES, ALONA
 
 Class Info of #1315:
@@ -199,7 +199,7 @@ Time: M 16:15-17:45
 	Room: SM307
 Time: W 16:15-17:45
 	Room: SM307
-Class Size: 44/43
+Class Size: 43/43
 Professor: CALINDRO, MIRYLLE ABLANIDO
 
 Class Info of #1314:
@@ -219,8 +219,8 @@ Time: M 12:45-14:15
 	Room: VL202
 Time: W 12:45-14:15
 	Room: VL202
-Class Size: 31/43
-Professor: CALINDRO, MIRYLLE ABLANIDO
+Class Size: 30/43
+Professor: MANGAHIS, JOSEFINA C.
 
 Class Info of #1340:
 Course Code: GEFILI1
@@ -229,7 +229,7 @@ Time: M 09:15-10:45
 	Room: SM408
 Time: W 09:15-10:45
 	Room: SM408
-Class Size: 45/43
+Class Size: 43/43
 Professor: GARCIA, LAKANGITING CAPARANGA
 
 Class Info of #1339:
@@ -239,7 +239,7 @@ Time: M 11:00-12:30
 	Room: SM410
 Time: W 11:00-12:30
 	Room: SM410
-Class Size: 44/43
+Class Size: 43/43
 Professor: GARCIA, LAKANGITING CAPARANGA
 
 Class Info of #1338:
@@ -259,7 +259,7 @@ Time: T 14:30-16:00
 	Room: SM409
 Time: H 14:30-16:00
 	Room: SM409
-Class Size: 45/43
+Class Size: 42/43
 Professor: MANGARAN, MON KARLO LEONCIO
 
 Class Info of #1336:
@@ -269,7 +269,7 @@ Time: M 07:30-09:00
 	Room: SM409
 Time: W 07:30-09:00
 	Room: SM409
-Class Size: 43/43
+Class Size: 41/43
 Professor: TORRELIZA, MYRNA AUSTRIA
 
 Class Info of #1335:
@@ -299,7 +299,7 @@ Time: M 14:30-16:00
 	Room: SM407
 Time: W 14:30-16:00
 	Room: SM407
-Class Size: 29/40
+Class Size: 30/40
 Professor: SISON-BUBAN, RAQUEL ESTANISLAO
 
 Class Info of #1332:
@@ -319,7 +319,7 @@ Time: T 12:45-14:15
 	Room: AG1802
 Time: H 12:45-14:15
 	Room: AG1802
-Class Size: 42/43
+Class Size: 41/43
 Professor: MADULA, ROWELL DECENA
 
 Class Info of #1331:
@@ -339,7 +339,7 @@ Time: T 14:30-16:00
 	Room: AG1402
 Time: H 14:30-16:00
 	Room: AG1402
-Class Size: 39/43
+Class Size: 38/43
 Professor: MADULA, ROWELL DECENA
 
 Class Info of #1318:
@@ -349,7 +349,7 @@ Time: T 07:30-09:00
 	Room: AG1708
 Time: H 07:30-09:00
 	Room: AG1708
-Class Size: 44/43
+Class Size: 42/43
 Professor: BASCO, EMMA ABLAN
 
 Class Info of #1330:
@@ -359,7 +359,7 @@ Time: M 14:30-16:00
 	Room: AG1708
 Time: W 14:30-16:00
 	Room: AG1708
-Class Size: 43/44
+Class Size: 40/44
 Professor: JUMAQUIO-ARDALES, ALONA
 
 Class Info of #1317:
@@ -369,7 +369,7 @@ Time: T 11:00-12:30
 	Room: AG1705
 Time: H 11:00-12:30
 	Room: AG1705
-Class Size: 34/43
+Class Size: 37/43
 Professor: TAYLAN, DOLORES RECALDE
 
 Class Info of #1333:
@@ -379,7 +379,7 @@ Time: T 14:30-16:00
 	Room: GK205
 Time: H 14:30-16:00
 	Room: GK205
-Class Size: 45/43
+Class Size: 44/43
 Professor: FELICILDA, JOSHUA MARIZ BELTRAN
 
 		retrieving classes for GEFTWEL...
@@ -395,7 +395,7 @@ Course Code: GEFTWEL
 Section: C31
 Time: W 10:00-12:00
 	Room: ER701
-Class Size: 32/45
+Class Size: 34/45
 Professor: PANLILIO, ROLANDO MENDOZA
 
 Class Info of #1674:
@@ -403,7 +403,7 @@ Course Code: GEFTWEL
 Section: C32
 Time: T 10:00-12:00
 	Room: ER7B
-Class Size: 40/45
+Class Size: 37/45
 Professor: PANLILIO, ROLANDO MENDOZA
 
 Class Info of #3068:
@@ -419,7 +419,7 @@ Course Code: GEFTWEL
 Section: L82
 Time: M 10:00-12:00
 	Room: ER1004
-Class Size: 40/43
+Class Size: 39/43
 Professor: CACHOLA-MIÑAS, GERALDINE
 
 Class Info of #3053:
@@ -434,7 +434,7 @@ Course Code: GEFTWEL
 Section: L84
 Time: W 10:00-12:00
 	Room: ER7A
-Class Size: 38/43
+Class Size: 37/43
 Professor: CORDOVA, MA. SOCORRO GIGI VILLAMOR
 
 Class Info of #3056:
@@ -442,7 +442,7 @@ Course Code: GEFTWEL
 Section: L85
 Time: M 13:00-15:00
 	Room: ER7A
-Class Size: 45/43
+Class Size: 44/43
 Professor: RODRIGUEZ, CAROL BERGONIA
 
 Class Info of #3069:
@@ -450,7 +450,7 @@ Course Code: GEFTWEL
 Section: L86
 Time: T 10:00-12:00
 	Room: ER804
-Class Size: 45/43
+Class Size: 44/43
 Professor: CORDOVA, MA. SOCORRO GIGI VILLAMOR
 
 Class Info of #1624:
@@ -458,7 +458,7 @@ Course Code: GEFTWEL
 Section: L87
 Time: W 13:00-15:00
 	Room: ER7A
-Class Size: 43/43
+Class Size: 41/43
 Professor: CALABIO, VIRGILIA TOHOY
 
 		retrieving classes for LCFAITH...
@@ -469,7 +469,7 @@ Time: M 12:45-14:15
 	Room: AG702
 Time: W 12:45-14:15
 	Room: AG702
-Class Size: 44/43
+Class Size: 43/43
 Professor: MACARAAN, WILLARD ENRIQUE RACELIS
 
 Class Info of #1560:
@@ -489,7 +489,7 @@ Time: T 07:30-09:00
 	Room: AG702
 Time: H 07:30-09:00
 	Room: AG702
-Class Size: 45/43
+Class Size: 44/43
 Professor: MACARAAN, WILLARD ENRIQUE RACELIS
 
 Class Info of #1562:
@@ -499,7 +499,7 @@ Time: T 11:00-12:30
 	Room: LS208
 Time: H 11:00-12:30
 	Room: LS208
-Class Size: 44/43
+Class Size: 43/43
 Professor: MACARAAN, WILLARD ENRIQUE RACELIS
 
 Class Info of #1563:
@@ -509,7 +509,7 @@ Time: T 16:15-17:45
 	Room: AG702
 Time: H 16:15-17:45
 	Room: AG702
-Class Size: 42/43
+Class Size: 40/43
 Professor: BAUTISTA, ROSEMARIE VINLUAN
 
 Class Info of #1564:
@@ -519,7 +519,7 @@ Time: M 11:00-12:30
 	Room: LS333
 Time: W 11:00-12:30
 	Room: LS333
-Class Size: 44/43
+Class Size: 43/43
 Professor: MACARAAN, WILLARD ENRIQUE RACELIS
 
 Class Info of #2614:
@@ -529,7 +529,7 @@ Time: T 16:15-17:45
 	Room: AG708
 Time: H 16:15-17:45
 	Room: AG708
-Class Size: 43/43
+Class Size: 42/43
 Professor: ANTONIO, GLORIA MAPANOO
 
 Class Info of #1683:
@@ -539,7 +539,7 @@ Time: T 14:30-16:00
 	Room: LS308
 Time: H 14:30-16:00
 	Room: LS308
-Class Size: 43/43
+Class Size: 44/43
 Professor: CELESTIAL, RONALDO ROA
 
 Class Info of #2992:
@@ -549,7 +549,7 @@ Time: T 11:00-12:30
 	Room: SM316
 Time: H 11:00-12:30
 	Room: SM316
-Class Size: 45/43
+Class Size: 43/43
 Professor: CAMARINES, TERESA MADOLARIA
 Remarks: FRBLK-hybrid
 
@@ -560,7 +560,7 @@ Time: T 07:30-09:00
 	Room: GK203
 Time: H 07:30-09:00
 	Room: GK203
-Class Size: 42/43
+Class Size: 39/43
 Professor: CELESTIAL, RONALDO ROA
 
 Class Info of #1665:
@@ -580,7 +580,7 @@ Time: T 16:15-17:45
 	Room: GK205
 Time: H 16:15-17:45
 	Room: GK205
-Class Size: 44/43
+Class Size: 43/43
 Professor: CAMARINES, TERESA MADOLARIA
 
 Class Info of #1642:
