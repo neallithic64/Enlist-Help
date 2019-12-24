@@ -158,7 +158,7 @@ public class ChromeCrawler {
 		try {
 			siteDriver.get("https://animo.sys.dlsu.edu.ph/psp/ps/EMPLOYEE/HRMS/c/SA_LEARNER_SERVICES.SSR_SSENRL_CART.GBL");
 			siteDriver.switchTo().frame(siteDriver.findElement(By.id("ptifrmtgtframe")));
-			for (int i = 0; i < 5 /*n*/; i++) {
+			for (int i = 0; i < n; i++) {
 				try {
 					siteDriver.findElement(By.className("SSSBUTTON_CONFIRMLINK")).click();
 					pageWait(2);
@@ -175,6 +175,10 @@ public class ChromeCrawler {
 					+ "exiting to google...");
 			siteDriver.get("https://google.com/");
 		}
+	}
+	
+	public void aSysAddClass() {
+		aSysAddClass(5);
 	}
 	
 	public void aSysEnlistSched(WeekSchedule sched) {

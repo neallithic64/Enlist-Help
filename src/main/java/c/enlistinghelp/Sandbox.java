@@ -29,19 +29,16 @@ public class Sandbox {
 		list.get(0).add("b");
 		list.get(0).add("c");
 		list.get(0).add("d");
-		
 		list.get(1).add("A");
 		list.get(1).add("B");
 		list.get(1).add("C");
-		
 		list.get(2).add("1");
 		list.get(2).add("2");
-		
 		list.get(3).add("!");
-		list.get(3).add("@");
-		list.get(3).add("#");
-		list.get(3).add("$");
-		list.get(3).add("%");
+//		list.get(3).add("@");
+//		list.get(3).add("#");
+//		list.get(3).add("$");
+//		list.get(3).add("%");
 		
 		dispArrList(list.get(0));
 		dispArrList(list.get(1));
