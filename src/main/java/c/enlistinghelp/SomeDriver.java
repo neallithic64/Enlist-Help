@@ -30,11 +30,11 @@ public class SomeDriver {
 			WeekSchedule sampleWeekSched = sm.generateOneSched(cos.getCourseOffers());
 			System.out.println(sampleWeekSched);
 		} catch (NoSuchElementException e) {
-			System.out.println("it's 2am! site's down :(");
+			System.out.println("NSEE! site's down (2am) or smth :(");
 		} catch (FileNotFoundException e) {
-			System.out.println("can't find file!\t" + e);
+			System.out.println("FNFE! can't find file: " + e.getMessage());
 		} catch (IOException e) {
-			System.out.println("something wrong here");
+			System.out.println("IOE! something wrong here: " + e.getMessage());
 		} finally {
 			cc.close();
 		}
@@ -57,7 +57,8 @@ public class SomeDriver {
 		}
 */		
 		
-		cc.googleImgScrape("cheese");
+		// only work on this when on break
+//		cc.googleImgScrape("cheese");
 		cc.close();
 		sc.close();
 		

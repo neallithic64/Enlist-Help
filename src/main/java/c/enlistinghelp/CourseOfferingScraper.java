@@ -103,9 +103,10 @@ public class CourseOfferingScraper {
 		String[] tempStr;
 		SectionInfo tempSecIn;
 		courseOffers.add(new ArrayList<>());
-		int lastIndex = courseOffers.size()-1;
+		int lastIndex;
 		
 		for (int i = 1; i < listRows.size(); i++) {
+			lastIndex = courseOffers.size()-1;
 			if (!listRows.get(i).contains(",")) { // checking if NOT a prof name
 				tempStr = listRows.get(i).split(" ");
 				if (tempStr[2].charAt(0) != 'X') { // checking if NOT a laguna campus
