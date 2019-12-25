@@ -1,595 +1,725 @@
 		START DispCourOff:
 
-		retrieving classes for CCPROG3...
-Class Info of #3631:
-Course Code: CCPROG3
-Section: N01
-Time: M 16:15-17:45
-	Room: ST314
-Time: W 16:15-17:45
-	Room: ST314
-Class Size: 15/20
-Professor: TIGHE, EDWARD PATRICK
-
-Class Info of #1839:
-Course Code: CCPROG3
-Section: S11
-Time: T 12:45-14:15
-	Room: GK306A
-Time: H 12:45-14:15
-	Room: GK306A
-Class Size: 22/22
-Professor: CHUA, UNISSE CHUA
-
-Class Info of #1838:
-Course Code: CCPROG3
-Section: S12
-Time: T 14:30-16:00
-	Room: GK306A
-Time: H 14:30-16:00
-	Room: GK306A
-Class Size: 21/22
-Professor: CHUA, UNISSE CHUA
-
-Class Info of #1837:
-Course Code: CCPROG3
-Section: S13
-Time: M 12:45-14:15
-	Room: GK306A
-Time: W 12:45-14:15
-	Room: GK306A
-Class Size: 22/22
-Professor: CHU, SHIRLEY BARRIDO
-
-		retrieving classes for GEFILI1...
-Class Info of #1316:
-Course Code: GEFILI1
-Section: A51
-Time: M 09:15-10:45
-	Room: AG902
-Time: W 09:15-10:45
-	Room: AG902
-Class Size: 41/43
-Professor: SISON-BUBAN, RAQUEL ESTANISLAO
-
-Class Info of #1327:
-Course Code: GEFILI1
-Section: A52
-Time: M 16:15-17:45
-	Room: AG902
-Time: W 16:15-17:45
-	Room: AG902
-Class Size: 42/43
-Professor: MANGARAN, MON KARLO LEONCIO
-
-Class Info of #1326:
-Course Code: GEFILI1
-Section: A53
-Time: M 11:00-12:30
-	Room: AG1007
-Time: W 11:00-12:30
-	Room: AG1007
-Class Size: 45/43
-Professor: SISON-BUBAN, RAQUEL ESTANISLAO
-
-Class Info of #1325:
-Course Code: GEFILI1
-Section: A54
-Time: T 16:15-17:45
-	Room: AG902
-Time: H 16:15-17:45
-	Room: AG902
-Class Size: 44/43
-Professor: MANGARAN, MON KARLO LEONCIO
-
-Class Info of #1324:
-Course Code: GEFILI1
-Section: A55
-Time: T 07:30-09:00
-	Room: AG1102
-Time: H 07:30-09:00
-	Room: AG1102
-Class Size: 45/43
-Professor: CALINDRO, MIRYLLE ABLANIDO
-
-Class Info of #1323:
-Course Code: GEFILI1
-Section: A56
-Time: M 14:30-16:00
-	Room: AG1102
-Time: W 14:30-16:00
-	Room: AG1102
-Class Size: 42/43
-Professor: GARCIA, LAKANGITING CAPARANGA
-
-Class Info of #1322:
-Course Code: GEFILI1
-Section: A57
-Time: M 07:30-09:00
-	Room: AG1109
-Time: W 07:30-09:00
-	Room: AG1109
-Class Size: 42/43
-Professor: ASTORGA, ERIBERTO ROSARIO
-
-Class Info of #1321:
-Course Code: GEFILI1
-Section: A58
-Time: M 12:45-14:15
-	Room: AG1109
-Time: W 12:45-14:15
-	Room: AG1109
-Class Size: 42/43
-Professor: ANASTACIO, DEBORRAH SADILE
-
-Class Info of #1348:
-Course Code: GEFILI1
-Section: A59
-Time: T 11:00-12:30
-	Room: AG1109
-Time: H 11:00-12:30
-	Room: AG1109
-Class Size: 39/43
-Professor: JUMAQUIO-ARDALES, ALONA
-
-Class Info of #1347:
-Course Code: GEFILI1
-Section: A60
-Time: T 14:30-16:00
-	Room: AG1007
-Time: H 14:30-16:00
-	Room: AG1007
-Class Size: 40/43
-Professor: ALFONSO, ALPHONSUS LUIGI ESTRADA
-
-Class Info of #1346:
-Course Code: GEFILI1
-Section: A61
-Time: M 16:15-17:45
-	Room: AG1701
-Time: W 16:15-17:45
-	Room: AG1701
-Class Size: 40/43
-Professor: BASCO, EMMA ABLAN
-
-Class Info of #1345:
-Course Code: GEFILI1
-Section: A62
-Time: T 07:30-09:00
-	Room: AG1110
-Time: H 07:30-09:00
-	Room: AG1110
-Class Size: 45/43
-Professor: ASTORGA, ERIBERTO ROSARIO
-
-Class Info of #1344:
-Course Code: GEFILI1
-Section: A63
-Time: M 14:30-16:00
-	Room: AG1702
-Time: W 14:30-16:00
-	Room: AG1702
-Class Size: 45/43
-Professor: MANGARAN, MON KARLO LEONCIO
-
-Class Info of #1343:
-Course Code: GEFILI1
-Section: A64
-Time: M 09:15-10:45
-	Room: AG1702
-Time: W 09:15-10:45
-	Room: AG1702
-Class Size: 42/43
-Professor: TAYLAN, DOLORES RECALDE
-
-Class Info of #1342:
-Course Code: GEFILI1
-Section: A65
-Time: T 14:30-16:00
-	Room: AG1110
-Time: H 14:30-16:00
-	Room: AG1110
-Class Size: 44/43
-Professor: JUMAQUIO-ARDALES, ALONA
-
-Class Info of #1315:
-Course Code: GEFILI1
-Section: A66
-Time: M 16:15-17:45
-	Room: SM307
-Time: W 16:15-17:45
-	Room: SM307
-Class Size: 43/43
-Professor: CALINDRO, MIRYLLE ABLANIDO
-
-Class Info of #1314:
-Course Code: GEFILI1
-Section: A67
-Time: T 09:15-10:45
-	Room: AG1702
-Time: H 09:15-10:45
-	Room: AG1702
-Class Size: 35/43
-Professor: TAYLAN, DOLORES RECALDE
-
-Class Info of #1341:
-Course Code: GEFILI1
-Section: A68
-Time: M 12:45-14:15
-	Room: VL202
-Time: W 12:45-14:15
-	Room: VL202
-Class Size: 30/43
-Professor: MANGAHIS, JOSEFINA C.
-
-Class Info of #1340:
-Course Code: GEFILI1
-Section: A69
-Time: M 09:15-10:45
-	Room: SM408
-Time: W 09:15-10:45
-	Room: SM408
-Class Size: 43/43
-Professor: GARCIA, LAKANGITING CAPARANGA
-
-Class Info of #1339:
-Course Code: GEFILI1
-Section: A70
-Time: M 11:00-12:30
-	Room: SM410
-Time: W 11:00-12:30
-	Room: SM410
-Class Size: 43/43
-Professor: GARCIA, LAKANGITING CAPARANGA
-
-Class Info of #1338:
-Course Code: GEFILI1
-Section: A71
-Time: M 12:45-14:15
-	Room: VL203
-Time: W 12:45-14:15
-	Room: VL203
-Class Size: 45/43
-Professor: TORRELIZA, MYRNA AUSTRIA
-
-Class Info of #1337:
-Course Code: GEFILI1
-Section: A72
-Time: T 14:30-16:00
-	Room: SM409
-Time: H 14:30-16:00
-	Room: SM409
-Class Size: 42/43
-Professor: MANGARAN, MON KARLO LEONCIO
-
-Class Info of #1336:
-Course Code: GEFILI1
-Section: A73
-Time: M 07:30-09:00
-	Room: SM409
-Time: W 07:30-09:00
-	Room: SM409
-Class Size: 41/43
-Professor: TORRELIZA, MYRNA AUSTRIA
-
-Class Info of #1335:
-Course Code: GEFILI1
-Section: A74
-Time: T 11:00-12:30
-	Room: LS318
-Time: H 11:00-12:30
-	Room: LS318
-Class Size: 45/43
-Professor: ALFONSO, ALPHONSUS LUIGI ESTRADA
-
-Class Info of #1334:
-Course Code: GEFILI1
-Section: A75
-Time: T 09:15-10:45
-	Room: LS318
-Time: H 09:15-10:45
-	Room: LS318
-Class Size: 43/43
-Professor: MADULA, ROWELL DECENA
-
-Class Info of #3635:
-Course Code: GEFILI1
-Section: A76
-Time: M 14:30-16:00
-	Room: SM407
-Time: W 14:30-16:00
-	Room: SM407
-Class Size: 30/40
-Professor: SISON-BUBAN, RAQUEL ESTANISLAO
-
-Class Info of #1332:
-Course Code: GEFILI1
-Section: L81
-Time: M 11:00-12:30
-	Room: AG1802
-Time: W 11:00-12:30
-	Room: AG1802
-Class Size: 45/43
-Professor: TAYLAN, DOLORES RECALDE
-
-Class Info of #1320:
-Course Code: GEFILI1
-Section: L82
-Time: T 12:45-14:15
-	Room: AG1802
-Time: H 12:45-14:15
-	Room: AG1802
-Class Size: 41/43
-Professor: MADULA, ROWELL DECENA
-
-Class Info of #1331:
-Course Code: GEFILI1
-Section: L83
-Time: M 07:30-09:00
-	Room: AG1402
-Time: W 07:30-09:00
-	Room: AG1402
-Class Size: 34/43
-Professor: ANASTACIO, DEBORRAH SADILE
-
-Class Info of #1319:
-Course Code: GEFILI1
-Section: L84
-Time: T 14:30-16:00
-	Room: AG1402
-Time: H 14:30-16:00
-	Room: AG1402
-Class Size: 38/43
-Professor: MADULA, ROWELL DECENA
-
-Class Info of #1318:
-Course Code: GEFILI1
-Section: L85
-Time: T 07:30-09:00
-	Room: AG1708
-Time: H 07:30-09:00
-	Room: AG1708
-Class Size: 42/43
-Professor: BASCO, EMMA ABLAN
-
-Class Info of #1330:
-Course Code: GEFILI1
-Section: L86
-Time: M 14:30-16:00
-	Room: AG1708
-Time: W 14:30-16:00
-	Room: AG1708
-Class Size: 40/44
-Professor: JUMAQUIO-ARDALES, ALONA
-
-Class Info of #1317:
-Course Code: GEFILI1
-Section: L87
-Time: T 11:00-12:30
-	Room: AG1705
-Time: H 11:00-12:30
-	Room: AG1705
-Class Size: 37/43
-Professor: TAYLAN, DOLORES RECALDE
-
-Class Info of #1333:
-Course Code: GEFILI1
-Section: S16
-Time: T 14:30-16:00
-	Room: GK205
-Time: H 14:30-16:00
-	Room: GK205
-Class Size: 44/43
-Professor: FELICILDA, JOSHUA MARIZ BELTRAN
-
-		retrieving classes for GEFTWEL...
-Class Info of #2714:
-Course Code: GEFTWEL
-Section: A51
-Time: H 15:30-17:30
-	Room: ER7B
-Class Size: 29/45
-
-Class Info of #1673:
-Course Code: GEFTWEL
+		retrieving classes for GERPHIS...
+Class Info of #2581:
+Course Code: GERPHIS
 Section: C31
-Time: W 10:00-12:00
-	Room: ER701
-Class Size: 34/45
-Professor: PANLILIO, ROLANDO MENDOZA
+Time: M 11:00-12:30
+	Room: LS215
+Time: W 11:00-12:30
+	Room: LS215
+Class Size: 0/30
 
-Class Info of #1674:
-Course Code: GEFTWEL
+Class Info of #2580:
+Course Code: GERPHIS
 Section: C32
-Time: T 10:00-12:00
-	Room: ER7B
-Class Size: 37/45
-Professor: PANLILIO, ROLANDO MENDOZA
+Time: T 07:30-09:00
+	Room: GK202
+Time: H 07:30-09:00
+	Room: GK202
+Class Size: 0/30
 
-Class Info of #3068:
-Course Code: GEFTWEL
-Section: L81
-Time: T 13:00-15:00
-	Room: ER7A
-Class Size: 43/43
-Professor: CORDOVA, MA. SOCORRO GIGI VILLAMOR
+Class Info of #2579:
+Course Code: GERPHIS
+Section: S11
+Time: T 07:30-09:00
+	Room: GK205
+Time: H 07:30-09:00
+	Room: GK205
+Class Size: 0/43
 
-Class Info of #3055:
-Course Code: GEFTWEL
-Section: L82
-Time: M 10:00-12:00
-	Room: ER1004
-Class Size: 39/43
-Professor: CACHOLA-MIÑAS, GERALDINE
+Class Info of #2578:
+Course Code: GERPHIS
+Section: S12
+Time: M 07:30-09:00
+	Room: GK205
+Time: W 07:30-09:00
+	Room: GK205
+Class Size: 0/43
 
-Class Info of #3053:
-Course Code: GEFTWEL
-Section: L83
-Time: H 13:00-15:00
-	Room: ER7B
-Class Size: 38/43
+Class Info of #2576:
+Course Code: GERPHIS
+Section: S14
+Time: T 11:00-12:30
+	Room: GK208
+Time: H 11:00-12:30
+	Room: GK208
+Class Size: 0/43
 
-Class Info of #1623:
-Course Code: GEFTWEL
-Section: L84
-Time: W 10:00-12:00
-	Room: ER7A
-Class Size: 37/43
-Professor: CORDOVA, MA. SOCORRO GIGI VILLAMOR
+Class Info of #2577:
+Course Code: GERPHIS
+Section: S18
+Time: M 16:15-17:45
+	Room: GK205
+Time: W 16:15-17:45
+	Room: GK205
+Class Size: 0/43
 
-Class Info of #3056:
-Course Code: GEFTWEL
-Section: L85
+Class Info of #2575:
+Course Code: GERPHIS
+Section: V24
+Time: T 12:45-14:15
+	Room: EY605
+Time: H 12:45-14:15
+	Room: EY605
+Class Size: 0/35
+
+Class Info of #2574:
+Course Code: GERPHIS
+Section: V25
+Time: T 09:15-10:45
+	Room: VL201B
+Time: H 09:15-10:45
+	Room: VL201B
+Class Size: 0/35
+
+		retrieving classes for GESPORT...
+Class Info of #2015:
+Course Code: GESPORT
+Section: A51
 Time: M 13:00-15:00
 	Room: ER7A
-Class Size: 44/43
+Class Size: 0/43
+Professor: PANLILIO, ROLANDO MENDOZA
+
+Class Info of #812:
+Course Code: GESPORT
+Section: A52
+Time: W 15:30-17:30
+	Room: ER701
+Class Size: 0/43
+Professor: AGUINALDO, JERRWIN CALIXTO
+
+Class Info of #1576:
+Course Code: GESPORT
+Section: A53
+Time: W 07:30-09:30
+	Room: ER7T
+Class Size: 0/43
+Professor: DOMINGO, JOHN PAUL RANCES
+
+Class Info of #1675:
+Course Code: GESPORT
+Section: A54
+Time: H 07:30-09:30
+	Room: ER7T
+Class Size: 0/43
+Professor: ACIBAR, MERLIE TATAD
+
+Class Info of #2045:
+Course Code: GESPORT
+Section: A55
+Time: T 10:00-12:00
+	Room: ER801
+Class Size: 0/43
+Professor: SAMSON, MARIJOY REGALA
+
+Class Info of #811:
+Course Code: GESPORT
+Section: A56
+Time: H 07:30-09:30
+	Room: ER1003
+Class Size: 0/43
+Professor: ACIBAR, MERLIE TATAD
+
+Class Info of #863:
+Course Code: GESPORT
+Section: A57
+Time: T 15:30-17:30
+	Room: ER7T
+Class Size: 0/43
+Professor: DEL ROSARIO, JHOMEL EUGENIO
+
+Class Info of #1989:
+Course Code: GESPORT
+Section: A58
+Time: T 13:00-15:00
+	Room: ER7T
+Class Size: 0/43
+Professor: LUBIS, FERDIE TAGULAO
+
+Class Info of #813:
+Course Code: GESPORT
+Section: A59
+Time: H 13:00-15:00
+	Room: ER701
+Class Size: 0/43
+Professor: AGUINALDO, JERRWIN CALIXTO
+
+Class Info of #827:
+Course Code: GESPORT
+Section: A60
+Time: F 10:00-12:00
+	Room: ER801
+Class Size: 0/43
+Professor: BAUTISTA, LETECIA CALLEJAS
+
+Class Info of #2054:
+Course Code: GESPORT
+Section: A61
+Time: W 13:00-15:00
+	Room: ER7T
+Class Size: 0/43
+Professor: SANTIAGO, ROSALINDA BARANDINO
+
+Class Info of #1990:
+Course Code: GESPORT
+Section: A62
+Time: H 10:00-12:00
+	Room: ER7T
+Class Size: 0/43
+Professor: LUBIS, FERDIE TAGULAO
+
+Class Info of #1577:
+Course Code: GESPORT
+Section: A63
+Time: W 15:30-17:30
+	Room: ER7T
+Class Size: 0/43
+Professor: DOMINGO, JOHN PAUL RANCES
+
+Class Info of #2150:
+Course Code: GESPORT
+Section: C31
+Time: T 07:30-09:30
+	Room: ER701
+Class Size: 0/35
+Professor: MARIANO, JANET SANTOS
+
+Class Info of #2151:
+Course Code: GESPORT
+Section: C32
+Time: W 07:30-09:30
+	Room: ER701
+Class Size: 0/35
+Professor: MARIANO, JANET SANTOS
+
+Class Info of #2152:
+Course Code: GESPORT
+Section: C33
+Time: H 07:30-09:30
+	Room: ER701
+Class Size: 0/35
+Professor: MARIANO, JANET SANTOS
+
+Class Info of #2153:
+Course Code: GESPORT
+Section: C34
+Time: W 10:00-12:00
+	Room: ER701
+Class Size: 0/35
+Professor: MARIANO, JANET SANTOS
+
+Class Info of #638:
+Course Code: GESPORT
+Section: C35
+Time: H 10:00-12:00
+	Room: ER7A
+Class Size: 0/35
+Professor: ORIBIANA, DIONISIO MERCADO
+
+Class Info of #1752:
+Course Code: GESPORT
+Section: C36
+Time: T 07:30-09:30
+	Room: ER1003
+Class Size: 0/35
+Professor: SAMSON, MARIJOY REGALA
+
+Class Info of #1798:
+Course Code: GESPORT
+Section: C37
+Time: H 10:00-12:00
+	Room: ER801
+Class Size: 0/35
+Professor: BAUTISTA, LETECIA CALLEJAS
+
+Class Info of #1774:
+Course Code: GESPORT
+Section: C38
+Time: M 13:00-15:00
+	Room: ER701
+Class Size: 0/35
+Professor: AGUINALDO, JERRWIN CALIXTO
+
+Class Info of #1863:
+Course Code: GESPORT
+Section: C39
+Time: H 15:30-17:30
+	Room: ER7T
+Class Size: 0/35
+Professor: DOMINGO, JOHN PAUL RANCES
+
+Class Info of #646:
+Course Code: GESPORT
+Section: C40
+Time: T 13:00-15:00
+	Room: ER7B
+Class Size: 0/35
+Professor: PANLILIO, ROLANDO MENDOZA
+
+Class Info of #1858:
+Course Code: GESPORT
+Section: C41
+Time: M 15:30-17:30
+	Room: ER7T
+Class Size: 0/35
+Professor: DEL ROSARIO, JHOMEL EUGENIO
+
+Class Info of #1964:
+Course Code: GESPORT
+Section: C42
+Time: T 07:30-09:30
+	Room: ER7T
+Class Size: 0/35
+Professor: LUBIS, FERDIE TAGULAO
+
+Class Info of #1753:
+Course Code: GESPORT
+Section: C43
+Time: F 10:00-12:00
+	Room: ER804
+Class Size: 0/35
+Professor: SAMSON, MARIJOY REGALA
+
+Class Info of #702:
+Course Code: GESPORT
+Section: C44
+Time: M 18:00-20:00
+	Room: ER7T
+Class Size: 0/35
+Professor: TOLDOYA, JACKLYN ANNE DIMATULAC
+
+Class Info of #1770:
+Course Code: GESPORT
+Section: C45
+Time: M 07:30-09:30
+	Room: ER7T
+Class Size: 0/35
+Professor: ACIBAR, MERLIE TATAD
+
+Class Info of #2947:
+Course Code: GESPORT
+Section: L81
+Time: W 15:30-17:30
+	Room: ER801
+Class Size: 0/43
+Professor: PANLILIO, ROLANDO MENDOZA
+
+Class Info of #585:
+Course Code: GESPORT
+Section: S11
+Time: H 15:30-17:30
+	Room: ER701
+Class Size: 0/43
+Professor: AGUINALDO, JERRWIN CALIXTO
+
+Class Info of #3485:
+Course Code: GESPORT
+Section: S12
+Time: T 13:00-15:00
+	Room: ER7A
+Class Size: 0/43
 Professor: RODRIGUEZ, CAROL BERGONIA
 
-Class Info of #3069:
-Course Code: GEFTWEL
-Section: L86
-Time: T 10:00-12:00
-	Room: ER804
-Class Size: 44/43
-Professor: CORDOVA, MA. SOCORRO GIGI VILLAMOR
-
-Class Info of #1624:
-Course Code: GEFTWEL
-Section: L87
-Time: W 13:00-15:00
-	Room: ER7A
-Class Size: 41/43
-Professor: CALABIO, VIRGILIA TOHOY
-
-		retrieving classes for LCFAITH...
-Class Info of #1559:
-Course Code: LCFAITH
-Section: C31
-Time: M 12:45-14:15
-	Room: AG702
-Time: W 12:45-14:15
-	Room: AG702
-Class Size: 43/43
-Professor: MACARAAN, WILLARD ENRIQUE RACELIS
-
-Class Info of #1560:
-Course Code: LCFAITH
-Section: C32
-Time: M 07:30-09:00
-	Room: LS331
-Time: W 07:30-09:00
-	Room: LS331
-Class Size: 41/43
-Professor: MACARAAN, WILLARD ENRIQUE RACELIS
-
-Class Info of #1561:
-Course Code: LCFAITH
-Section: C33
-Time: T 07:30-09:00
-	Room: AG702
-Time: H 07:30-09:00
-	Room: AG702
-Class Size: 44/43
-Professor: MACARAAN, WILLARD ENRIQUE RACELIS
-
-Class Info of #1562:
-Course Code: LCFAITH
-Section: C34
-Time: T 11:00-12:30
-	Room: LS208
-Time: H 11:00-12:30
-	Room: LS208
-Class Size: 43/43
-Professor: MACARAAN, WILLARD ENRIQUE RACELIS
-
-Class Info of #1563:
-Course Code: LCFAITH
-Section: C35
-Time: T 16:15-17:45
-	Room: AG702
-Time: H 16:15-17:45
-	Room: AG702
-Class Size: 40/43
-Professor: BAUTISTA, ROSEMARIE VINLUAN
-
-Class Info of #1564:
-Course Code: LCFAITH
-Section: C36
-Time: M 11:00-12:30
-	Room: LS333
-Time: W 11:00-12:30
-	Room: LS333
-Class Size: 43/43
-Professor: MACARAAN, WILLARD ENRIQUE RACELIS
-
-Class Info of #2614:
-Course Code: LCFAITH
-Section: C37
-Time: T 16:15-17:45
-	Room: AG708
-Time: H 16:15-17:45
-	Room: AG708
-Class Size: 42/43
-Professor: ANTONIO, GLORIA MAPANOO
-
-Class Info of #1683:
-Course Code: LCFAITH
-Section: C38
-Time: T 14:30-16:00
-	Room: LS308
-Time: H 14:30-16:00
-	Room: LS308
-Class Size: 44/43
-Professor: CELESTIAL, RONALDO ROA
-
-Class Info of #2992:
-Course Code: LCFAITH
-Section: N01
-Time: T 11:00-12:30
-	Room: SM316
-Time: H 11:00-12:30
-	Room: SM316
-Class Size: 43/43
-Professor: CAMARINES, TERESA MADOLARIA
-Remarks: FRBLK-hybrid
-
-Class Info of #2970:
-Course Code: LCFAITH
+Class Info of #3422:
+Course Code: GESPORT
 Section: S14
-Time: T 07:30-09:00
-	Room: GK203
-Time: H 07:30-09:00
-	Room: GK203
-Class Size: 39/43
-Professor: CELESTIAL, RONALDO ROA
+Time: H 18:00-21:00
+	Room: ER801
+Class Size: 0/43
+Professor: OLARTE, CHRISTOPHER POGOY
 
-Class Info of #1665:
-Course Code: LCFAITH
+Class Info of #3377:
+Course Code: GESPORT
 Section: S15
-Time: T 09:15-10:45
-	Room: GK206
-Time: H 09:15-10:45
-	Room: GK206
-Class Size: 41/43
-Professor: CELESTIAL, RONALDO ROA
+Time: W 13:00-15:00
+	Room: ER701
+Class Size: 0/43
+Professor: AGUINALDO, JERRWIN CALIXTO
 
-Class Info of #1666:
-Course Code: LCFAITH
+Class Info of #3427:
+Course Code: GESPORT
 Section: S16
-Time: T 16:15-17:45
-	Room: GK205
-Time: H 16:15-17:45
-	Room: GK205
-Class Size: 43/43
-Professor: CAMARINES, TERESA MADOLARIA
+Time: W 13:00-15:00
+	Room: ER7B
+Class Size: 0/43
+Professor: PANLILIO, ROLANDO MENDOZA
 
-Class Info of #1642:
-Course Code: LCFAITH
-Section: S17
+Class Info of #3486:
+Course Code: GESPORT
+Section: S18
+Time: H 13:00-15:00
+	Room: ER7B
+Class Size: 0/43
+Professor: RODRIGUEZ, CAROL BERGONIA
+
+Class Info of #3426:
+Course Code: GESPORT
+Section: S19
+Time: T 10:00-12:00
+	Room: ER7A
+Class Size: 0/43
+Professor: PANLILIO, ROLANDO MENDOZA
+
+Class Info of #2277:
+Course Code: GESPORT
+Section: V24
+Time: T 18:00-20:00
+	Room: ER7T
+Class Size: 0/35
+Professor: CATAPANG, JONATHAN P.
+
+Class Info of #2278:
+Course Code: GESPORT
+Section: V25
+Time: H 18:00-20:00
+	Room: ER7T
+Class Size: 0/35
+Professor: CATAPANG, JONATHAN P.
+
+Class Info of #2301:
+Course Code: GESPORT
+Section: V26
+Time: W 18:00-20:00
+	Room: ER7T
+Class Size: 0/35
+
+		retrieving classes for CCAPDEV...
+Class Info of #1544:
+Course Code: CCAPDEV
+Section: S11
+Time: M 11:00-12:30
+	Room: GK304B
+Time: W 11:00-12:30
+	Room: GK304B
+Class Size: 0/40
+Professor: ANTIOQUIA, ARREN MATTHEW CAPUCHINO
+
+Class Info of #606:
+Course Code: CCAPDEV
+Section: S12
+Time: M 14:30-16:00
+	Room: GK304B
+Time: W 14:30-16:00
+	Room: GK304B
+Class Size: 0/35
+Professor: CHUA, UNISSE CHUA
+
+Class Info of #1543:
+Course Code: CCAPDEV
+Section: S14
 Time: T 11:00-12:30
-	Room: GK211
+	Room: GK304B
 Time: H 11:00-12:30
+	Room: GK304B
+Class Size: 0/35
+
+Class Info of #1542:
+Course Code: CCAPDEV
+Section: S15
+Time: T 14:30-16:00
+	Room: GK304B
+Time: H 14:30-16:00
+	Room: GK304B
+Class Size: 0/35
+
+		retrieving classes for ISBUSPE...
+Class Info of #3499:
+Course Code: ISBUSPE
+Section: S13
+Time: T 07:30-09:00
 	Room: GK211
-Class Size: 44/43
-Professor: BAUTISTA, ROSEMARIE VINLUAN
+Time: H 07:30-09:00
+	Room: GK211
+Class Size: 0/43
+Professor: SIPIN, GLENN LUGUE
+
+		retrieving classes for ISINFOM...
+Class Info of #3417:
+Course Code: ISINFOM
+Section: S13
+Time: T 09:15-10:45
+	Room: GK304A
+Time: H 09:15-10:45
+	Room: GK304A
+Class Size: 0/20
+Professor: MALABANAN, OLIVER ARCIAGA
+
+Class Info of #3418:
+Course Code: ISINFOM
+Section: S14
+Time: T 11:00-12:30
+	Room: GK304A
+Time: H 11:00-12:30
+	Room: GK304A
+Class Size: 0/20
+Professor: MALABANAN, OLIVER ARCIAGA
+
+		retrieving classes for ITISHCI...
+Class Info of #2664:
+Course Code: ITISHCI
+Section: S13
+Time: M 12:45-14:15
+	Room: GK210
+Time: W 12:45-14:15
+	Room: GK210
+Class Size: 0/25
+Professor: ARCILLA, MARY JANE BACONG
+
+Class Info of #2665:
+Course Code: ITISHCI
+Section: S14
+Time: M 09:15-10:45
+	Room: GK209
+Time: W 09:15-10:45
+	Room: GK209
+Class Size: 0/43
+Professor: ARCILLA, MARY JANE BACONG
+
+		retrieving classes for LCLSTWO...
+Class Info of #2117:
+Course Code: LCLSTWO
+Section: A51
+Time: T 07:30-09:30
+	Room: SM409
+Class Size: 0/43
+
+Class Info of #2118:
+Course Code: LCLSTWO
+Section: A52
+Time: T 07:30-09:30
+	Room: SM409
+Class Size: 0/43
+
+Class Info of #2119:
+Course Code: LCLSTWO
+Section: A53
+Time: H 07:30-09:30
+	Room: SM409
+Class Size: 0/43
+
+Class Info of #2120:
+Course Code: LCLSTWO
+Section: A54
+Time: H 07:30-09:30
+	Room: SM409
+Class Size: 0/43
+
+Class Info of #2121:
+Course Code: LCLSTWO
+Section: A55
+Time: M 16:15-18:15
+	Room: AG902
+Class Size: 0/43
+
+Class Info of #2122:
+Course Code: LCLSTWO
+Section: A56
+Time: M 16:15-18:15
+	Room: AG902
+Class Size: 0/43
+
+Class Info of #2123:
+Course Code: LCLSTWO
+Section: A57
+Time: W 16:15-18:15
+	Room: AG902
+Class Size: 0/43
+
+Class Info of #2124:
+Course Code: LCLSTWO
+Section: A58
+Time: W 16:15-18:15
+	Room: AG902
+Class Size: 35/43
+
+Class Info of #618:
+Course Code: LCLSTWO
+Section: A59
+Time: M 14:30-16:30
+	Room: AG1601
+Class Size: 0/30
+
+Class Info of #2125:
+Course Code: LCLSTWO
+Section: A60
+Time: M 14:30-16:30
+	Room: AG1601
+Class Size: 0/30
+
+Class Info of #2126:
+Course Code: LCLSTWO
+Section: A61
+Time: W 14:30-16:30
+	Room: AG1601
+Class Size: 0/30
+
+Class Info of #2127:
+Course Code: LCLSTWO
+Section: A62
+Time: W 14:30-16:30
+	Room: AG1601
+Class Size: 0/30
+
+Class Info of #2128:
+Course Code: LCLSTWO
+Section: A63
+Time: M 10:00-12:00
+	Room: AG1601
+Class Size: 0/30
+
+Class Info of #2129:
+Course Code: LCLSTWO
+Section: A64
+Time: M 10:00-12:00
+	Room: AG1601
+Class Size: 0/30
+
+Class Info of #2130:
+Course Code: LCLSTWO
+Section: A65
+Time: W 10:00-12:00
+	Room: AG1601
+Class Size: 0/30
+
+Class Info of #2131:
+Course Code: LCLSTWO
+Section: A66
+Time: W 10:00-12:00
+	Room: AG1601
+Class Size: 0/30
+
+Class Info of #2132:
+Course Code: LCLSTWO
+Section: A67
+Time: M 07:30-09:30
+	Room: AG1601
+Class Size: 0/30
+
+Class Info of #2133:
+Course Code: LCLSTWO
+Section: A68
+Time: F 10:00-12:00
+	Room: AG1701
+Class Size: 0/20
+
+Class Info of #2134:
+Course Code: LCLSTWO
+Section: A69
+Time: F 10:00-12:00
+	Room: AG1702
+Class Size: 22/20
+
+Class Info of #757:
+Course Code: LCLSTWO
+Section: C31
+Time: F 07:30-09:30
+	Room: LS109
+Class Size: 0/35
+
+Class Info of #758:
+Course Code: LCLSTWO
+Section: C32
+Time: F 07:30-09:30
+	Room: LS109
+Class Size: 0/35
+
+Class Info of #759:
+Course Code: LCLSTWO
+Section: C33
+Time: F 10:00-12:00
+	Room: LS109
+Class Size: 0/35
+
+Class Info of #760:
+Course Code: LCLSTWO
+Section: C34
+Time: F 10:00-12:00
+	Room: LS109
+Class Size: 0/35
+
+Class Info of #761:
+Course Code: LCLSTWO
+Section: C35
+Time: F 07:30-09:30
+	Room: LS110
+Class Size: 0/35
+
+Class Info of #762:
+Course Code: LCLSTWO
+Section: C36
+Time: F 10:00-12:00
+	Room: LS110
+Class Size: 0/35
+
+Class Info of #763:
+Course Code: LCLSTWO
+Section: C37
+Time: F 10:00-12:00
+	Room: LS110
+Class Size: 0/35
+
+Class Info of #2971:
+Course Code: LCLSTWO
+Section: L81
+Time: W 13:00-15:00
+	Room: AG1705
+Class Size: 0/43
+
+Class Info of #2972:
+Course Code: LCLSTWO
+Section: L82
+Time: H 08:00-10:00
+	Room: AG1705
+Class Size: 0/43
+
+Class Info of #679:
+Course Code: LCLSTWO
+Section: S11
+Time: T 15:30-17:30
+	Room: GK208
+Class Size: 0/43
+
+Class Info of #680:
+Course Code: LCLSTWO
+Section: S12
+Time: H 13:00-15:00
+	Room: GK210
+Class Size: 0/43
+
+Class Info of #685:
+Course Code: LCLSTWO
+Section: S13
+Time: W 16:15-18:15
+	Room: GK207
+Class Size: 0/43
+
+Class Info of #681:
+Course Code: LCLSTWO
+Section: S14
+Time: T 15:30-17:30
+	Room: GK208
+Class Size: 0/43
+
+Class Info of #682:
+Course Code: LCLSTWO
+Section: S15
+Time: M 13:00-15:00
+	Room: GK207
+Class Size: 0/43
+
+Class Info of #684:
+Course Code: LCLSTWO
+Section: S16
+Time: H 13:00-15:00
+	Room: GK210
+Class Size: 0/43
+
+Class Info of #683:
+Course Code: LCLSTWO
+Section: S18
+Time: M 14:30-16:30
+	Room: GK203
+Class Size: 0/43
 

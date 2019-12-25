@@ -11,6 +11,7 @@ public class SomeDriver {
 		ChromeCrawler cc = new ChromeCrawler();
 		CourseOfferingScraper cos = new CourseOfferingScraper();
 		ScheduleMaker sm = new ScheduleMaker();
+		WeekSchedule sample = new WeekSchedule("testing");
 		
 		try {
 			BufferedReader brFlow = new BufferedReader(new InputStreamReader(new FileInputStream("flowchart1Term.txt")));
@@ -27,16 +28,16 @@ public class SomeDriver {
 			cc.close();
 			cos.dispCOffers();
 			cos.writeTo("logtext1.txt");
-			WeekSchedule sampleWeekSched = sm.generateOneSched(cos.getCourseOffers());
-			System.out.println(sampleWeekSched);
+			sm.generateMultiSched(cos.getCourseOffers(), 0, sample);
+			sm.dispScheds();
+//			WeekSchedule sampleWeekSched = sm.generateOneSched(cos.getCourseOffers());
+//			System.out.println(sampleWeekSched);
 		} catch (NoSuchElementException e) {
 			System.out.println("NSEE! site's down (2am) or smth :(");
 		} catch (FileNotFoundException e) {
 			System.out.println("FNFE! can't find file: " + e.getMessage());
 		} catch (IOException e) {
 			System.out.println("IOE! something wrong here: " + e.getMessage());
-		} finally {
-			cc.close();
 		}
 		
 		// enlistment; can't develop on this end without access yet; testing will be done in months' time

@@ -77,4 +77,9 @@ public class ScheduleMaker {
 			generateMultiSched(courseOff, step+1, curr);
 		}
 	}
+	
+	public void dispScheds() {
+		for (int i = 0; i < schedList.size(); i++)
+			System.out.println(schedList.get(i));
+	}
 }
