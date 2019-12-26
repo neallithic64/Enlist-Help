@@ -136,6 +136,44 @@ public class CourseOfferingScraper {
 		}
 	}
 	
+	/** Overloading parseList() to specify the kind of section needed to be inputted
+	 * @param listRows
+	 * @param secType String containing the section type needed (e.g.: S, C, N, E, etc.)
+	 */
+	public void parseList(List<String> listRows, String secType) {
+		String[] tempStr;
+		SectionInfo tempSecIn;
+		courseOffers.add(new ArrayList<>());
+		int lastIndex;
+		boolean contParse = true;
+		
+		for (int i = 1; i < listRows.size() && contParse; i++) {
+			lastIndex = courseOffers.size()-1;
+			if (!listRows.get(i).contains(",")) { // checking if NOT a prof name
+				tempStr = listRows.get(i).split(" ");
+				if (tempStr[2].charAt(0) == 'X') { // checking if NOT a laguna campus
+					contParse = false;
+				} else {
+					tempSecIn = new SectionInfo(listRows.get(i));
+					if (tempSecIn.getSection().contains(secType)) {
+						if (tempStr.length >= 10) { // new SectionInfo
+							courseOffers.get(lastIndex).add(tempSecIn);
+							courseOffers.get(lastIndex).get(courseOffers.get(lastIndex).size()-1).fixRooms();
+						} else if (tempStr.length == 9) {
+							System.out.println("missing parameter, skipping...");
+						} else if (tempStr.length <= 5) { // append to last section!
+							courseOffers.get(lastIndex).get(courseOffers.get(lastIndex).size()-1).appendDays(tempStr[0]);
+							courseOffers.get(lastIndex).get(courseOffers.get(lastIndex).size()-1).appendRooms(tempStr[4]);
+						}
+					}
+				}
+			} else { // prof name found! add to last class!
+				if (courseOffers.get(lastIndex).size() > 0)
+					courseOffers.get(lastIndex).get(courseOffers.get(lastIndex).size()-1).setProfessor(listRows.get(i));
+			}
+		}
+	}
+	
 	public LocalTime formatTime(String sTime) {
 		return LocalTime.of(Integer.parseInt(sTime.substring(0, 2)), Integer.parseInt(sTime.substring(2)));
 	}

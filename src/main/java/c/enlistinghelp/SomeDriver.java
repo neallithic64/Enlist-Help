@@ -21,7 +21,7 @@ public class SomeDriver {
 			if (!samp1.isEmpty())
 				for (int i = 0; i < samp1.size(); i++)
 					for (String get : samp1.get(i))
-						cos.parseList(cc.coScrape(get));
+						cos.parseList(cc.coScrape(get), "S");
 			brFlow.close();
 			
 			cc.pageWait(2);

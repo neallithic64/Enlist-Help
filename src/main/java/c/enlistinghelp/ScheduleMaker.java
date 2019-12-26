@@ -73,13 +73,13 @@ public class ScheduleMaker {
 		if (step == courseOff.size())
 			schedList.add(curr);
 		else for (int i = 0; i < courseOff.get(step).size(); i++) {
-			curr.addClass(courseOff.get(i).get(step)); // not sure if the indices are right lmao
+			curr.addClass(courseOff.get(step).get(i)); // not sure if the indices are right lmao
 			generateMultiSched(courseOff, step+1, curr);
 		}
 	}
 	
 	public void dispScheds() {
 		for (int i = 0; i < schedList.size(); i++)
-			System.out.println(schedList.get(i));
+			System.out.println(schedList.get(i).toString(true));
 	}
 }

@@ -19,13 +19,14 @@ public class SectionInfo {
 	public SectionInfo(String data) {
 		String[] arrInfo = data.split(" ");
 		rooms = new String[] {""};
+		classNmbr = Integer.parseInt(arrInfo[0]);
+		courseCode = arrInfo[1];
+		section = arrInfo[2];
+		days = arrInfo[3].toCharArray();
+		startTime = LocalTime.of(Integer.parseInt(arrInfo[4].substring(0, 2)), Integer.parseInt(arrInfo[4].substring(2)));
+		endTime = LocalTime.of(Integer.parseInt(arrInfo[6].substring(0, 2)), Integer.parseInt(arrInfo[6].substring(2)));
+		
 		if (arrInfo.length >= 10) {
-			classNmbr = Integer.parseInt(arrInfo[0]);
-			courseCode = arrInfo[1];
-			section = arrInfo[2];
-			days = arrInfo[3].toCharArray();
-			startTime = LocalTime.of(Integer.parseInt(arrInfo[4].substring(0, 2)), Integer.parseInt(arrInfo[4].substring(2)));
-			endTime = LocalTime.of(Integer.parseInt(arrInfo[6].substring(0, 2)), Integer.parseInt(arrInfo[6].substring(2)));
 			rooms[0] = arrInfo[7];
 			capacity = Integer.parseInt(arrInfo[8]);
 			size = Integer.parseInt(arrInfo[9]);
@@ -138,5 +139,11 @@ public class SectionInfo {
 		if (remarks != null)
 			strData += "Remarks: " + remarks + "\n";
 		return strData;
+	}
+	
+	public String toString(boolean condensed) {
+		if (condensed) {
+			return courseCode + " : " + section + "\n";
+		} else return toString();
 	}
 }

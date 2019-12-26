@@ -77,4 +77,11 @@ public class WeekSchedule {
 		strData += "-----------------------------------\n";
 		return strData;
 	}
+	
+	public String toString(boolean condensed) {
+		String strData = "";
+		for (int i = 0; i < classes.size(); i++)
+			strData += classes.get(i).toString(condensed);
+		return strData;
+	}
 }
