@@ -28,8 +28,8 @@ public class SomeDriver {
 			cc.close();
 			cos.dispCOffers();
 			cos.writeTo("logtext1.txt");
-			sm.generateMultiSched(cos.getCourseOffers(), 0, sample);
-			sm.dispScheds();
+			sm.generateMultiSched(cos.getCourseOffers(), 0, new WeekSchedule("testing"));
+//			sm.dispWriteScheds();
 //			WeekSchedule sampleWeekSched = sm.generateOneSched(cos.getCourseOffers());
 //			System.out.println(sampleWeekSched);
 		} catch (NoSuchElementException e) {

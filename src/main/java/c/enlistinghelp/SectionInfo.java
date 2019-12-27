@@ -87,7 +87,7 @@ public class SectionInfo {
 			appendRooms(rooms[0]);
 	}
 	
-	/* algo (basing from CCINFOM):
+	/* algo (basing from the CCINFOM case):
 	- case 1: tempStr[0] (day) has already exists in last SectionInfo entry
 		- concatenate new rooms
 	- case 2: tempStr[0] (day) doesn't yet exist in last SectionInfo entry
@@ -143,7 +143,7 @@ public class SectionInfo {
 	
 	public String toString(boolean condensed) {
 		if (condensed) {
-			return courseCode + " : " + section + "\n";
+			return courseCode + "-" + section;
 		} else return toString();
 	}
 }

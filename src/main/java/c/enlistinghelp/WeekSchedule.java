@@ -52,7 +52,6 @@ public class WeekSchedule {
 	public void addClass(SectionInfo newClass) {
 		if (checkOverlap(newClass) && checkUniqueAll(newClass))
 			classes.add(newClass);
-		else System.out.println("input class is rejected!");
 	}
 	
 	/** Additional auxiliary method to sort the sections by day, but will be left unfinished
@@ -79,9 +78,11 @@ public class WeekSchedule {
 	}
 	
 	public String toString(boolean condensed) {
-		String strData = "";
-		for (int i = 0; i < classes.size(); i++)
-			strData += classes.get(i).toString(condensed);
+		int i;
+		String strData = name + ",";
+		for (i = 0; i < classes.size()-1; i++)
+			strData += classes.get(i).toString(condensed) + ",";
+		strData += classes.get(i).toString(condensed) + "\n";
 		return strData;
 	}
 }
